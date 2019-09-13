@@ -6,14 +6,14 @@
         versionCode = "37100"
         android-versionCode="37100"
         version   = "3.7.1">
-    <name>Moodle</name>
+    <name>DracoLMS Mobile</name>
 
     <description>
-        Moodle official app
+        DracoLMS Mobile
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+        DracoLMS Mobile Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
