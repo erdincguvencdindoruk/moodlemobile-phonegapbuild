@@ -8,7 +8,7 @@
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
     "cache_update_frequency_rarely": 43200000,
-    "default_lang": "en",
+    "default_lang": "tr",
     "languages": {
         "ar": "عربي",
         "bg": "Български",
@@ -65,8 +65,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "www.dracotest.com/demo001",
-    "sitename": "",
+    "siteurl": "http://www.dracotest.com/demo001/",
+    "sitename": "Draco LMS",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
