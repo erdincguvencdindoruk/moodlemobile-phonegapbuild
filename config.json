@@ -74,7 +74,7 @@
     "statusbarlighttext": false,
     "statusbarbgios": "#0A458B",
     "statusbarlighttextios": true,
-    "statusbarbgandroid": "#df7310",
+    "statusbarbgandroid": "#0A458B",
     "statusbarlighttextandroid": true,
     "statusbarbgremotetheme": "#000000",
     "statusbarlighttextremotetheme": true,
