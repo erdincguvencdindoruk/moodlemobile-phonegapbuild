@@ -57,8 +57,6 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-    },
     "font_sizes": [
         62.5,
         75.89,
