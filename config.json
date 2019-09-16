@@ -65,7 +65,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://www.dracotest.com/demo001/",
+	"presets" : {"url": "http://www.dracotest.com/demo001", "username": ""},
+    "siteurl": "http://www.dracotest.com/demo001",
     "sitename": "Draco LMS",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
