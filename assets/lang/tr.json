@@ -1260,6 +1260,7 @@
     "core.phone": "Telefon",
     "core.pictureof": "{{$a}} 'ın resmi",
     "core.previous": "Önceki",
+	"core.pulltorefresh": "Yenilemek için çek",
     "core.question.answer": "Cevap",
     "core.question.answersaved": "Cevap kaydedildi",
     "core.question.certainty": "Kesinlik",
