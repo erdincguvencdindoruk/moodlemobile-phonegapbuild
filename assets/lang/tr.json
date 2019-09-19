@@ -49,7 +49,7 @@
     "addon.calendar.allday": "Tüm gün",
     "addon.calendar.calendar": "Takvim",
 	"addon.calendar.calendarevent": "Takvim etkinliği",
-    "addon.calendar.calendarevents": "Takvi etkinlikleri",
+    "addon.calendar.calendarevents": "Takvim etkinlikleri",
     "addon.calendar.confirmeventdelete": "\"{{$a}}\"  etkinliğini silmek istediğinizden emin misiniz?",
     "addon.calendar.confirmeventseriesdelete": "\"{{$a.name}}\" etkinliği tekrarlı etkinliklerin bir parçasıdır. Sadece bu etkinliği mi yoksa serideki tüm {{$a.count}} etkinliği mi silmek istersiniz?",
     "addon.calendar.daynext": "Sonraki gün",
