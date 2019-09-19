@@ -606,6 +606,7 @@
     "addon.mod_scorm.completed": "Tamamlandı",
     "addon.mod_scorm.contents": "İçerik",
     "addon.mod_scorm.enter": "Giriş",
+	"addon.mod_scorm.errorinvalidversion": "Scorm 2004 eğitimler sadece tarayıcıda açılabilir.",
     "addon.mod_scorm.exceededmaxattempts": "En fazla uygulama sayısına ulaştınız.",
     "addon.mod_scorm.failed": "Hata oluştu",
     "addon.mod_scorm.firstattempt": "İlk uygulama",
