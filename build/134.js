@@ -1,1 +1,1061 @@
-webpackJsonp([134],{2088:function(n,l,e){"use strict";function t(n){return O._42(0,[(n()(),O._16(0,0,null,null,0,"img",[["alt",""],["class","core-module-icon"],["role","presentation"]],[[8,"src",4]],null,null,null,null))],null,function(n,l){n(l,0,0,O._19(1,"",l.component.event.moduleIcon,""))})}function u(n){return O._42(0,[(n()(),O._16(0,0,null,null,1,"core-icon",[["item-start",""]],null,null,null,sn.b,sn.a)),O._15(1,704512,null,0,dn.a,[O.p,fn.a],{name:[0,"name"]},null)],function(n,l){n(l,1,0,l.component.event.icon)},null)}function a(n){return O._42(0,[(n()(),O._16(0,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(1,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null)],function(n,l){n(l,1,0,l.component.event.name)},null)}function i(n){return O._42(0,[(n()(),O._16(0,0,null,null,8,"ion-card",[["class","core-warning-card"],["icon-start",""]],null,null,null,null,null)),O._15(1,16384,null,0,xn.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n            "])),(n()(),O._16(3,0,null,null,1,"ion-icon",[["name","warning"],["role","img"]],[[2,"hide",null]],null,null,null,null)),O._15(4,147456,null,0,Pn.a,[fn.a,O.p,O.K],{name:[0,"name"]},null),(n()(),O._40(5,null,[" ","\n        "])),O._32(131072,On.a,[vn.a,O.i]),O._33(7,{$a:0}),O._32(131072,On.a,[vn.a,O.i])],function(n,l){n(l,4,0,"warning")},function(n,l){n(l,3,0,O._29(l,4)._hidden);n(l,5,0,O._41(l,5,0,O._29(l,8).transform("core.hasdatatosync",n(l,7,0,O._41(l,5,0,O._29(l,6).transform("addon.calendar.calendarevent"))))))})}function o(n){return O._42(0,[(n()(),O._16(0,0,null,null,0,"img",[["alt",""],["class","core-module-icon"],["item-start",""],["role","presentation"]],[[8,"src",4]],null,null,null,null))],null,function(n,l){n(l,0,0,O._19(1,"",l.component.event.moduleIcon,""))})}function r(n){return O._42(0,[(n()(),O._16(0,0,null,null,1,"core-icon",[["item-start",""]],null,null,null,sn.b,sn.a)),O._15(1,704512,null,0,dn.a,[O.p,fn.a],{name:[0,"name"]},null)],function(n,l){n(l,1,0,l.component.event.icon)},null)}function c(n){return O._42(0,[(n()(),O._16(0,0,null,null,6,"ion-note",[["item-end",""]],null,null,null,null,null)),O._15(1,16384,null,0,Un.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n                        "])),(n()(),O._16(3,0,null,null,1,"ion-icon",[["name","trash"],["role","img"]],[[2,"hide",null]],null,null,null,null)),O._15(4,147456,null,0,Pn.a,[fn.a,O.p,O.K],{name:[0,"name"]},null),(n()(),O._40(5,null,[" ","\n                    "])),O._32(131072,On.a,[vn.a,O.i])],function(n,l){n(l,4,0,"trash")},function(n,l){n(l,3,0,O._29(l,4)._hidden);n(l,5,0,O._41(l,5,0,O._29(l,6).transform("core.deletedoffline")))})}function _(n){return O._42(0,[(n()(),O._16(0,0,null,null,23,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,4,{contentLabel:0}),O._37(603979776,5,{_buttons:1}),O._37(603979776,6,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,0,1,null,o)),O._15(8,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,0,1,null,r)),O._15(11,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(13,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(14,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(17,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),O._16(18,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(19,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,4,1,null,c)),O._15(22,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                "]))],function(n,l){var e=l.component;n(l,8,0,e.event.moduleIcon);n(l,11,0,e.event.icon&&!e.event.moduleIcon);n(l,19,0,e.event.name);n(l,22,0,e.event.deleted)},function(n,l){n(l,14,0,O._41(l,14,0,O._29(l,15).transform("addon.calendar.eventname")))})}function s(n){return O._42(0,[(n()(),O._16(0,0,null,null,6,"ion-note",[["item-end",""]],null,null,null,null,null)),O._15(1,16384,null,0,Un.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n                        "])),(n()(),O._16(3,0,null,null,1,"ion-icon",[["name","trash"],["role","img"]],[[2,"hide",null]],null,null,null,null)),O._15(4,147456,null,0,Pn.a,[fn.a,O.p,O.K],{name:[0,"name"]},null),(n()(),O._40(5,null,[" ","\n                    "])),O._32(131072,On.a,[vn.a,O.i])],function(n,l){n(l,4,0,"trash")},function(n,l){n(l,3,0,O._29(l,4)._hidden);n(l,5,0,O._41(l,5,0,O._29(l,6).transform("core.deletedoffline")))})}function d(n){return O._42(0,[(n()(),O._16(0,0,null,null,15,"a",[["capture","true"],["class","item item-block"],["core-link",""],["ion-item",""],["text-wrap",""]],[[8,"href",4]],null,null,Cn.b,Cn.a)),O._15(1,81920,null,0,Sn.a,[O.p,H.a,pn.a,$.a,gn.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],V.a],{capture:[0,"capture"]},null),O._15(2,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,13,{contentLabel:0}),O._37(603979776,14,{_buttons:1}),O._37(603979776,15,{_icons:1}),O._15(6,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(8,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(9,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(12,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),O._16(13,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(14,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,2,["\n                "]))],function(n,l){var e=l.component;n(l,1,0,"true");n(l,14,0,e.courseName)},function(n,l){n(l,0,0,l.component.courseUrl);n(l,9,0,O._41(l,9,0,O._29(l,10).transform("core.course")))})}function f(n){return O._42(0,[(n()(),O._16(0,0,null,null,13,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,16,{contentLabel:0}),O._37(603979776,17,{_buttons:1}),O._37(603979776,18,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(8,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(11,0,null,2,1,"p",[],null,null,null,null,null)),(n()(),O._40(12,null,["",""])),(n()(),O._40(-1,2,["\n                "]))],null,function(n,l){var e=l.component;n(l,8,0,O._41(l,8,0,O._29(l,9).transform("core.group")));n(l,12,0,e.groupName)})}function m(n){return O._42(0,[(n()(),O._16(0,0,null,null,14,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,19,{contentLabel:0}),O._37(603979776,20,{_buttons:1}),O._37(603979776,21,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(8,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),O._16(12,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(13,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,2,["\n                "]))],function(n,l){n(l,13,0,l.component.categoryPath)},function(n,l){n(l,8,0,O._41(l,8,0,O._29(l,9).transform("core.category")))})}function v(n){return O._42(0,[(n()(),O._16(0,0,null,null,16,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,22,{contentLabel:0}),O._37(603979776,23,{_buttons:1}),O._37(603979776,24,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(8,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(11,0,null,2,4,"p",[],null,null,null,null,null)),(n()(),O._40(-1,null,["\n                        "])),(n()(),O._16(13,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(14,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,null,["\n                    "])),(n()(),O._40(-1,2,["\n                "]))],function(n,l){n(l,14,0,l.component.event.description)},function(n,l){n(l,8,0,O._41(l,8,0,O._29(l,9).transform("core.description")))})}function h(n){return O._42(0,[(n()(),O._16(0,0,null,null,20,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,25,{contentLabel:0}),O._37(603979776,26,{_buttons:1}),O._37(603979776,27,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(8,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(11,0,null,2,8,"p",[],null,null,null,null,null)),(n()(),O._40(-1,null,["\n                        "])),(n()(),O._16(13,0,null,null,5,"a",[["auto-login","no"],["core-link",""]],[[8,"href",4]],null,null,null,null)),O._15(14,81920,null,0,Sn.a,[O.p,H.a,pn.a,$.a,gn.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],V.a],null,null),(n()(),O._40(-1,null,["\n                            "])),(n()(),O._16(16,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(17,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,null,["\n                        "])),(n()(),O._40(-1,null,["\n                    "])),(n()(),O._40(-1,2,["\n                "]))],function(n,l){var e=l.component;n(l,14,0);n(l,17,0,e.event.location)},function(n,l){var e=l.component;n(l,8,0,O._41(l,8,0,O._29(l,9).transform("core.location")));n(l,13,0,e.event.encodedLocation)})}function p(n){return O._42(0,[(n()(),O._16(0,0,null,null,12,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,28,{contentLabel:0}),O._37(603979776,29,{_buttons:1}),O._37(603979776,30,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(7,0,null,2,4,"a",[["block",""],["capture","true"],["color","primary"],["core-link",""],["ion-button",""]],[[8,"href",4]],null,null,Mn.b,Mn.a)),O._15(8,81920,null,0,Sn.a,[O.p,H.a,pn.a,$.a,gn.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],V.a],{capture:[0,"capture"]},null),O._15(9,1097728,[[29,4]],0,Wn.a,[[8,""],fn.a,O.p,O.K],{color:[0,"color"],block:[1,"block"]},null),(n()(),O._40(10,0,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                "]))],function(n,l){n(l,8,0,"true");n(l,9,0,"primary","")},function(n,l){n(l,7,0,l.component.moduleUrl);n(l,10,0,O._41(l,10,0,O._29(l,11).transform("addon.calendar.gotoactivity")))})}function g(n){return O._42(0,[(n()(),O._16(0,0,null,null,58,"ion-card-content",[],null,null,null,null,null)),O._15(1,16384,null,0,An.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,_)),O._15(4,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._16(6,0,null,null,17,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(7,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,7,{contentLabel:0}),O._37(603979776,8,{_buttons:1}),O._37(603979776,9,{_icons:1}),O._15(11,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(13,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(14,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(17,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),O._16(18,0,null,null,1,"core-format-text",[],null,null,null,null,null)),O._15(19,540672,null,0,mn.a,[O.p,$.a,H.a,V.a,vn.a,hn.a,pn.a,gn.a,bn.a,In.a,A.a,yn.a,[2,En.a],[2,Tn.a],[2,q.a],kn.a,R.a],{text:[0,"text"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,4,1,null,s)),O._15(22,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                "])),(n()(),O._40(-1,null,["\n                "])),(n()(),O._16(25,0,null,null,14,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(26,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,10,{contentLabel:0}),O._37(603979776,11,{_buttons:1}),O._37(603979776,12,{_icons:1}),O._15(30,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(32,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(33,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(36,0,null,2,2,"p",[],null,null,null,null,null)),(n()(),O._40(37,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                "])),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,d)),O._15(42,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,f)),O._15(45,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,m)),O._15(48,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,v)),O._15(51,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,h)),O._15(54,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,p)),O._15(57,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n            "]))],function(n,l){var e=l.component;n(l,4,0,e.isSplitViewOn);n(l,19,0,e.event.formattedtime);n(l,22,0,!e.isSplitViewOn&&e.event.deleted);n(l,42,0,e.courseName);n(l,45,0,e.groupName);n(l,48,0,e.categoryPath);n(l,51,0,e.event.description);n(l,54,0,e.event.location);n(l,57,0,e.moduleUrl)},function(n,l){var e=l.component;n(l,14,0,O._41(l,14,0,O._29(l,15).transform("addon.calendar.when")));n(l,33,0,O._41(l,33,0,O._29(l,34).transform("addon.calendar.eventtype")));n(l,37,0,O._41(l,37,0,O._29(l,38).transform("addon.calendar.type"+e.event.formattedType)))})}function b(n){return O._42(0,[(n()(),O._16(0,0,null,null,4,"p",[],null,null,null,null,null)),(n()(),O._40(1,null,["",""])),O._34(2,1),O._33(3,{$a:0}),O._32(131072,On.a,[vn.a,O.i])],null,function(n,l){var e=l.component;n(l,1,0,O._41(l,1,0,O._29(l,4).transform("core.defaultvalue",n(l,3,0,O._41(l,1,0,n(l,2,0,O._29(l.parent.parent.parent.parent,0),1e3*(e.event.timestart-e.defaultTime)))))))})}function I(n){return O._42(0,[(n()(),O._16(0,0,null,null,2,"p",[],null,null,null,null,null)),(n()(),O._40(1,null,["",""])),O._34(2,1)],null,function(n,l){n(l,1,0,O._41(l,1,0,n(l,2,0,O._29(l.parent.parent.parent.parent,0),1e3*l.parent.parent.context.$implicit.time)))})}function y(n){return O._42(0,[(n()(),O._16(0,0,null,null,6,"button",[["clear","true"],["icon-only",""],["ion-button",""],["item-end",""]],[[1,"aria-label",0]],[[null,"click"]],function(n,l,e){var t=!0;if("click"===l){t=!1!==n.component.cancelNotification(n.parent.parent.context.$implicit.id,e)&&t}return t},Mn.b,Mn.a)),O._15(1,1097728,[[35,4]],0,Wn.a,[[8,""],fn.a,O.p,O.K],{clear:[0,"clear"]},null),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,0,["\n                        "])),(n()(),O._16(4,0,null,0,1,"ion-icon",[["color","danger"],["name","trash"],["role","img"]],[[2,"hide",null]],null,null,null,null)),O._15(5,147456,null,0,Pn.a,[fn.a,O.p,O.K],{color:[0,"color"],name:[1,"name"]},null),(n()(),O._40(-1,0,["\n                    "]))],function(n,l){n(l,1,0,"true");n(l,5,0,"danger","trash")},function(n,l){n(l,0,0,O._41(l,0,0,O._29(l,2).transform("core.delete")));n(l,4,0,O._29(l,5)._hidden)})}function E(n){return O._42(0,[(n()(),O._16(0,0,null,null,15,"ion-item",[["class","item item-block"],["text-wrap",""]],[[2,"item-dimmed",null]],null,null,Cn.b,Cn.a)),O._15(1,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,34,{contentLabel:0}),O._37(603979776,35,{_buttons:1}),O._37(603979776,36,{_icons:1}),O._15(5,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,2,1,null,b)),O._15(8,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,2,1,null,I)),O._15(11,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._11(16777216,null,4,1,null,y)),O._15(14,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,2,["\n                "]))],function(n,l){var e=l.component;n(l,8,0,-1==l.parent.context.$implicit.time);n(l,11,0,l.parent.context.$implicit.time>0);n(l,14,0,(-1==l.parent.context.$implicit.time?e.event.timestart-e.defaultTime:l.parent.context.$implicit.time)>e.currentTime)},function(n,l){var e=l.component;n(l,0,0,(-1==l.parent.context.$implicit.time?e.event.timestart-e.defaultTime:l.parent.context.$implicit.time)<=e.currentTime)})}function T(n){return O._42(0,[(n()(),O._16(0,0,null,null,4,null,null,null,null,null,null,null)),(n()(),O._40(-1,null,["\n                "])),(n()(),O._11(16777216,null,null,1,null,E)),O._15(3,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n            "]))],function(n,l){n(l,3,0,l.context.$implicit.time>0||l.component.defaultTime>0)},null)}function k(n){return O._42(0,[(n()(),O._16(0,0,null,null,36,null,null,null,null,null,null,null)),(n()(),O._40(-1,null,["\n                "])),(n()(),O._16(2,0,null,null,20,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(3,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,37,{contentLabel:0}),O._37(603979776,38,{_buttons:1}),O._37(603979776,39,{_icons:1}),O._15(7,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(9,0,null,1,4,"ion-label",[["stacked",""]],null,null,null,null,null)),O._15(10,16384,[[37,4]],0,Rn.a,[fn.a,O.p,O.K,[8,null],[8,""],[8,null],[8,null]],null,null),(n()(),O._16(11,0,null,null,2,"h2",[],null,null,null,null,null)),(n()(),O._40(12,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(15,0,null,3,6,"ion-datetime",[],[[2,"datetime-disabled",null],[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"ngModelChange"],[null,"click"],[null,"keyup.space"]],function(n,l,e){var t=!0,u=n.component;if("click"===l){t=!1!==O._29(n,16)._click(e)&&t}if("keyup.space"===l){t=!1!==O._29(n,16)._keyup()&&t}if("ngModelChange"===l){t=!1!==(u.notificationTimeText=e)&&t}return t},Hn.b,Hn.a)),O._15(16,1228800,null,0,Vn.a,[wn.a,fn.a,O.p,O.K,[2,Dn.a],[2,$n.a]],{min:[0,"min"],max:[1,"max"],displayFormat:[2,"displayFormat"],placeholder:[3,"placeholder"]},null),O._32(131072,On.a,[vn.a,O.i]),O._35(1024,null,Fn.l,function(n){return[n]},[Vn.a]),O._15(19,671744,null,0,Fn.q,[[8,null],[8,null],[8,null],[2,Fn.l]],{model:[0,"model"]},{update:"ngModelChange"}),O._35(2048,null,Fn.m,null,[Fn.q]),O._15(21,16384,null,0,Fn.n,[Fn.m],null,null),(n()(),O._40(-1,2,["\n                "])),(n()(),O._40(-1,null,["\n                "])),(n()(),O._16(24,0,null,null,11,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(25,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,40,{contentLabel:0}),O._37(603979776,41,{_buttons:1}),O._37(603979776,42,{_icons:1}),O._15(29,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                    "])),(n()(),O._16(31,0,null,2,3,"button",[["block",""],["color","primary"],["ion-button",""]],[[8,"disabled",0]],[[null,"click"]],function(n,l,e){var t=!0;if("click"===l){t=!1!==n.component.addNotificationTime(e)&&t}return t},Mn.b,Mn.a)),O._15(32,1097728,[[41,4]],0,Wn.a,[[8,""],fn.a,O.p,O.K],{color:[0,"color"],block:[1,"block"]},null),(n()(),O._40(33,0,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n                "])),(n()(),O._40(-1,null,["\n            "]))],function(n,l){var e=l.component;n(l,16,0,e.notificationMin,e.notificationMax,e.notificationFormat,O._41(l,16,3,O._29(l,17).transform("core.choosedots")));n(l,19,0,e.notificationTimeText);n(l,32,0,"primary","")},function(n,l){var e=l.component;n(l,12,0,O._41(l,12,0,O._29(l,13).transform("addon.calendar.setnewreminder")));n(l,15,0,O._29(l,16)._disabled,O._29(l,21).ngClassUntouched,O._29(l,21).ngClassTouched,O._29(l,21).ngClassPristine,O._29(l,21).ngClassDirty,O._29(l,21).ngClassValid,O._29(l,21).ngClassInvalid,O._29(l,21).ngClassPending);n(l,31,0,!e.notificationTimeText);n(l,33,0,O._41(l,33,0,O._29(l,34).transform("core.save")))})}function x(n){return O._42(0,[(n()(),O._16(0,0,null,null,20,"ion-card",[["list",""]],null,null,null,null,null)),O._15(1,16384,null,0,xn.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n            "])),(n()(),O._16(3,0,null,null,10,"ion-item",[["class","item item-block"]],null,null,null,Cn.b,Cn.a)),O._15(4,1097728,null,3,Dn.a,[wn.a,fn.a,O.p,O.K,[2,Kn.a]],null,null),O._37(335544320,31,{contentLabel:0}),O._37(603979776,32,{_buttons:1}),O._37(603979776,33,{_icons:1}),O._15(8,16384,null,0,Ln.a,[],null,null),(n()(),O._40(-1,2,["\n                "])),(n()(),O._16(10,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),O._40(11,null,["",""])),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,2,["\n            "])),(n()(),O._40(-1,null,["\n            "])),(n()(),O._11(16777216,null,null,1,null,T)),O._15(16,802816,null,0,Nn.j,[O.W,O.T,O.v],{ngForOf:[0,"ngForOf"]},null),(n()(),O._40(-1,null,["\n\n            "])),(n()(),O._11(16777216,null,null,1,null,k)),O._15(19,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n        "]))],function(n,l){var e=l.component;n(l,16,0,e.reminders);n(l,19,0,e.event.timestart+e.event.timeduration>e.currentTime)},function(n,l){n(l,11,0,O._41(l,11,0,O._29(l,12).transform("addon.calendar.reminders")))})}function P(n){return O._42(0,[O._32(0,Yn.a,[bn.a,j.a]),O._37(402653184,1,{content:0}),(n()(),O._16(2,0,null,null,26,"ion-header",[],null,null,null,null,null)),O._15(3,16384,null,0,jn.a,[fn.a,O.p,O.K,[2,Bn.a]],null,null),(n()(),O._40(-1,null,["\n    "])),(n()(),O._16(5,0,null,null,22,"ion-navbar",[["class","toolbar"],["core-back-button",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,qn.b,qn.a)),O._15(6,49152,null,0,Gn.a,[zn.a,[2,Bn.a],[2,En.a],fn.a,O.p,O.K],null,null),O._15(7,212992,null,0,Jn.a,[Gn.a,hn.a,vn.a,R.a],null,null),(n()(),O._40(-1,3,["\n        "])),(n()(),O._16(9,0,null,3,11,"ion-title",[],null,null,null,Qn.b,Qn.a)),O._15(10,49152,null,0,Xn.a,[fn.a,O.p,O.K,[2,Zn.a],[2,Gn.a]],null,null),(n()(),O._40(-1,0,["\n            "])),(n()(),O._11(16777216,null,0,1,null,t)),O._15(13,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,0,["\n            "])),(n()(),O._11(16777216,null,0,1,null,u)),O._15(16,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,0,["\n            "])),(n()(),O._11(16777216,null,0,1,null,a)),O._15(19,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,0,["\n        "])),(n()(),O._40(-1,3,["\n        "])),(n()(),O._16(22,0,null,2,4,"ion-buttons",[["end",""]],null,null,null,null,null)),O._15(23,16384,null,1,nl.a,[fn.a,O.p,O.K,[2,Zn.a],[2,Gn.a]],null,null),O._37(603979776,2,{_buttons:1}),(n()(),O._40(-1,null,["\n            "])),(n()(),O._40(-1,null,["\n        "])),(n()(),O._40(-1,3,["\n    "])),(n()(),O._40(-1,null,["\n"])),(n()(),O._40(-1,null,["\n"])),(n()(),O._16(30,0,null,null,23,"core-navbar-buttons",[["end",""]],null,null,null,ll.b,ll.a)),O._15(31,245760,null,1,el.a,[O.p,bn.a,H.a],null,null),O._37(603979776,3,{buttons:1}),(n()(),O._40(-1,0,["\n    "])),(n()(),O._16(34,0,null,0,18,"core-context-menu",[],null,null,null,tl.b,tl.a)),O._15(35,245760,null,0,ul.a,[vn.a,al.a,O.p,H.a,[2,il.a],pn.a],null,null),(n()(),O._40(-1,0,["\n        "])),(n()(),O._16(37,0,null,0,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,e){var t=!0;if("action"===l){t=!1!==n.component.doRefresh(null,e,!0)&&t}return t},ol.b,ol.a)),O._15(38,770048,null,0,rl.a,[ul.a],{content:[0,"content"],iconAction:[1,"iconAction"],closeOnClick:[2,"closeOnClick"],priority:[3,"priority"],hidden:[4,"hidden"]},{action:"action"}),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,0,["\n        "])),(n()(),O._16(41,0,null,0,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,e){var t=!0;if("action"===l){t=!1!==n.component.openEdit()&&t}return t},ol.b,ol.a)),O._15(42,770048,null,0,rl.a,[ul.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,0,["\n        "])),(n()(),O._16(45,0,null,0,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,e){var t=!0;if("action"===l){t=!1!==n.component.deleteEvent()&&t}return t},ol.b,ol.a)),O._15(46,770048,null,0,rl.a,[ul.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,0,["\n        "])),(n()(),O._16(49,0,null,0,2,"core-context-menu-item",[],null,[[null,"action"]],function(n,l,e){var t=!0;if("action"===l){t=!1!==n.component.undoDelete()&&t}return t},ol.b,ol.a)),O._15(50,770048,null,0,rl.a,[ul.a],{content:[0,"content"],iconAction:[1,"iconAction"],priority:[2,"priority"],hidden:[3,"hidden"]},{action:"action"}),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,0,["\n    "])),(n()(),O._40(-1,0,["\n"])),(n()(),O._40(-1,null,["\n"])),(n()(),O._16(55,0,null,null,28,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,cl.b,cl.a)),O._15(56,4374528,[[1,4]],0,Tn.a,[fn.a,hn.a,_l.a,O.p,O.K,zn.a,sl.a,O.D,[2,Bn.a],[2,En.a]],null,null),(n()(),O._40(-1,1,["\n    "])),(n()(),O._16(58,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(n,l,e){var t=!0;if("ionRefresh"===l){t=!1!==n.component.doRefresh(e)&&t}return t},null,null)),O._15(59,212992,null,0,dl.a,[hn.a,Tn.a,O.D,fl.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(n()(),O._40(-1,null,["\n        "])),(n()(),O._16(61,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,ml.b,ml.a)),O._15(62,114688,null,0,vl.a,[dl.a,fn.a],{pullingText:[0,"pullingText"]},null),O._32(131072,On.a,[vn.a,O.i]),(n()(),O._40(-1,null,["\n    "])),(n()(),O._40(-1,1,["\n    "])),(n()(),O._16(66,0,null,1,16,"core-loading",[],null,null,null,hl.b,hl.a)),O._15(67,638976,null,0,pl.a,[vn.a,O.p,R.a,pn.a],{hideUntil:[0,"hideUntil"]},null),(n()(),O._40(-1,0,["\n        "])),(n()(),O._40(-1,0,["\n        "])),(n()(),O._11(16777216,null,0,1,null,i)),O._15(71,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,0,["\n\n        "])),(n()(),O._16(73,0,null,0,5,"ion-card",[],null,null,null,null,null)),O._15(74,16384,null,0,xn.a,[fn.a,O.p,O.K],null,null),(n()(),O._40(-1,null,["\n            "])),(n()(),O._11(16777216,null,null,1,null,g)),O._15(77,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,null,["\n        "])),(n()(),O._40(-1,0,["\n\n        "])),(n()(),O._11(16777216,null,0,1,null,x)),O._15(81,16384,null,0,Nn.k,[O.W,O.T],{ngIf:[0,"ngIf"]},null),(n()(),O._40(-1,0,["\n    "])),(n()(),O._40(-1,1,["\n"])),(n()(),O._40(-1,null,["\n"]))],function(n,l){var e=l.component;n(l,7,0);n(l,13,0,e.event&&e.event.moduleIcon);n(l,16,0,e.event&&e.event.icon&&!e.event.moduleIcon);n(l,19,0,e.event),n(l,31,0),n(l,35,0);n(l,38,0,O._41(l,38,0,O._29(l,39).transform("core.settings.synchronizenow")),e.syncIcon,!1,400,e.isSplitViewOn||!e.eventLoaded||!e.hasOffline&&!e.event.deleted||!e.isOnline);n(l,42,0,O._41(l,42,0,O._29(l,43).transform("core.edit")),"create",300,!e.canEdit||!e.event||!e.event.canedit||e.event.deleted);n(l,46,0,O._41(l,46,0,O._29(l,47).transform("core.delete")),"trash",200,!e.canDelete||!e.event||!e.event.candelete||e.event.deleted);n(l,50,0,O._41(l,50,0,O._29(l,51).transform("core.restore")),"undo",200,!e.event||!e.event.deleted);n(l,59,0,e.eventLoaded);n(l,62,0,O._19(1,"",O._41(l,62,0,O._29(l,63).transform("core.pulltorefresh")),""));n(l,67,0,e.eventLoaded);n(l,71,0,e.hasOffline||e.event.deleted);n(l,77,0,e.event);n(l,81,0,e.notificationsEnabled)},function(n,l){n(l,5,0,O._29(l,6)._hidden,O._29(l,6)._sbPadding);n(l,55,0,O._29(l,56).statusbarPadding,O._29(l,56)._hasRefresher);n(l,58,0,"inactive"!==O._29(l,59).state,O._29(l,59)._top);n(l,61,0,O._29(l,62).r.state)})}Object.defineProperty(l,"__esModule",{value:!0});var O=e(1),U=e(0),C=(e(7),e(4)),D=e(30),w=e(32),K=e(110),L=e(214),N=e(473),S=e(367),M=e(476),W=e(52),A=e(10),R=e(12),H=e(5),V=e(11),$=e(2),F=e(155),Y=e(15),j=e(25),B=e(68),q=e(26),G=e(213),z=function(){function n(n,l,e,t,u,a,i,o,r,c,_,s,d,f,m,v,h,p,g,b){var I=this;this.translate=n,this.calendarProvider=l,this.domUtils=t,this.coursesProvider=u,this.calendarHelper=a,this.sitesProvider=i,this.courseProvider=r,this.textUtils=c,this.timeUtils=_,this.groupsProvider=s,this.svComponent=d,this.navCtrl=f,this.eventsProvider=m,this.calendarSync=p,this.appProvider=g,this.calendarOffline=b,this.event={},this.courseUrl="",this.notificationsEnabled=!1,this.moduleUrl="",this.categoryPath="",this.canEdit=!1,this.canDelete=!1,this.hasOffline=!1,this.isOnline=!1,this.isSplitViewOn=!1,this.eventId=e.get("id"),this.notificationsEnabled=o.isAvailable(),this.siteHomeId=i.getCurrentSite().getSiteHomeId(),this.currentSiteId=i.getCurrentSiteId(),this.isSplitViewOn=this.svComponent&&this.svComponent.isOn(),this.canEdit=this.calendarProvider.canEditEventsInSite(),this.canDelete=this.calendarProvider.canDeleteEventsInSite(),this.notificationsEnabled&&(this.calendarProvider.getEventReminders(this.eventId).then(function(n){I.reminders=n}),this.calendarProvider.getDefaultNotificationTime().then(function(n){I.defaultTime=60*n}),this.notificationFormat=this.timeUtils.fixFormatForDatetime(this.timeUtils.convertPHPToMoment(this.translate.instant("core.strftimedatetime")))),this.editEventObserver=m.on(L.a.EDIT_EVENT_EVENT,function(n){n&&n.event&&n.event.id==I.eventId&&(I.eventLoaded=!1,I.refreshEvent(!0,!1))},this.currentSiteId),this.syncObserver=m.on(M.a.AUTO_SYNCED,this.checkSyncResult.bind(this,!1),this.currentSiteId),this.manualSyncObserver=m.on(M.a.MANUAL_SYNCED,this.checkSyncResult.bind(this,!0),this.currentSiteId),this.onlineObserver=v.onchange().subscribe(function(){h.run(function(){I.isOnline=I.appProvider.isOnline()})})}return n.prototype.ionViewDidLoad=function(){this.syncIcon="spinner",this.fetchEvent()},n.prototype.fetchEvent=function(n,l){var e=this,t=this.sitesProvider.getCurrentSite(),u=this.calendarProvider.isGetEventByIdAvailableInSite(),a=!1;return this.isOnline=this.appProvider.isOnline(),(n?this.calendarSync.syncEvents().then(function(n){n.warnings&&n.warnings.length&&e.domUtils.showErrorModal(n.warnings[0]),n.deleted&&-1!=n.deleted.indexOf(e.eventId)&&(a=!0),n.updated&&(n.source="event",e.eventsProvider.trigger(M.a.MANUAL_SYNCED,n,e.currentSiteId))}).catch(function(n){l&&e.domUtils.showErrorModalDefault(n,"core.errorsync",!0)}):Promise.resolve()).then(function(){if(!a){var n=[];return n.push(u?e.calendarProvider.getEventById(e.eventId):e.calendarProvider.getEvent(e.eventId)),n.push(e.calendarOffline.getEvent(e.eventId).catch(function(){})),Promise.all(n).then(function(n){return n[1]?(e.hasOffline=!0,Object.assign(n[0],n[1])):e.hasOffline=!1,n[0]})}}).then(function(n){if(!a){var l=[];if(e.calendarHelper.formatEventData(n),e.event=n,e.currentTime=e.timeUtils.timestamp(),e.notificationMin=e.timeUtils.userDate(1e3*e.currentTime,"YYYY-MM-DDTHH:mm",!1),e.notificationMax=e.timeUtils.userDate(1e3*(n.timestart+n.timeduration),"YYYY-MM-DDTHH:mm",!1),e.categoryPath="",e.courseName="",e.courseUrl="",e.moduleUrl="",n.moduleIcon){var i=e.courseProvider.translateModuleName(n.modulename);-1===i.indexOf("core.mod_")&&(n.moduleName=i),u&&(e.moduleUrl=n.url)}u&&n.course&&n.course.id!=e.siteHomeId?(e.courseName=n.course.fullname,e.courseUrl=n.course.viewurl):n.courseid&&n.courseid!=e.siteHomeId&&l.push(e.coursesProvider.getUserCourse(n.courseid,!0).then(function(l){e.courseName=l.fullname,e.courseUrl=t?e.textUtils.concatenatePaths(t.siteUrl,"/course/view.php?id="+n.courseid):""}).catch(function(){}));return(u&&n.course?n.course.id:n.courseid)&&n.groupid&&l.push(e.groupsProvider.getUserGroupsInCourse(n.courseid).then(function(l){var t=l.find(function(l){return l.id==n.groupid});e.groupName=t?t.name:""}).catch(function(){e.groupName=""})),u&&n.iscategoryevent&&n.category&&(e.categoryPath=n.category.nestedname),n.location&&(n.location=e.textUtils.decodeHTML(n.location),n.encodedLocation=e.textUtils.buildAddressURL(n.location)),l.push(e.calendarOffline.isEventDeleted(e.eventId).then(function(l){n.deleted=l})),l.push(e.calendarProvider.getCalendarTimeFormat().then(function(l){e.calendarProvider.formatEventTime(n,l).then(function(l){n.formattedtime=l})})),Promise.all(l)}}).catch(function(n){e.domUtils.showErrorModalDefault(n,"addon.calendar.errorloadevent",!0)}).finally(function(){e.eventLoaded=!0,e.syncIcon="sync"})},n.prototype.addNotificationTime=function(n){var l=this;if(n.preventDefault(),n.stopPropagation(),this.notificationTimeText&&this.event&&this.event.id){var e=this.timeUtils.convertToTimestamp(this.notificationTimeText),t=this.timeUtils.timestamp(),u=60*Math.floor(t/60);e>=u&&e<u+60&&(e=t+1),this.calendarProvider.addEventReminder(this.event,e).then(function(){l.calendarProvider.getEventReminders(l.eventId).then(function(n){l.reminders=n}),l.notificationTimeText=null})}},n.prototype.cancelNotification=function(n,l){var e=this;l.preventDefault(),l.stopPropagation(),this.calendarProvider.deleteEventReminder(n).then(function(){e.calendarProvider.getEventReminders(e.eventId).then(function(n){e.reminders=n})})},n.prototype.doRefresh=function(n,l,e){return this.eventLoaded?this.refreshEvent(!0,e).finally(function(){n&&n.complete(),l&&l()}):Promise.resolve()},n.prototype.refreshEvent=function(n,l){var e=this;this.syncIcon="spinner";var t=[];return t.push(this.calendarProvider.invalidateEvent(this.eventId)),t.push(this.calendarProvider.invalidateTimeFormat()),Promise.all(t).catch(function(){}).then(function(){return e.fetchEvent(n,l)})},n.prototype.openEdit=function(){(this.svComponent?this.svComponent.getMasterNav():this.navCtrl).push("AddonCalendarEditEventPage",{eventId:this.eventId})},n.prototype.deleteEvent=function(){var n,l=this,e=this.translate.instant("addon.calendar.deleteevent"),t={};this.event.eventcount>1?(n=this.translate.instant("addon.calendar.confirmeventseriesdelete",{$a:{name:this.event.name,count:this.event.eventcount}}),t.inputs=[{type:"radio",name:"deleteall",checked:!0,value:!1,label:this.translate.instant("addon.calendar.deleteoneevent")},{type:"radio",name:"deleteall",checked:!1,value:!0,label:this.translate.instant("addon.calendar.deleteallevents")}]):n=this.translate.instant("addon.calendar.confirmeventdelete",{$a:this.event.name}),this.domUtils.showConfirm(n,e,void 0,void 0,t).then(function(n){var e=l.domUtils.showModalLoading("core.sending",!0);l.calendarProvider.deleteEvent(l.event.id,l.event.name,n).then(function(e){return(e?l.calendarHelper.refreshAfterChangeEvent(l.event,n?l.event.eventcount:1).catch(function(){}):Promise.resolve()).then(function(){l.eventsProvider.trigger(L.a.DELETED_EVENT_EVENT,{eventId:l.eventId,sent:e},l.sitesProvider.getCurrentSiteId()),e?(l.domUtils.showToast("addon.calendar.eventcalendareventdeleted",!0,3e3,void 0,!1),l.svComponent&&l.svComponent.isOn()||l.navCtrl.pop()):l.event.deleted=!0})}).catch(function(n){l.domUtils.showErrorModalDefault(n,"Error deleting event.")}).finally(function(){e.dismiss()})},function(){})},n.prototype.undoDelete=function(){var n=this,l=this.domUtils.showModalLoading("core.sending",!0);this.calendarOffline.unmarkDeleted(this.event.id).then(function(){n.eventsProvider.trigger(L.a.UNDELETED_EVENT_EVENT,{eventId:n.eventId},n.sitesProvider.getCurrentSiteId()),n.event.deleted=!1}).catch(function(l){n.domUtils.showErrorModalDefault(l,"Error undeleting event.")}).finally(function(){l.dismiss()})},n.prototype.checkSyncResult=function(n,l){var e=this;if(l)if(l.deleted&&-1!=l.deleted.indexOf(this.eventId))this.domUtils.showToast("addon.calendar.eventcalendareventdeleted",!0,3e3,void 0,!1),this.svComponent&&this.svComponent.isOn()||this.navCtrl.pop();else if(l.events&&(!n||"event"!=l.source)){l.events.find(function(n){return n.id==e.eventId})&&(this.eventLoaded=!1,this.refreshEvent())}},n.prototype.ngOnDestroy=function(){this.editEventObserver&&this.editEventObserver.off(),this.syncObserver&&this.syncObserver.off(),this.manualSyncObserver&&this.manualSyncObserver.off(),this.onlineObserver&&this.onlineObserver.unsubscribe()},n=Object(U.__decorate)([Object(U.__param)(12,Object(O.E)())],n)}(),J=function(){return function(){}}(),Q=e(1471),X=e(1472),Z=e(1473),nn=e(1474),ln=e(1475),en=e(1476),tn=e(1477),un=e(1478),an=e(1479),on=e(1480),rn=e(1481),cn=e(1482),_n=e(1483),sn=e(112),dn=e(95),fn=e(8),mn=e(42),vn=e(19),hn=e(17),pn=e(3),gn=e(24),bn=e(6),In=e(18),yn=e(14),En=e(20),Tn=e(27),kn=e(38),xn=e(84),Pn=e(47),On=e(28),Un=e(224),Cn=e(31),Dn=e(22),wn=e(21),Kn=e(29),Ln=e(33),Nn=e(9),Sn=e(183),Mn=e(45),Wn=e(43),An=e(374),Rn=e(64),Hn=e(754),Vn=e(317),$n=e(257),Fn=e(23),Yn=e(246),jn=e(365),Bn=e(39),qn=e(713),Gn=e(209),zn=e(35),Jn=e(471),Qn=e(714),Xn=e(309),Zn=e(245),nl=e(366),ll=e(96),el=e(88),tl=e(86),ul=e(75),al=e(66),il=e(73),ol=e(87),rl=e(79),cl=e(179),_l=e(34),sl=e(102),dl=e(152),fl=e(40),ml=e(210),vl=e(168),hl=e(51),pl=e(48),gl=e(72),bl=O._14({encapsulation:2,styles:[],data:{}}),Il=O._12("page-addon-calendar-event",z,function(n){return O._42(0,[(n()(),O._16(0,0,null,null,1,"page-addon-calendar-event",[],null,null,null,P,bl)),O._15(1,180224,null,0,z,[vn.a,L.a,gl.a,H.a,W.a,N.a,$.a,F.a,Y.a,V.a,j.a,B.a,[2,q.a],En.a,R.a,G.a,O.D,M.a,A.a,S.a],null,null)],null,null)},{},{},[]),yl=e(361),El=e(362),Tl=e(364),kl=e(363),xl=e(470),Pl=e(712),Ol=e(269);e.d(l,"AddonCalendarEventPageModuleNgFactory",function(){return Ul});var Ul=O._13(J,[],function(n){return O._25([O._26(512,O.n,O._6,[[8,[Q.a,X.a,Z.a,nn.a,ln.a,en.a,tn.a,un.a,an.a,on.a,rn.a,cn.a,_n.a,Il]],[3,O.n],O.B]),O._26(4608,Nn.m,Nn.l,[O.x,[2,Nn.w]]),O._26(4608,Fn.x,Fn.x,[]),O._26(4608,Fn.d,Fn.d,[]),O._26(4608,yl.b,yl.a,[]),O._26(4608,El.a,El.b,[]),O._26(4608,Tl.b,Tl.a,[]),O._26(4608,kl.b,kl.a,[]),O._26(4608,vn.a,vn.a,[xl.a,yl.b,El.a,Tl.b,kl.b,vn.b,vn.c]),O._26(512,Nn.b,Nn.b,[]),O._26(512,Fn.v,Fn.v,[]),O._26(512,Fn.i,Fn.i,[]),O._26(512,Fn.s,Fn.s,[]),O._26(512,Pl.a,Pl.a,[]),O._26(512,C.a,C.a,[]),O._26(512,w.a,w.a,[]),O._26(512,K.a,K.a,[]),O._26(512,D.a,D.a,[]),O._26(512,Pl.b,Pl.b,[]),O._26(512,J,J,[]),O._26(256,vn.c,void 0,[]),O._26(256,vn.b,void 0,[]),O._26(256,Ol.a,z,[])])})}});
+webpackJsonp([134],{
+
+/***/ 2088:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+
+// EXTERNAL MODULE: ./node_modules/@angular/core/esm5/core.js
+var core = __webpack_require__(0);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/index.js + 3 modules
+var ionic_angular = __webpack_require__(6);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/index.js + 1 modules
+var _ngx_translate_core = __webpack_require__(3);
+
+// EXTERNAL MODULE: ./src/components/components.module.ts
+var components_module = __webpack_require__(29);
+
+// EXTERNAL MODULE: ./src/directives/directives.module.ts + 2 modules
+var directives_module = __webpack_require__(31);
+
+// EXTERNAL MODULE: ./src/pipes/pipes.module.ts + 2 modules
+var pipes_module = __webpack_require__(109);
+
+// EXTERNAL MODULE: ./src/addon/calendar/providers/calendar.ts
+var calendar = __webpack_require__(214);
+
+// EXTERNAL MODULE: ./src/addon/calendar/providers/helper.ts
+var helper = __webpack_require__(473);
+
+// EXTERNAL MODULE: ./src/addon/calendar/providers/calendar-offline.ts
+var calendar_offline = __webpack_require__(367);
+
+// EXTERNAL MODULE: ./src/addon/calendar/providers/calendar-sync.ts
+var calendar_sync = __webpack_require__(476);
+
+// EXTERNAL MODULE: ./src/core/courses/providers/courses.ts
+var courses = __webpack_require__(51);
+
+// EXTERNAL MODULE: ./src/providers/app.ts
+var app = __webpack_require__(9);
+
+// EXTERNAL MODULE: ./src/providers/events.ts
+var events = __webpack_require__(11);
+
+// EXTERNAL MODULE: ./src/providers/utils/dom.ts
+var dom = __webpack_require__(4);
+
+// EXTERNAL MODULE: ./src/providers/utils/text.ts
+var utils_text = __webpack_require__(10);
+
+// EXTERNAL MODULE: ./src/providers/sites.ts
+var sites = __webpack_require__(1);
+
+// EXTERNAL MODULE: ./src/providers/local-notifications.ts
+var local_notifications = __webpack_require__(154);
+
+// EXTERNAL MODULE: ./src/core/course/providers/course.ts
+var course = __webpack_require__(14);
+
+// EXTERNAL MODULE: ./src/providers/utils/time.ts
+var time = __webpack_require__(24);
+
+// EXTERNAL MODULE: ./src/providers/groups.ts
+var groups = __webpack_require__(67);
+
+// EXTERNAL MODULE: ./src/components/split-view/split-view.ts
+var split_view = __webpack_require__(25);
+
+// EXTERNAL MODULE: ./node_modules/@ionic-native/network/index.js
+var _ionic_native_network = __webpack_require__(213);
+
+// CONCATENATED MODULE: ./src/addon/calendar/pages/event/event.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+var __param = (this && this.__param) || function (paramIndex, decorator) {
+    return function (target, key) { decorator(target, key, paramIndex); }
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that displays a single calendar event.
+ */
+var event_AddonCalendarEventPage = /** @class */ (function () {
+    function AddonCalendarEventPage(translate, calendarProvider, navParams, domUtils, coursesProvider, calendarHelper, sitesProvider, localNotificationsProvider, courseProvider, textUtils, timeUtils, groupsProvider, svComponent, navCtrl, eventsProvider, network, zone, calendarSync, appProvider, calendarOffline) {
+        var _this = this;
+        this.translate = translate;
+        this.calendarProvider = calendarProvider;
+        this.domUtils = domUtils;
+        this.coursesProvider = coursesProvider;
+        this.calendarHelper = calendarHelper;
+        this.sitesProvider = sitesProvider;
+        this.courseProvider = courseProvider;
+        this.textUtils = textUtils;
+        this.timeUtils = timeUtils;
+        this.groupsProvider = groupsProvider;
+        this.svComponent = svComponent;
+        this.navCtrl = navCtrl;
+        this.eventsProvider = eventsProvider;
+        this.calendarSync = calendarSync;
+        this.appProvider = appProvider;
+        this.calendarOffline = calendarOffline;
+        this.event = {};
+        this.courseUrl = '';
+        this.notificationsEnabled = false;
+        this.moduleUrl = '';
+        this.categoryPath = '';
+        this.canEdit = false;
+        this.canDelete = false;
+        this.hasOffline = false;
+        this.isOnline = false;
+        this.isSplitViewOn = false;
+        this.eventId = navParams.get('id');
+        this.notificationsEnabled = localNotificationsProvider.isAvailable();
+        this.siteHomeId = sitesProvider.getCurrentSite().getSiteHomeId();
+        this.currentSiteId = sitesProvider.getCurrentSiteId();
+        this.isSplitViewOn = this.svComponent && this.svComponent.isOn();
+        // Check if site supports editing and deleting. No need to check allowed types, event.canedit already does it.
+        this.canEdit = this.calendarProvider.canEditEventsInSite();
+        this.canDelete = this.calendarProvider.canDeleteEventsInSite();
+        if (this.notificationsEnabled) {
+            this.calendarProvider.getEventReminders(this.eventId).then(function (reminders) {
+                _this.reminders = reminders;
+            });
+            this.calendarProvider.getDefaultNotificationTime().then(function (defaultTime) {
+                _this.defaultTime = defaultTime * 60;
+            });
+            // Calculate format to use.
+            this.notificationFormat = this.timeUtils.fixFormatForDatetime(this.timeUtils.convertPHPToMoment(this.translate.instant('core.strftimedatetime')));
+        }
+        // Listen for event edited. If current event is edited, reload the data.
+        this.editEventObserver = eventsProvider.on(calendar["a" /* AddonCalendarProvider */].EDIT_EVENT_EVENT, function (data) {
+            if (data && data.event && data.event.id == _this.eventId) {
+                _this.eventLoaded = false;
+                _this.refreshEvent(true, false);
+            }
+        }, this.currentSiteId);
+        // Refresh data if this calendar event is synchronized automatically.
+        this.syncObserver = eventsProvider.on(calendar_sync["a" /* AddonCalendarSyncProvider */].AUTO_SYNCED, this.checkSyncResult.bind(this, false), this.currentSiteId);
+        // Refresh data if calendar events are synchronized manually but not by this page.
+        this.manualSyncObserver = eventsProvider.on(calendar_sync["a" /* AddonCalendarSyncProvider */].MANUAL_SYNCED, this.checkSyncResult.bind(this, true), this.currentSiteId);
+        // Refresh online status when changes.
+        this.onlineObserver = network.onchange().subscribe(function () {
+            // Execute the callback in the Angular zone, so change detection doesn't stop working.
+            zone.run(function () {
+                _this.isOnline = _this.appProvider.isOnline();
+            });
+        });
+    }
+    /**
+     * View loaded.
+     */
+    AddonCalendarEventPage.prototype.ionViewDidLoad = function () {
+        this.syncIcon = 'spinner';
+        this.fetchEvent();
+    };
+    /**
+     * Fetches the event and updates the view.
+     *
+     * @param {boolean} [sync] Whether it should try to synchronize offline events.
+     * @param {boolean} [showErrors] Whether to show sync errors to the user.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonCalendarEventPage.prototype.fetchEvent = function (sync, showErrors) {
+        var _this = this;
+        var currentSite = this.sitesProvider.getCurrentSite(), canGetById = this.calendarProvider.isGetEventByIdAvailableInSite();
+        var promise, deleted = false;
+        this.isOnline = this.appProvider.isOnline();
+        if (sync) {
+            // Try to synchronize offline events.
+            promise = this.calendarSync.syncEvents().then(function (result) {
+                if (result.warnings && result.warnings.length) {
+                    _this.domUtils.showErrorModal(result.warnings[0]);
+                }
+                if (result.deleted && result.deleted.indexOf(_this.eventId) != -1) {
+                    // This event was deleted during the sync.
+                    deleted = true;
+                }
+                if (result.updated) {
+                    // Trigger a manual sync event.
+                    result.source = 'event';
+                    _this.eventsProvider.trigger(calendar_sync["a" /* AddonCalendarSyncProvider */].MANUAL_SYNCED, result, _this.currentSiteId);
+                }
+            }).catch(function (error) {
+                if (showErrors) {
+                    _this.domUtils.showErrorModalDefault(error, 'core.errorsync', true);
+                }
+            });
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        return promise.then(function () {
+            if (deleted) {
+                return;
+            }
+            var promises = [];
+            // Get the event data.
+            if (canGetById) {
+                promises.push(_this.calendarProvider.getEventById(_this.eventId));
+            }
+            else {
+                promises.push(_this.calendarProvider.getEvent(_this.eventId));
+            }
+            // Get offline data.
+            promises.push(_this.calendarOffline.getEvent(_this.eventId).catch(function () {
+                // No offline data.
+            }));
+            return Promise.all(promises).then(function (results) {
+                if (results[1]) {
+                    // There is offline data, apply it.
+                    _this.hasOffline = true;
+                    Object.assign(results[0], results[1]);
+                }
+                else {
+                    _this.hasOffline = false;
+                }
+                return results[0];
+            });
+        }).then(function (event) {
+            if (deleted) {
+                return;
+            }
+            var promises = [];
+            _this.calendarHelper.formatEventData(event);
+            _this.event = event;
+            _this.currentTime = _this.timeUtils.timestamp();
+            _this.notificationMin = _this.timeUtils.userDate(_this.currentTime * 1000, 'YYYY-MM-DDTHH:mm', false);
+            _this.notificationMax = _this.timeUtils.userDate((event.timestart + event.timeduration) * 1000, 'YYYY-MM-DDTHH:mm', false);
+            // Reset some of the calculated data.
+            _this.categoryPath = '';
+            _this.courseName = '';
+            _this.courseUrl = '';
+            _this.moduleUrl = '';
+            if (event.moduleIcon) {
+                // It's a module event, translate the module name to the current language.
+                var name_1 = _this.courseProvider.translateModuleName(event.modulename);
+                if (name_1.indexOf('core.mod_') === -1) {
+                    event.moduleName = name_1;
+                }
+                // Get the module URL.
+                if (canGetById) {
+                    _this.moduleUrl = event.url;
+                }
+            }
+            // If the event belongs to a course, get the course name and the URL to view it.
+            if (canGetById && event.course && event.course.id != _this.siteHomeId) {
+                _this.courseName = event.course.fullname;
+                _this.courseUrl = event.course.viewurl;
+            }
+            else if (event.courseid && event.courseid != _this.siteHomeId) {
+                // Retrieve the course.
+                promises.push(_this.coursesProvider.getUserCourse(event.courseid, true).then(function (course) {
+                    _this.courseName = course.fullname;
+                    _this.courseUrl = currentSite ? _this.textUtils.concatenatePaths(currentSite.siteUrl, '/course/view.php?id=' + event.courseid) : '';
+                }).catch(function () {
+                    // Error getting course, just don't show the course name.
+                }));
+            }
+            // If it's a group event, get the name of the group.
+            var courseId = canGetById && event.course ? event.course.id : event.courseid;
+            if (courseId && event.groupid) {
+                promises.push(_this.groupsProvider.getUserGroupsInCourse(event.courseid).then(function (groups) {
+                    var group = groups.find(function (group) {
+                        return group.id == event.groupid;
+                    });
+                    _this.groupName = group ? group.name : '';
+                }).catch(function () {
+                    // Error getting groups, just don't show the group name.
+                    _this.groupName = '';
+                }));
+            }
+            if (canGetById && event.iscategoryevent && event.category) {
+                _this.categoryPath = event.category.nestedname;
+            }
+            if (event.location) {
+                // Build a link to open the address in maps.
+                event.location = _this.textUtils.decodeHTML(event.location);
+                event.encodedLocation = _this.textUtils.buildAddressURL(event.location);
+            }
+            // Check if event was deleted in offine.
+            promises.push(_this.calendarOffline.isEventDeleted(_this.eventId).then(function (deleted) {
+                event.deleted = deleted;
+            }));
+            // Re-calculate the formatted time so it uses the device date.
+            promises.push(_this.calendarProvider.getCalendarTimeFormat().then(function (timeFormat) {
+                _this.calendarProvider.formatEventTime(event, timeFormat).then(function (time) {
+                    event.formattedtime = time;
+                });
+            }));
+            return Promise.all(promises);
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.calendar.errorloadevent', true);
+        }).finally(function () {
+            _this.eventLoaded = true;
+            _this.syncIcon = 'sync';
+        });
+    };
+    /**
+     * Add a reminder for this event.
+     *
+     * @param {Event} e    Click event.
+     */
+    AddonCalendarEventPage.prototype.addNotificationTime = function (e) {
+        var _this = this;
+        e.preventDefault();
+        e.stopPropagation();
+        if (this.notificationTimeText && this.event && this.event.id) {
+            var notificationTime = this.timeUtils.convertToTimestamp(this.notificationTimeText);
+            var currentTime = this.timeUtils.timestamp(), minute = Math.floor(currentTime / 60) * 60;
+            // Check if the notification time is in the same minute as we are, so the notification is triggered.
+            if (notificationTime >= minute && notificationTime < minute + 60) {
+                notificationTime = currentTime + 1;
+            }
+            this.calendarProvider.addEventReminder(this.event, notificationTime).then(function () {
+                _this.calendarProvider.getEventReminders(_this.eventId).then(function (reminders) {
+                    _this.reminders = reminders;
+                });
+                _this.notificationTimeText = null;
+            });
+        }
+    };
+    /**
+     * Cancel the selected notification.
+     *
+     * @param {number} id  Reminder ID.
+     * @param {Event} e    Click event.
+     */
+    AddonCalendarEventPage.prototype.cancelNotification = function (id, e) {
+        var _this = this;
+        e.preventDefault();
+        e.stopPropagation();
+        this.calendarProvider.deleteEventReminder(id).then(function () {
+            _this.calendarProvider.getEventReminders(_this.eventId).then(function (reminders) {
+                _this.reminders = reminders;
+            });
+        });
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} [refresher] Refresher.
+     * @param {Function} [done] Function to call when done.
+     * @param {boolean} [showErrors] Whether to show sync errors to the user.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonCalendarEventPage.prototype.doRefresh = function (refresher, done, showErrors) {
+        if (this.eventLoaded) {
+            return this.refreshEvent(true, showErrors).finally(function () {
+                refresher && refresher.complete();
+                done && done();
+            });
+        }
+        return Promise.resolve();
+    };
+    /**
+     * Refresh the event.
+     *
+     * @param {boolean} [sync] Whether it should try to synchronize offline events.
+     * @param {boolean} [showErrors] Whether to show sync errors to the user.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonCalendarEventPage.prototype.refreshEvent = function (sync, showErrors) {
+        var _this = this;
+        this.syncIcon = 'spinner';
+        var promises = [];
+        promises.push(this.calendarProvider.invalidateEvent(this.eventId));
+        promises.push(this.calendarProvider.invalidateTimeFormat());
+        return Promise.all(promises).catch(function () {
+            // Ignore errors.
+        }).then(function () {
+            return _this.fetchEvent(sync, showErrors);
+        });
+    };
+    /**
+     * Open the page to edit the event.
+     */
+    AddonCalendarEventPage.prototype.openEdit = function () {
+        // Decide which navCtrl to use. If this page is inside a split view, use the split view's master nav.
+        var navCtrl = this.svComponent ? this.svComponent.getMasterNav() : this.navCtrl;
+        navCtrl.push('AddonCalendarEditEventPage', { eventId: this.eventId });
+    };
+    /**
+     * Delete the event.
+     */
+    AddonCalendarEventPage.prototype.deleteEvent = function () {
+        var _this = this;
+        var title = this.translate.instant('addon.calendar.deleteevent'), options = {};
+        var message;
+        if (this.event.eventcount > 1) {
+            // It's a repeated event.
+            message = this.translate.instant('addon.calendar.confirmeventseriesdelete', { $a: { name: this.event.name, count: this.event.eventcount } });
+            options.inputs = [
+                {
+                    type: 'radio',
+                    name: 'deleteall',
+                    checked: true,
+                    value: false,
+                    label: this.translate.instant('addon.calendar.deleteoneevent')
+                },
+                {
+                    type: 'radio',
+                    name: 'deleteall',
+                    checked: false,
+                    value: true,
+                    label: this.translate.instant('addon.calendar.deleteallevents')
+                }
+            ];
+        }
+        else {
+            // Not repeated, display a simple confirm.
+            message = this.translate.instant('addon.calendar.confirmeventdelete', { $a: this.event.name });
+        }
+        this.domUtils.showConfirm(message, title, undefined, undefined, options).then(function (deleteAll) {
+            var modal = _this.domUtils.showModalLoading('core.sending', true);
+            _this.calendarProvider.deleteEvent(_this.event.id, _this.event.name, deleteAll).then(function (sent) {
+                var promise;
+                if (sent) {
+                    // Event deleted, invalidate right days & months.
+                    promise = _this.calendarHelper.refreshAfterChangeEvent(_this.event, deleteAll ? _this.event.eventcount : 1)
+                        .catch(function () {
+                        // Ignore errors.
+                    });
+                }
+                else {
+                    promise = Promise.resolve();
+                }
+                return promise.then(function () {
+                    // Trigger an event.
+                    _this.eventsProvider.trigger(calendar["a" /* AddonCalendarProvider */].DELETED_EVENT_EVENT, {
+                        eventId: _this.eventId,
+                        sent: sent
+                    }, _this.sitesProvider.getCurrentSiteId());
+                    if (sent) {
+                        _this.domUtils.showToast('addon.calendar.eventcalendareventdeleted', true, 3000, undefined, false);
+                        // Event deleted, close the view.
+                        if (!_this.svComponent || !_this.svComponent.isOn()) {
+                            _this.navCtrl.pop();
+                        }
+                    }
+                    else {
+                        // Event deleted in offline, just mark it as deleted.
+                        _this.event.deleted = true;
+                    }
+                });
+            }).catch(function (error) {
+                _this.domUtils.showErrorModalDefault(error, 'Error deleting event.');
+            }).finally(function () {
+                modal.dismiss();
+            });
+        }, function () {
+            // User canceled.
+        });
+    };
+    /**
+     * Undo delete the event.
+     */
+    AddonCalendarEventPage.prototype.undoDelete = function () {
+        var _this = this;
+        var modal = this.domUtils.showModalLoading('core.sending', true);
+        this.calendarOffline.unmarkDeleted(this.event.id).then(function () {
+            // Trigger an event.
+            _this.eventsProvider.trigger(calendar["a" /* AddonCalendarProvider */].UNDELETED_EVENT_EVENT, {
+                eventId: _this.eventId
+            }, _this.sitesProvider.getCurrentSiteId());
+            _this.event.deleted = false;
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error undeleting event.');
+        }).finally(function () {
+            modal.dismiss();
+        });
+    };
+    /**
+     * Check the result of an automatic sync or a manual sync not done by this page.
+     *
+     * @param {boolean} isManual Whether it's a manual sync.
+     * @param {any} data Sync result.
+     */
+    AddonCalendarEventPage.prototype.checkSyncResult = function (isManual, data) {
+        var _this = this;
+        if (!data) {
+            return;
+        }
+        if (data.deleted && data.deleted.indexOf(this.eventId) != -1) {
+            this.domUtils.showToast('addon.calendar.eventcalendareventdeleted', true, 3000, undefined, false);
+            // Event was deleted, close the view.
+            if (!this.svComponent || !this.svComponent.isOn()) {
+                this.navCtrl.pop();
+            }
+        }
+        else if (data.events && (!isManual || data.source != 'event')) {
+            var event_1 = data.events.find(function (ev) {
+                return ev.id == _this.eventId;
+            });
+            if (event_1) {
+                this.eventLoaded = false;
+                this.refreshEvent();
+            }
+        }
+    };
+    /**
+     * Page destroyed.
+     */
+    AddonCalendarEventPage.prototype.ngOnDestroy = function () {
+        this.editEventObserver && this.editEventObserver.off();
+        this.syncObserver && this.syncObserver.off();
+        this.manualSyncObserver && this.manualSyncObserver.off();
+        this.onlineObserver && this.onlineObserver.unsubscribe();
+    };
+    __decorate([
+        Object(core["_9" /* ViewChild */])(ionic_angular["f" /* Content */]),
+        __metadata("design:type", ionic_angular["f" /* Content */])
+    ], AddonCalendarEventPage.prototype, "content", void 0);
+    AddonCalendarEventPage = __decorate([
+        Object(core["m" /* Component */])({
+            selector: 'page-addon-calendar-event',
+            templateUrl: 'event.html',
+        }),
+        __param(12, Object(core["N" /* Optional */])()),
+        __metadata("design:paramtypes", [_ngx_translate_core["c" /* TranslateService */], calendar["a" /* AddonCalendarProvider */], ionic_angular["t" /* NavParams */],
+            dom["a" /* CoreDomUtilsProvider */], courses["a" /* CoreCoursesProvider */],
+            helper["a" /* AddonCalendarHelperProvider */], sites["a" /* CoreSitesProvider */],
+            local_notifications["a" /* CoreLocalNotificationsProvider */], course["a" /* CoreCourseProvider */],
+            utils_text["a" /* CoreTextUtilsProvider */], time["a" /* CoreTimeUtilsProvider */],
+            groups["a" /* CoreGroupsProvider */], split_view["a" /* CoreSplitViewComponent */],
+            ionic_angular["s" /* NavController */], events["a" /* CoreEventsProvider */], _ionic_native_network["a" /* Network */], core["M" /* NgZone */],
+            calendar_sync["a" /* AddonCalendarSyncProvider */], app["a" /* CoreAppProvider */],
+            calendar_offline["a" /* AddonCalendarOfflineProvider */]])
+    ], AddonCalendarEventPage);
+    return AddonCalendarEventPage;
+}());
+
+//# sourceMappingURL=event.js.map
+// CONCATENATED MODULE: ./src/addon/calendar/pages/event/event.module.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var event_module___decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+var event_module_AddonCalendarEventPageModule = /** @class */ (function () {
+    function AddonCalendarEventPageModule() {
+    }
+    AddonCalendarEventPageModule = event_module___decorate([
+        Object(core["I" /* NgModule */])({
+            declarations: [
+                event_AddonCalendarEventPage,
+            ],
+            imports: [
+                components_module["a" /* CoreComponentsModule */],
+                directives_module["a" /* CoreDirectivesModule */],
+                pipes_module["a" /* CorePipesModule */],
+                ionic_angular["l" /* IonicPageModule */].forChild(event_AddonCalendarEventPage),
+                _ngx_translate_core["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonCalendarEventPageModule);
+    return AddonCalendarEventPageModule;
+}());
+
+//# sourceMappingURL=event.module.js.map
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js
+var action_sheet_component_ngfactory = __webpack_require__(1471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/alert/alert-component.ngfactory.js
+var alert_component_ngfactory = __webpack_require__(1472);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app-root.ngfactory.js
+var app_root_ngfactory = __webpack_require__(1473);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/loading/loading-component.ngfactory.js
+var loading_component_ngfactory = __webpack_require__(1474);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/modal/modal-component.ngfactory.js
+var modal_component_ngfactory = __webpack_require__(1475);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/picker/picker-component.ngfactory.js + 1 modules
+var picker_component_ngfactory = __webpack_require__(1476);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-component.ngfactory.js
+var popover_component_ngfactory = __webpack_require__(1477);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/select/select-popover-component.ngfactory.js
+var select_popover_component_ngfactory = __webpack_require__(1478);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toast/toast-component.ngfactory.js
+var toast_component_ngfactory = __webpack_require__(1479);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-popover.ngfactory.js
+var context_menu_popover_ngfactory = __webpack_require__(1480);
+
+// EXTERNAL MODULE: ./src/components/course-picker-menu/course-picker-menu-popover.ngfactory.js
+var course_picker_menu_popover_ngfactory = __webpack_require__(1481);
+
+// EXTERNAL MODULE: ./src/components/recaptcha/recaptchamodal.ngfactory.js
+var recaptchamodal_ngfactory = __webpack_require__(1482);
+
+// EXTERNAL MODULE: ./src/components/bs-tooltip/bs-tooltip.ngfactory.js
+var bs_tooltip_ngfactory = __webpack_require__(1483);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ngfactory.js
+var icon_ngfactory = __webpack_require__(111);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ts
+var icon = __webpack_require__(94);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/config/config.js
+var config = __webpack_require__(7);
+
+// EXTERNAL MODULE: ./src/directives/format-text.ts
+var format_text = __webpack_require__(41);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.service.js
+var translate_service = __webpack_require__(18);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/platform.js + 1 modules
+var platform = __webpack_require__(16);
+
+// EXTERNAL MODULE: ./src/providers/utils/utils.ts
+var utils = __webpack_require__(2);
+
+// EXTERNAL MODULE: ./src/providers/utils/url.ts
+var url = __webpack_require__(23);
+
+// EXTERNAL MODULE: ./src/providers/logger.ts
+var logger = __webpack_require__(5);
+
+// EXTERNAL MODULE: ./src/providers/filepool.ts
+var filepool = __webpack_require__(17);
+
+// EXTERNAL MODULE: ./src/core/contentlinks/providers/helper.ts
+var providers_helper = __webpack_require__(13);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-controller.js
+var nav_controller = __webpack_require__(19);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.js
+var content = __webpack_require__(26);
+
+// EXTERNAL MODULE: ./src/providers/utils/iframe.ts
+var iframe = __webpack_require__(37);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/card/card.js
+var card = __webpack_require__(83);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/icon/icon.js
+var icon_icon = __webpack_require__(46);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.pipe.js
+var translate_pipe = __webpack_require__(27);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/note/note.js
+var note = __webpack_require__(224);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.ngfactory.js + 1 modules
+var item_ngfactory = __webpack_require__(30);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.js
+var item = __webpack_require__(21);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/form.js
+var util_form = __webpack_require__(20);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-reorder.js + 1 modules
+var item_reorder = __webpack_require__(28);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-content.js
+var item_content = __webpack_require__(32);
+
+// EXTERNAL MODULE: ./node_modules/@angular/common/esm5/common.js
+var common = __webpack_require__(8);
+
+// EXTERNAL MODULE: ./src/directives/link.ts
+var directives_link = __webpack_require__(182);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.ngfactory.js
+var button_ngfactory = __webpack_require__(44);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.js
+var button_button = __webpack_require__(42);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/card/card-content.js
+var card_content = __webpack_require__(374);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/label/label.js
+var label = __webpack_require__(63);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/datetime/datetime.ngfactory.js
+var datetime_ngfactory = __webpack_require__(754);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/datetime/datetime.js + 1 modules
+var datetime = __webpack_require__(317);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/picker/picker-controller.js
+var picker_controller = __webpack_require__(257);
+
+// EXTERNAL MODULE: ./node_modules/@angular/forms/esm5/forms.js
+var esm5_forms = __webpack_require__(22);
+
+// EXTERNAL MODULE: ./src/pipes/format-date.ts
+var format_date = __webpack_require__(246);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-header.js
+var toolbar_header = __webpack_require__(365);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/view-controller.js
+var view_controller = __webpack_require__(38);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.ngfactory.js
+var navbar_ngfactory = __webpack_require__(713);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.js
+var navbar = __webpack_require__(209);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app.js + 3 modules
+var app_app = __webpack_require__(34);
+
+// EXTERNAL MODULE: ./src/directives/back-button.ts
+var back_button = __webpack_require__(471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js
+var toolbar_title_ngfactory = __webpack_require__(714);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.js
+var toolbar_title = __webpack_require__(309);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar.js
+var toolbar = __webpack_require__(245);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-item.js
+var toolbar_item = __webpack_require__(366);
+
+// EXTERNAL MODULE: ./src/components/navbar-buttons/navbar-buttons.ngfactory.js
+var navbar_buttons_ngfactory = __webpack_require__(95);
+
+// EXTERNAL MODULE: ./src/components/navbar-buttons/navbar-buttons.ts
+var navbar_buttons = __webpack_require__(87);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu.ngfactory.js
+var context_menu_ngfactory = __webpack_require__(85);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu.ts
+var context_menu = __webpack_require__(74);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-controller.js
+var popover_controller = __webpack_require__(65);
+
+// EXTERNAL MODULE: ./src/components/tabs/tab.ts
+var tab = __webpack_require__(72);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-item.ngfactory.js
+var context_menu_item_ngfactory = __webpack_require__(86);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-item.ts
+var context_menu_item = __webpack_require__(78);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.ngfactory.js
+var content_ngfactory = __webpack_require__(178);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/dom-controller.js
+var dom_controller = __webpack_require__(33);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/keyboard.js
+var keyboard = __webpack_require__(101);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher.js
+var refresher = __webpack_require__(151);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/gestures/gesture-controller.js
+var gesture_controller = __webpack_require__(39);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.ngfactory.js
+var refresher_content_ngfactory = __webpack_require__(210);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.js
+var refresher_content = __webpack_require__(167);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ngfactory.js
+var loading_ngfactory = __webpack_require__(50);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ts
+var loading = __webpack_require__(47);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-params.js
+var nav_params = __webpack_require__(71);
+
+// CONCATENATED MODULE: ./src/addon/calendar/pages/event/event.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_AddonCalendarEventPage = [];
+var RenderType_AddonCalendarEventPage = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_AddonCalendarEventPage, data: {} });
+
+function View_AddonCalendarEventPage_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 0, "img", [["alt", ""], ["class", "core-module-icon"], ["role", "presentation"]], [[8, "src", 4]], null, null, null, null))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_34" /* ɵinlineInterpolate */](1, "", _co.event.moduleIcon, ""); _ck(_v, 0, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-icon", [["item-start", ""]], null, null, null, icon_ngfactory["b" /* View_CoreIconComponent_0 */], icon_ngfactory["a" /* RenderType_CoreIconComponent */])), core["_30" /* ɵdid */](1, 704512, null, 0, icon["a" /* CoreIconComponent */], [core["t" /* ElementRef */], config["a" /* Config */]], { name: [0, "name"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.event.icon; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_AddonCalendarEventPage_3(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](1, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.event.name; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_AddonCalendarEventPage_4(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 8, "ion-card", [["class", "core-warning-card"], ["icon-start", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, card["a" /* Card */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 1, "ion-icon", [["name", "warning"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](4, 147456, null, 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](5, null, [" ", "\n        "])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), core["_48" /* ɵpod */](7, { $a: 0 }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_1 = "warning"; _ck(_v, 4, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 4)._hidden; _ck(_v, 3, 0, currVal_0); var currVal_2 = core["_56" /* ɵunv */](_v, 5, 0, core["_44" /* ɵnov */](_v, 8).transform("core.hasdatatosync", _ck(_v, 7, 0, core["_56" /* ɵunv */](_v, 5, 0, core["_44" /* ɵnov */](_v, 6).transform("addon.calendar.calendarevent"))))); _ck(_v, 5, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_7(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 0, "img", [["alt", ""], ["class", "core-module-icon"], ["item-start", ""], ["role", "presentation"]], [[8, "src", 4]], null, null, null, null))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_34" /* ɵinlineInterpolate */](1, "", _co.event.moduleIcon, ""); _ck(_v, 0, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_8(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-icon", [["item-start", ""]], null, null, null, icon_ngfactory["b" /* View_CoreIconComponent_0 */], icon_ngfactory["a" /* RenderType_CoreIconComponent */])), core["_30" /* ɵdid */](1, 704512, null, 0, icon["a" /* CoreIconComponent */], [core["t" /* ElementRef */], config["a" /* Config */]], { name: [0, "name"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.event.icon; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_AddonCalendarEventPage_9(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 6, "ion-note", [["item-end", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, note["a" /* Note */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 1, "ion-icon", [["name", "trash"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](4, 147456, null, 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](5, null, [" ", "\n                    "])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_1 = "trash"; _ck(_v, 4, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 4)._hidden; _ck(_v, 3, 0, currVal_0); var currVal_2 = core["_56" /* ɵunv */](_v, 5, 0, core["_44" /* ɵnov */](_v, 6).transform("core.deletedoffline")); _ck(_v, 5, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_6(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 23, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 4, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 5, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 6, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_7)), core["_30" /* ɵdid */](8, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_8)), core["_30" /* ɵdid */](11, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](14, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](17, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](18, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](19, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 4, 1, null, View_AddonCalendarEventPage_9)), core["_30" /* ɵdid */](22, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.event.moduleIcon; _ck(_v, 8, 0, currVal_0); var currVal_1 = (_co.event.icon && !_co.event.moduleIcon); _ck(_v, 11, 0, currVal_1); var currVal_3 = _co.event.name; _ck(_v, 19, 0, currVal_3); var currVal_4 = _co.event.deleted; _ck(_v, 22, 0, currVal_4); }, function (_ck, _v) { var currVal_2 = core["_56" /* ɵunv */](_v, 14, 0, core["_44" /* ɵnov */](_v, 15).transform("addon.calendar.eventname")); _ck(_v, 14, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_10(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 6, "ion-note", [["item-end", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, note["a" /* Note */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 1, "ion-icon", [["name", "trash"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](4, 147456, null, 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](5, null, [" ", "\n                    "])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_1 = "trash"; _ck(_v, 4, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 4)._hidden; _ck(_v, 3, 0, currVal_0); var currVal_2 = core["_56" /* ɵunv */](_v, 5, 0, core["_44" /* ɵnov */](_v, 6).transform("core.deletedoffline")); _ck(_v, 5, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_11(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 15, "a", [["capture", "true"], ["class", "item item-block"], ["core-link", ""], ["ion-item", ""], ["text-wrap", ""]], [[8, "href", 4]], null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 81920, null, 0, directives_link["a" /* CoreLinkDirective */], [core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */], sites["a" /* CoreSitesProvider */], url["a" /* CoreUrlUtilsProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], utils_text["a" /* CoreTextUtilsProvider */]], { capture: [0, "capture"] }, null), core["_30" /* ɵdid */](2, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 13, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 14, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 15, { _icons: 1 }), core["_30" /* ɵdid */](6, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](8, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](9, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](12, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](13, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](14, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = "true"; _ck(_v, 1, 0, currVal_1); var currVal_3 = _co.courseName; _ck(_v, 14, 0, currVal_3); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.courseUrl; _ck(_v, 0, 0, currVal_0); var currVal_2 = core["_56" /* ɵunv */](_v, 9, 0, core["_44" /* ɵnov */](_v, 10).transform("core.course")); _ck(_v, 9, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_12(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 13, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 16, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 17, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 18, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 1, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](12, null, ["", ""])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.group")); _ck(_v, 8, 0, currVal_0); var currVal_1 = _co.groupName; _ck(_v, 12, 0, currVal_1); }); }
+function View_AddonCalendarEventPage_13(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 14, "a", [["class", "item item-block"], ["ion-item", ""], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 19, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 20, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 21, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](12, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](13, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.categoryPath; _ck(_v, 13, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.category")); _ck(_v, 8, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_14(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 16, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 22, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 23, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 24, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 4, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](14, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.event.description; _ck(_v, 14, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.description")); _ck(_v, 8, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_15(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 20, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 25, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 26, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 27, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 8, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, null, 5, "a", [["auto-login", "no"], ["core-link", ""]], [[8, "href", 4]], null, null, null, null)), core["_30" /* ɵdid */](14, 81920, null, 0, directives_link["a" /* CoreLinkDirective */], [core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */], sites["a" /* CoreSitesProvider */], url["a" /* CoreUrlUtilsProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], utils_text["a" /* CoreTextUtilsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                            "])), (_l()(), core["_31" /* ɵeld */](16, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](17, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; _ck(_v, 14, 0); var currVal_2 = _co.event.location; _ck(_v, 17, 0, currVal_2); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.location")); _ck(_v, 8, 0, currVal_0); var currVal_1 = _co.event.encodedLocation; _ck(_v, 13, 0, currVal_1); }); }
+function View_AddonCalendarEventPage_16(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 12, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 28, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 29, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 30, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 4, "a", [["block", ""], ["capture", "true"], ["color", "primary"], ["core-link", ""], ["ion-button", ""]], [[8, "href", 4]], null, null, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](8, 81920, null, 0, directives_link["a" /* CoreLinkDirective */], [core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */], sites["a" /* CoreSitesProvider */], url["a" /* CoreUrlUtilsProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], utils_text["a" /* CoreTextUtilsProvider */]], { capture: [0, "capture"] }, null), core["_30" /* ɵdid */](9, 1097728, [[29, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { color: [0, "color"], block: [1, "block"] }, null), (_l()(), core["_55" /* ɵted */](10, 0, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var currVal_1 = "true"; _ck(_v, 8, 0, currVal_1); var currVal_2 = "primary"; var currVal_3 = ""; _ck(_v, 9, 0, currVal_2, currVal_3); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.moduleUrl; _ck(_v, 7, 0, currVal_0); var currVal_4 = core["_56" /* ɵunv */](_v, 10, 0, core["_44" /* ɵnov */](_v, 11).transform("addon.calendar.gotoactivity")); _ck(_v, 10, 0, currVal_4); }); }
+function View_AddonCalendarEventPage_5(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 58, "ion-card-content", [], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, card_content["a" /* CardContent */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_6)), core["_30" /* ɵdid */](4, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](6, 0, null, null, 17, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](7, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 7, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 8, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 9, { _icons: 1 }), core["_30" /* ɵdid */](11, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](14, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](17, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](18, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](19, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 4, 1, null, View_AddonCalendarEventPage_10)), core["_30" /* ɵdid */](22, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](25, 0, null, null, 14, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](26, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 10, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 11, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 12, { _icons: 1 }), core["_30" /* ɵdid */](30, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](32, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](33, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](36, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](37, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_11)), core["_30" /* ɵdid */](42, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_12)), core["_30" /* ɵdid */](45, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_13)), core["_30" /* ɵdid */](48, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_14)), core["_30" /* ɵdid */](51, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_15)), core["_30" /* ɵdid */](54, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_16)), core["_30" /* ɵdid */](57, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.isSplitViewOn; _ck(_v, 4, 0, currVal_0); var currVal_2 = _co.event.formattedtime; _ck(_v, 19, 0, currVal_2); var currVal_3 = (!_co.isSplitViewOn && _co.event.deleted); _ck(_v, 22, 0, currVal_3); var currVal_6 = _co.courseName; _ck(_v, 42, 0, currVal_6); var currVal_7 = _co.groupName; _ck(_v, 45, 0, currVal_7); var currVal_8 = _co.categoryPath; _ck(_v, 48, 0, currVal_8); var currVal_9 = _co.event.description; _ck(_v, 51, 0, currVal_9); var currVal_10 = _co.event.location; _ck(_v, 54, 0, currVal_10); var currVal_11 = _co.moduleUrl; _ck(_v, 57, 0, currVal_11); }, function (_ck, _v) { var _co = _v.component; var currVal_1 = core["_56" /* ɵunv */](_v, 14, 0, core["_44" /* ɵnov */](_v, 15).transform("addon.calendar.when")); _ck(_v, 14, 0, currVal_1); var currVal_4 = core["_56" /* ɵunv */](_v, 33, 0, core["_44" /* ɵnov */](_v, 34).transform("addon.calendar.eventtype")); _ck(_v, 33, 0, currVal_4); var currVal_5 = core["_56" /* ɵunv */](_v, 37, 0, core["_44" /* ɵnov */](_v, 38).transform(("addon.calendar.type" + _co.event.formattedType))); _ck(_v, 37, 0, currVal_5); }); }
+function View_AddonCalendarEventPage_20(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](1, null, ["", ""])), core["_49" /* ɵppd */](2, 1), core["_48" /* ɵpod */](3, { $a: 0 }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, core["_44" /* ɵnov */](_v, 4).transform("core.defaultvalue", _ck(_v, 3, 0, core["_56" /* ɵunv */](_v, 1, 0, _ck(_v, 2, 0, core["_44" /* ɵnov */](_v.parent.parent.parent.parent, 0), ((_co.event.timestart - _co.defaultTime) * 1000)))))); _ck(_v, 1, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_21(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](1, null, ["", ""])), core["_49" /* ɵppd */](2, 1)], null, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, _ck(_v, 2, 0, core["_44" /* ɵnov */](_v.parent.parent.parent.parent, 0), (_v.parent.parent.context.$implicit.time * 1000))); _ck(_v, 1, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_22(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 6, "button", [["clear", "true"], ["icon-only", ""], ["ion-button", ""], ["item-end", ""]], [[1, "aria-label", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.cancelNotification(_v.parent.parent.context.$implicit.id, $event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](1, 1097728, [[35, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { clear: [0, "clear"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](4, 0, null, 0, 1, "ion-icon", [["color", "danger"], ["name", "trash"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](5, 147456, null, 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { color: [0, "color"], name: [1, "name"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n                    "]))], function (_ck, _v) { var currVal_1 = "true"; _ck(_v, 1, 0, currVal_1); var currVal_3 = "danger"; var currVal_4 = "trash"; _ck(_v, 5, 0, currVal_3, currVal_4); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 0, 0, core["_44" /* ɵnov */](_v, 2).transform("core.delete")); _ck(_v, 0, 0, currVal_0); var currVal_2 = core["_44" /* ɵnov */](_v, 5)._hidden; _ck(_v, 4, 0, currVal_2); }); }
+function View_AddonCalendarEventPage_19(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 15, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], [[2, "item-dimmed", null]], null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 34, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 35, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 36, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_AddonCalendarEventPage_20)), core["_30" /* ɵdid */](8, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_AddonCalendarEventPage_21)), core["_30" /* ɵdid */](11, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, 4, 1, null, View_AddonCalendarEventPage_22)), core["_30" /* ɵdid */](14, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = (_v.parent.context.$implicit.time == (0 - 1)); _ck(_v, 8, 0, currVal_1); var currVal_2 = (_v.parent.context.$implicit.time > 0); _ck(_v, 11, 0, currVal_2); var currVal_3 = (((_v.parent.context.$implicit.time == (0 - 1)) ? (_co.event.timestart - _co.defaultTime) : _v.parent.context.$implicit.time) > _co.currentTime); _ck(_v, 14, 0, currVal_3); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = (((_v.parent.context.$implicit.time == (0 - 1)) ? (_co.event.timestart - _co.defaultTime) : _v.parent.context.$implicit.time) <= _co.currentTime); _ck(_v, 0, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_18(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, null, null, null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_19)), core["_30" /* ɵdid */](3, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = ((_v.context.$implicit.time > 0) || (_co.defaultTime > 0)); _ck(_v, 3, 0, currVal_0); }, null); }
+function View_AddonCalendarEventPage_23(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 36, null, null, null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 20, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](3, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 37, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 38, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 39, { _icons: 1 }), core["_30" /* ɵdid */](7, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](9, 0, null, 1, 4, "ion-label", [["stacked", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](10, 16384, [[37, 4]], 0, label["a" /* Label */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [8, null], [8, ""], [8, null], [8, null]], null, null), (_l()(), core["_31" /* ɵeld */](11, 0, null, null, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](12, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](15, 0, null, 3, 6, "ion-datetime", [], [[2, "datetime-disabled", null], [2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "ngModelChange"], [null, "click"], [null, "keyup.space"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (core["_44" /* ɵnov */](_v, 16)._click($event) !== false);
+        ad = (pd_0 && ad);
+    } if (("keyup.space" === en)) {
+        var pd_1 = (core["_44" /* ɵnov */](_v, 16)._keyup() !== false);
+        ad = (pd_1 && ad);
+    } if (("ngModelChange" === en)) {
+        var pd_2 = ((_co.notificationTimeText = $event) !== false);
+        ad = (pd_2 && ad);
+    } return ad; }, datetime_ngfactory["b" /* View_DateTime_0 */], datetime_ngfactory["a" /* RenderType_DateTime */])), core["_30" /* ɵdid */](16, 1228800, null, 0, datetime["a" /* DateTime */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item["a" /* Item */]], [2, picker_controller["a" /* PickerController */]]], { min: [0, "min"], max: [1, "max"], displayFormat: [2, "displayFormat"], placeholder: [3, "placeholder"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), core["_50" /* ɵprd */](1024, null, esm5_forms["l" /* NG_VALUE_ACCESSOR */], function (p0_0) { return [p0_0]; }, [datetime["a" /* DateTime */]]), core["_30" /* ɵdid */](19, 671744, null, 0, esm5_forms["q" /* NgModel */], [[8, null], [8, null], [8, null], [2, esm5_forms["l" /* NG_VALUE_ACCESSOR */]]], { model: [0, "model"] }, { update: "ngModelChange" }), core["_50" /* ɵprd */](2048, null, esm5_forms["m" /* NgControl */], null, [esm5_forms["q" /* NgModel */]]), core["_30" /* ɵdid */](21, 16384, null, 0, esm5_forms["n" /* NgControlStatus */], [esm5_forms["m" /* NgControl */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](24, 0, null, null, 11, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](25, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 40, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 41, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 42, { _icons: 1 }), core["_30" /* ɵdid */](29, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](31, 0, null, 2, 3, "button", [["block", ""], ["color", "primary"], ["ion-button", ""]], [[8, "disabled", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.addNotificationTime($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](32, 1097728, [[41, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { color: [0, "color"], block: [1, "block"] }, null), (_l()(), core["_55" /* ɵted */](33, 0, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_9 = _co.notificationMin; var currVal_10 = _co.notificationMax; var currVal_11 = _co.notificationFormat; var currVal_12 = core["_56" /* ɵunv */](_v, 16, 3, core["_44" /* ɵnov */](_v, 17).transform("core.choosedots")); _ck(_v, 16, 0, currVal_9, currVal_10, currVal_11, currVal_12); var currVal_13 = _co.notificationTimeText; _ck(_v, 19, 0, currVal_13); var currVal_15 = "primary"; var currVal_16 = ""; _ck(_v, 32, 0, currVal_15, currVal_16); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 12, 0, core["_44" /* ɵnov */](_v, 13).transform("addon.calendar.setnewreminder")); _ck(_v, 12, 0, currVal_0); var currVal_1 = core["_44" /* ɵnov */](_v, 16)._disabled; var currVal_2 = core["_44" /* ɵnov */](_v, 21).ngClassUntouched; var currVal_3 = core["_44" /* ɵnov */](_v, 21).ngClassTouched; var currVal_4 = core["_44" /* ɵnov */](_v, 21).ngClassPristine; var currVal_5 = core["_44" /* ɵnov */](_v, 21).ngClassDirty; var currVal_6 = core["_44" /* ɵnov */](_v, 21).ngClassValid; var currVal_7 = core["_44" /* ɵnov */](_v, 21).ngClassInvalid; var currVal_8 = core["_44" /* ɵnov */](_v, 21).ngClassPending; _ck(_v, 15, 0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5, currVal_6, currVal_7, currVal_8); var currVal_14 = !_co.notificationTimeText; _ck(_v, 31, 0, currVal_14); var currVal_17 = core["_56" /* ɵunv */](_v, 33, 0, core["_44" /* ɵnov */](_v, 34).transform("core.save")); _ck(_v, 33, 0, currVal_17); }); }
+function View_AddonCalendarEventPage_17(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 20, "ion-card", [["list", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, card["a" /* Card */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 10, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](4, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 31, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 32, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 33, { _icons: 1 }), core["_30" /* ɵdid */](8, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](10, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](11, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_18)), core["_30" /* ɵdid */](16, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_23)), core["_30" /* ɵdid */](19, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.reminders; _ck(_v, 16, 0, currVal_1); var currVal_2 = ((_co.event.timestart + _co.event.timeduration) > _co.currentTime); _ck(_v, 19, 0, currVal_2); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 11, 0, core["_44" /* ɵnov */](_v, 12).transform("addon.calendar.reminders")); _ck(_v, 11, 0, currVal_0); }); }
+function View_AddonCalendarEventPage_0(_l) { return core["_57" /* ɵvid */](0, [core["_47" /* ɵpid */](0, format_date["a" /* CoreFormatDatePipe */], [logger["a" /* CoreLoggerProvider */], time["a" /* CoreTimeUtilsProvider */]]), core["_52" /* ɵqud */](402653184, 1, { content: 0 }), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 26, "ion-header", [], null, null, null, null, null)), core["_30" /* ɵdid */](3, 16384, null, 0, toolbar_header["a" /* Header */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, view_controller["a" /* ViewController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_31" /* ɵeld */](5, 0, null, null, 22, "ion-navbar", [["class", "toolbar"], ["core-back-button", ""]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, navbar_ngfactory["b" /* View_Navbar_0 */], navbar_ngfactory["a" /* RenderType_Navbar */])), core["_30" /* ɵdid */](6, 49152, null, 0, navbar["a" /* Navbar */], [app_app["a" /* App */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), core["_30" /* ɵdid */](7, 212992, null, 0, back_button["a" /* CoreBackButtonDirective */], [navbar["a" /* Navbar */], platform["a" /* Platform */], translate_service["a" /* TranslateService */], events["a" /* CoreEventsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](9, 0, null, 3, 11, "ion-title", [], null, null, null, toolbar_title_ngfactory["b" /* View_ToolbarTitle_0 */], toolbar_title_ngfactory["a" /* RenderType_ToolbarTitle */])), core["_30" /* ɵdid */](10, 49152, null, 0, toolbar_title["a" /* ToolbarTitle */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_1)), core["_30" /* ɵdid */](13, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_2)), core["_30" /* ɵdid */](16, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_3)), core["_30" /* ɵdid */](19, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](22, 0, null, 2, 4, "ion-buttons", [["end", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](23, 16384, null, 1, toolbar_item["a" /* ToolbarItem */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), core["_52" /* ɵqud */](603979776, 2, { _buttons: 1 }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_31" /* ɵeld */](30, 0, null, null, 23, "core-navbar-buttons", [["end", ""]], null, null, null, navbar_buttons_ngfactory["b" /* View_CoreNavBarButtonsComponent_0 */], navbar_buttons_ngfactory["a" /* RenderType_CoreNavBarButtonsComponent */])), core["_30" /* ɵdid */](31, 245760, null, 1, navbar_buttons["a" /* CoreNavBarButtonsComponent */], [core["t" /* ElementRef */], logger["a" /* CoreLoggerProvider */], dom["a" /* CoreDomUtilsProvider */]], null, null), core["_52" /* ɵqud */](603979776, 3, { buttons: 1 }), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_31" /* ɵeld */](34, 0, null, 0, 18, "core-context-menu", [], null, null, null, context_menu_ngfactory["b" /* View_CoreContextMenuComponent_0 */], context_menu_ngfactory["a" /* RenderType_CoreContextMenuComponent */])), core["_30" /* ɵdid */](35, 245760, null, 0, context_menu["a" /* CoreContextMenuComponent */], [translate_service["a" /* TranslateService */], popover_controller["a" /* PopoverController */], core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], [2, tab["a" /* CoreTabComponent */]], utils["a" /* CoreUtilsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](37, 0, null, 0, 2, "core-context-menu-item", [], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.doRefresh(null, $event, true) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, context_menu_item_ngfactory["b" /* View_CoreContextMenuItemComponent_0 */], context_menu_item_ngfactory["a" /* RenderType_CoreContextMenuItemComponent */])), core["_30" /* ɵdid */](38, 770048, null, 0, context_menu_item["a" /* CoreContextMenuItemComponent */], [context_menu["a" /* CoreContextMenuComponent */]], { content: [0, "content"], iconAction: [1, "iconAction"], closeOnClick: [2, "closeOnClick"], priority: [3, "priority"], hidden: [4, "hidden"] }, { action: "action" }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](41, 0, null, 0, 2, "core-context-menu-item", [], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.openEdit() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, context_menu_item_ngfactory["b" /* View_CoreContextMenuItemComponent_0 */], context_menu_item_ngfactory["a" /* RenderType_CoreContextMenuItemComponent */])), core["_30" /* ɵdid */](42, 770048, null, 0, context_menu_item["a" /* CoreContextMenuItemComponent */], [context_menu["a" /* CoreContextMenuComponent */]], { content: [0, "content"], iconAction: [1, "iconAction"], priority: [2, "priority"], hidden: [3, "hidden"] }, { action: "action" }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](45, 0, null, 0, 2, "core-context-menu-item", [], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.deleteEvent() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, context_menu_item_ngfactory["b" /* View_CoreContextMenuItemComponent_0 */], context_menu_item_ngfactory["a" /* RenderType_CoreContextMenuItemComponent */])), core["_30" /* ɵdid */](46, 770048, null, 0, context_menu_item["a" /* CoreContextMenuItemComponent */], [context_menu["a" /* CoreContextMenuComponent */]], { content: [0, "content"], iconAction: [1, "iconAction"], priority: [2, "priority"], hidden: [3, "hidden"] }, { action: "action" }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](49, 0, null, 0, 2, "core-context-menu-item", [], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.undoDelete() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, context_menu_item_ngfactory["b" /* View_CoreContextMenuItemComponent_0 */], context_menu_item_ngfactory["a" /* RenderType_CoreContextMenuItemComponent */])), core["_30" /* ɵdid */](50, 770048, null, 0, context_menu_item["a" /* CoreContextMenuItemComponent */], [context_menu["a" /* CoreContextMenuComponent */]], { content: [0, "content"], iconAction: [1, "iconAction"], priority: [2, "priority"], hidden: [3, "hidden"] }, { action: "action" }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_31" /* ɵeld */](55, 0, null, null, 28, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](56, 4374528, [[1, 4]], 0, content["a" /* Content */], [config["a" /* Config */], platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app_app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](58, 0, null, 2, 6, "ion-refresher", [], [[2, "refresher-active", null], [4, "top", null]], [[null, "ionRefresh"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionRefresh" === en)) {
+        var pd_0 = (_co.doRefresh($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), core["_30" /* ɵdid */](59, 212992, null, 0, refresher["a" /* Refresher */], [platform["a" /* Platform */], content["a" /* Content */], core["M" /* NgZone */], gesture_controller["l" /* GestureController */]], { enabled: [0, "enabled"] }, { ionRefresh: "ionRefresh" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_31" /* ɵeld */](61, 0, null, null, 2, "ion-refresher-content", [], [[1, "state", 0]], null, null, refresher_content_ngfactory["b" /* View_RefresherContent_0 */], refresher_content_ngfactory["a" /* RenderType_RefresherContent */])), core["_30" /* ɵdid */](62, 114688, null, 0, refresher_content["a" /* RefresherContent */], [refresher["a" /* Refresher */], config["a" /* Config */]], { pullingText: [0, "pullingText"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](66, 0, null, 1, 16, "core-loading", [], null, null, null, loading_ngfactory["b" /* View_CoreLoadingComponent_0 */], loading_ngfactory["a" /* RenderType_CoreLoadingComponent */])), core["_30" /* ɵdid */](67, 638976, null, 0, loading["a" /* CoreLoadingComponent */], [translate_service["a" /* TranslateService */], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */]], { hideUntil: [0, "hideUntil"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_4)), core["_30" /* ɵdid */](71, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n\n        "])), (_l()(), core["_31" /* ɵeld */](73, 0, null, 0, 5, "ion-card", [], null, null, null, null, null)), core["_30" /* ɵdid */](74, 16384, null, 0, card["a" /* Card */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonCalendarEventPage_5)), core["_30" /* ɵdid */](77, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n\n        "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonCalendarEventPage_17)), core["_30" /* ɵdid */](81, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"]))], function (_ck, _v) { var _co = _v.component; _ck(_v, 7, 0); var currVal_2 = (_co.event && _co.event.moduleIcon); _ck(_v, 13, 0, currVal_2); var currVal_3 = ((_co.event && _co.event.icon) && !_co.event.moduleIcon); _ck(_v, 16, 0, currVal_3); var currVal_4 = _co.event; _ck(_v, 19, 0, currVal_4); _ck(_v, 31, 0); _ck(_v, 35, 0); var currVal_5 = core["_56" /* ɵunv */](_v, 38, 0, core["_44" /* ɵnov */](_v, 39).transform("core.settings.synchronizenow")); var currVal_6 = _co.syncIcon; var currVal_7 = false; var currVal_8 = 400; var currVal_9 = (((_co.isSplitViewOn || !_co.eventLoaded) || (!_co.hasOffline && !_co.event.deleted)) || !_co.isOnline); _ck(_v, 38, 0, currVal_5, currVal_6, currVal_7, currVal_8, currVal_9); var currVal_10 = core["_56" /* ɵunv */](_v, 42, 0, core["_44" /* ɵnov */](_v, 43).transform("core.edit")); var currVal_11 = "create"; var currVal_12 = 300; var currVal_13 = (((!_co.canEdit || !_co.event) || !_co.event.canedit) || _co.event.deleted); _ck(_v, 42, 0, currVal_10, currVal_11, currVal_12, currVal_13); var currVal_14 = core["_56" /* ɵunv */](_v, 46, 0, core["_44" /* ɵnov */](_v, 47).transform("core.delete")); var currVal_15 = "trash"; var currVal_16 = 200; var currVal_17 = (((!_co.canDelete || !_co.event) || !_co.event.candelete) || _co.event.deleted); _ck(_v, 46, 0, currVal_14, currVal_15, currVal_16, currVal_17); var currVal_18 = core["_56" /* ɵunv */](_v, 50, 0, core["_44" /* ɵnov */](_v, 51).transform("core.restore")); var currVal_19 = "undo"; var currVal_20 = 200; var currVal_21 = (!_co.event || !_co.event.deleted); _ck(_v, 50, 0, currVal_18, currVal_19, currVal_20, currVal_21); var currVal_26 = _co.eventLoaded; _ck(_v, 59, 0, currVal_26); var currVal_28 = core["_34" /* ɵinlineInterpolate */](1, "", core["_56" /* ɵunv */](_v, 62, 0, core["_44" /* ɵnov */](_v, 63).transform("core.pulltorefresh")), ""); _ck(_v, 62, 0, currVal_28); var currVal_29 = _co.eventLoaded; _ck(_v, 67, 0, currVal_29); var currVal_30 = (_co.hasOffline || _co.event.deleted); _ck(_v, 71, 0, currVal_30); var currVal_31 = _co.event; _ck(_v, 77, 0, currVal_31); var currVal_32 = _co.notificationsEnabled; _ck(_v, 81, 0, currVal_32); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 6)._hidden; var currVal_1 = core["_44" /* ɵnov */](_v, 6)._sbPadding; _ck(_v, 5, 0, currVal_0, currVal_1); var currVal_22 = core["_44" /* ɵnov */](_v, 56).statusbarPadding; var currVal_23 = core["_44" /* ɵnov */](_v, 56)._hasRefresher; _ck(_v, 55, 0, currVal_22, currVal_23); var currVal_24 = (core["_44" /* ɵnov */](_v, 59).state !== "inactive"); var currVal_25 = core["_44" /* ɵnov */](_v, 59)._top; _ck(_v, 58, 0, currVal_24, currVal_25); var currVal_27 = core["_44" /* ɵnov */](_v, 62).r.state; _ck(_v, 61, 0, currVal_27); }); }
+function View_AddonCalendarEventPage_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "page-addon-calendar-event", [], null, null, null, View_AddonCalendarEventPage_0, RenderType_AddonCalendarEventPage)), core["_30" /* ɵdid */](1, 180224, null, 0, event_AddonCalendarEventPage, [translate_service["a" /* TranslateService */], calendar["a" /* AddonCalendarProvider */], nav_params["a" /* NavParams */], dom["a" /* CoreDomUtilsProvider */], courses["a" /* CoreCoursesProvider */], helper["a" /* AddonCalendarHelperProvider */], sites["a" /* CoreSitesProvider */], local_notifications["a" /* CoreLocalNotificationsProvider */], course["a" /* CoreCourseProvider */], utils_text["a" /* CoreTextUtilsProvider */], time["a" /* CoreTimeUtilsProvider */], groups["a" /* CoreGroupsProvider */], [2, split_view["a" /* CoreSplitViewComponent */]], nav_controller["a" /* NavController */], events["a" /* CoreEventsProvider */], _ionic_native_network["a" /* Network */], core["M" /* NgZone */], calendar_sync["a" /* AddonCalendarSyncProvider */], app["a" /* CoreAppProvider */], calendar_offline["a" /* AddonCalendarOfflineProvider */]], null, null)], null, null); }
+var AddonCalendarEventPageNgFactory = core["_27" /* ɵccf */]("page-addon-calendar-event", event_AddonCalendarEventPage, View_AddonCalendarEventPage_Host_0, {}, {}, []);
+
+//# sourceMappingURL=event.ngfactory.js.map
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.loader.js
+var translate_loader = __webpack_require__(361);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.compiler.js
+var translate_compiler = __webpack_require__(362);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.parser.js
+var translate_parser = __webpack_require__(364);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/missing-translation-handler.js
+var missing_translation_handler = __webpack_require__(363);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.store.js
+var translate_store = __webpack_require__(470);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/module.js
+var ionic_angular_module = __webpack_require__(712);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/module-loader.js
+var module_loader = __webpack_require__(269);
+
+// CONCATENATED MODULE: ./src/addon/calendar/pages/event/event.module.ngfactory.js
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonCalendarEventPageModuleNgFactory", function() { return AddonCalendarEventPageModuleNgFactory; });
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var AddonCalendarEventPageModuleNgFactory = core["_28" /* ɵcmf */](event_module_AddonCalendarEventPageModule, [], function (_l) { return core["_40" /* ɵmod */]([core["_41" /* ɵmpd */](512, core["o" /* ComponentFactoryResolver */], core["_21" /* ɵCodegenComponentFactoryResolver */], [[8, [action_sheet_component_ngfactory["a" /* ActionSheetCmpNgFactory */], alert_component_ngfactory["a" /* AlertCmpNgFactory */], app_root_ngfactory["a" /* IonicAppNgFactory */], loading_component_ngfactory["a" /* LoadingCmpNgFactory */], modal_component_ngfactory["a" /* ModalCmpNgFactory */], picker_component_ngfactory["a" /* PickerCmpNgFactory */], popover_component_ngfactory["a" /* PopoverCmpNgFactory */], select_popover_component_ngfactory["a" /* SelectPopoverNgFactory */], toast_component_ngfactory["a" /* ToastCmpNgFactory */], context_menu_popover_ngfactory["a" /* CoreContextMenuPopoverComponentNgFactory */], course_picker_menu_popover_ngfactory["a" /* CoreCoursePickerMenuPopoverComponentNgFactory */], recaptchamodal_ngfactory["a" /* CoreRecaptchaModalComponentNgFactory */], bs_tooltip_ngfactory["a" /* CoreBSTooltipComponentNgFactory */], AddonCalendarEventPageNgFactory]], [3, core["o" /* ComponentFactoryResolver */]], core["K" /* NgModuleRef */]]), core["_41" /* ɵmpd */](4608, common["m" /* NgLocalization */], common["l" /* NgLocaleLocalization */], [core["G" /* LOCALE_ID */], [2, common["w" /* ɵa */]]]), core["_41" /* ɵmpd */](4608, esm5_forms["x" /* ɵi */], esm5_forms["x" /* ɵi */], []), core["_41" /* ɵmpd */](4608, esm5_forms["d" /* FormBuilder */], esm5_forms["d" /* FormBuilder */], []), core["_41" /* ɵmpd */](4608, translate_loader["b" /* TranslateLoader */], translate_loader["a" /* TranslateFakeLoader */], []), core["_41" /* ɵmpd */](4608, translate_compiler["a" /* TranslateCompiler */], translate_compiler["b" /* TranslateFakeCompiler */], []), core["_41" /* ɵmpd */](4608, translate_parser["b" /* TranslateParser */], translate_parser["a" /* TranslateDefaultParser */], []), core["_41" /* ɵmpd */](4608, missing_translation_handler["b" /* MissingTranslationHandler */], missing_translation_handler["a" /* FakeMissingTranslationHandler */], []), core["_41" /* ɵmpd */](4608, translate_service["a" /* TranslateService */], translate_service["a" /* TranslateService */], [translate_store["a" /* TranslateStore */], translate_loader["b" /* TranslateLoader */], translate_compiler["a" /* TranslateCompiler */], translate_parser["b" /* TranslateParser */], missing_translation_handler["b" /* MissingTranslationHandler */], translate_service["b" /* USE_DEFAULT_LANG */], translate_service["c" /* USE_STORE */]]), core["_41" /* ɵmpd */](512, common["b" /* CommonModule */], common["b" /* CommonModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["v" /* ɵba */], esm5_forms["v" /* ɵba */], []), core["_41" /* ɵmpd */](512, esm5_forms["i" /* FormsModule */], esm5_forms["i" /* FormsModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["s" /* ReactiveFormsModule */], esm5_forms["s" /* ReactiveFormsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["a" /* IonicModule */], ionic_angular_module["a" /* IonicModule */], []), core["_41" /* ɵmpd */](512, _ngx_translate_core["b" /* TranslateModule */], _ngx_translate_core["b" /* TranslateModule */], []), core["_41" /* ɵmpd */](512, directives_module["a" /* CoreDirectivesModule */], directives_module["a" /* CoreDirectivesModule */], []), core["_41" /* ɵmpd */](512, pipes_module["a" /* CorePipesModule */], pipes_module["a" /* CorePipesModule */], []), core["_41" /* ɵmpd */](512, components_module["a" /* CoreComponentsModule */], components_module["a" /* CoreComponentsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["b" /* IonicPageModule */], ionic_angular_module["b" /* IonicPageModule */], []), core["_41" /* ɵmpd */](512, event_module_AddonCalendarEventPageModule, event_module_AddonCalendarEventPageModule, []), core["_41" /* ɵmpd */](256, translate_service["c" /* USE_STORE */], undefined, []), core["_41" /* ɵmpd */](256, translate_service["b" /* USE_DEFAULT_LANG */], undefined, []), core["_41" /* ɵmpd */](256, module_loader["a" /* LAZY_LOADED_TOKEN */], event_AddonCalendarEventPage, [])]); });
+
+//# sourceMappingURL=event.module.ngfactory.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=134.js.map

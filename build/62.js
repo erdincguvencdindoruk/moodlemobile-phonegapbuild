@@ -1,1 +1,972 @@
-webpackJsonp([62],{2095:function(l,n,u){"use strict";function e(l){return y._42(0,[(l()(),y._16(0,0,null,null,4,"div",[["class","core-course-thumb"]],null,[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.openCourse()&&e}return e},null,null)),(l()(),y._40(-1,null,["\n                "])),(l()(),y._16(2,0,null,null,1,"img",[["alt",""],["core-external-content",""]],null,null,null,null,null)),y._15(3,4734976,null,0,nl.a,[y.p,ul.a,el.a,tl.a,S.a,T.a,ol.a,w.a,al.a],{src:[0,"src"]},null),(l()(),y._40(-1,null,["\n            "]))],function(l,n){l(n,3,0,n.component.course.courseImage)},null)}function t(l){return y._42(0,[(l()(),y._16(0,0,null,null,2,"p",[],null,null,null,null,null)),(l()(),y._16(1,0,null,null,1,"core-format-text",[],null,null,null,null,null)),y._15(2,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"]},null)],function(l,n){l(n,2,0,n.component.course.categoryname)},null)}function o(l){return y._42(0,[(l()(),y._16(0,0,null,null,2,"span",[],null,null,null,null,null)),(l()(),y._40(1,null,[" - ",""])),y._34(2,2)],null,function(l,n){var u=n.component;l(n,1,0,y._41(n,1,0,l(n,2,0,y._29(n.parent.parent.parent,0),1e3*u.course.enddate,"strftimedatefullshort")))})}function a(l){return y._42(0,[(l()(),y._16(0,0,null,null,4,"p",[],null,null,null,null,null)),(l()(),y._40(1,null,[""," "])),y._34(2,2),(l()(),y._11(16777216,null,null,1,null,o)),y._15(4,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null)],function(l,n){l(n,4,0,n.component.course.enddate)},function(l,n){var u=n.component;l(n,1,0,y._41(n,1,0,l(n,2,0,y._29(n.parent.parent,0),1e3*u.course.startdate,"strftimedatefullshort")))})}function r(l){return y._42(0,[(l()(),y._16(0,0,null,null,9,"ion-item",[["class","item item-block"],["detail-none",""],["text-wrap",""]],null,null,null,hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,4,{contentLabel:0}),y._37(603979776,5,{_buttons:1}),y._37(603979776,6,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(7,0,null,2,1,"core-format-text",[["maxHeight","120"]],null,null,null,null,null)),y._15(8,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"],maxHeight:[1,"maxHeight"]},null),(l()(),y._40(-1,2,["\n            "]))],function(l,n){l(n,8,0,n.component.course.summary,"120")},null)}function s(l){return y._42(0,[(l()(),y._16(0,0,null,null,15,"a",[["class","item item-block"],["core-user-link",""],["ion-item",""],["text-wrap",""]],[[1,"aria-label",0]],null,null,hl.b,hl.a)),y._15(1,81920,null,0,Il.a,[y.p,[2,cl.a],[2,fl.a]],{userId:[0,"userId"],courseId:[1,"courseId"]},null),y._15(2,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,10,{contentLabel:0}),y._37(603979776,11,{_buttons:1}),y._37(603979776,12,{_icons:1}),y._15(6,16384,null,0,Cl.a,[],null,null),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n                    "])),(l()(),y._16(9,0,null,0,2,"ion-avatar",[["core-user-avatar",""],["item-start",""]],null,null,null,xl.b,xl.a)),y._15(10,770048,null,0,kl.a,[cl.a,S.a,al.a,w.a,P.a,[2,fl.a]],{user:[0,"user"],userId:[1,"userId"],courseId:[2,"courseId"]},null),y._15(11,16384,null,0,yl.a,[],null,null),(l()(),y._40(-1,2,["\n                    "])),(l()(),y._16(13,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),y._40(14,null,["",""])),(l()(),y._40(-1,2,["\n                "]))],function(l,n){var u=n.component;l(n,1,0,n.context.$implicit.id,u.isEnrolled?u.course.id:null);l(n,10,0,n.context.$implicit,n.context.$implicit.id,u.isEnrolled?u.course.id:null)},function(l,n){l(n,0,0,y._41(n,0,0,y._29(n,7).transform("core.viewprofile")));l(n,14,0,n.context.$implicit.fullname)})}function i(l){return y._42(0,[(l()(),y._16(0,0,null,null,20,null,null,null,null,null,null,null)),(l()(),y._40(-1,null,["\n                "])),(l()(),y._16(2,0,null,null,7,"ion-item-divider",[["class","item item-divider"]],null,null,null,hl.b,hl.a)),y._15(3,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,7,{contentLabel:0}),y._37(603979776,8,{_buttons:1}),y._37(603979776,9,{_icons:1}),y._15(7,16384,null,0,Dl.a,[gl.a,y.p,y.K],null,null),(l()(),y._40(8,2,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,null,["\n                "])),(l()(),y._11(16777216,null,null,1,null,s)),y._15(12,802816,null,0,pl.j,[y.W,y.T,y.v],{ngForOf:[0,"ngForOf"]},null),(l()(),y._40(-1,null,["\n                "])),(l()(),y._16(14,0,null,null,5,"ion-item-divider",[["class","item item-divider"]],null,null,null,hl.b,hl.a)),y._15(15,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,13,{contentLabel:0}),y._37(603979776,14,{_buttons:1}),y._37(603979776,15,{_icons:1}),y._15(19,16384,null,0,Dl.a,[gl.a,y.p,y.K],null,null),(l()(),y._40(-1,null,["\n            "]))],function(l,n){l(n,12,0,n.component.course.contacts)},function(l,n){l(n,8,0,y._41(n,8,0,y._29(n,9).transform("core.teachers")))})}function c(l){return y._42(0,[(l()(),y._16(0,0,null,null,11,"div",[],[[8,"className",0]],null,null,null,null)),(l()(),y._40(-1,null,["\n                        "])),(l()(),y._16(2,0,null,null,2,"span",[["class","core-customfieldname"]],null,null,null,null,null)),(l()(),y._16(3,0,null,null,1,"core-format-text",[],null,null,null,null,null)),y._15(4,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"]},null),(l()(),y._16(5,0,null,null,1,"span",[["class","core-customfieldseparator"]],null,null,null,null,null)),(l()(),y._40(-1,null,[": "])),(l()(),y._40(-1,null,["\n                        "])),(l()(),y._16(8,0,null,null,2,"span",[["class","core-customfieldvalue"]],null,null,null,null,null)),(l()(),y._16(9,0,null,null,1,"core-format-text",[["maxHeight","120"]],null,null,null,null,null)),y._15(10,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"],maxHeight:[1,"maxHeight"]},null),(l()(),y._40(-1,null,["\n                    "]))],function(l,n){l(n,4,0,n.parent.context.$implicit.name);l(n,10,0,n.parent.context.$implicit.value,"120")},function(l,n){l(n,0,0,y._19(2,"core-customfield core-customfield_",n.parent.context.$implicit.type," core-customfield_",n.parent.context.$implicit.shortname,""))})}function _(l){return y._42(0,[(l()(),y._16(0,0,null,null,4,null,null,null,null,null,null,null)),(l()(),y._40(-1,null,["\n                    "])),(l()(),y._11(16777216,null,null,1,null,c)),y._15(3,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n                "]))],function(l,n){l(n,3,0,n.context.$implicit.value)},null)}function f(l){return y._42(0,[(l()(),y._16(0,0,null,null,9,"ion-item",[["class","item item-block"],["detail-none",""],["text-wrap",""]],null,null,null,hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,16,{contentLabel:0}),y._37(603979776,17,{_buttons:1}),y._37(603979776,18,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,2,1,null,_)),y._15(8,802816,null,0,pl.j,[y.W,y.T,y.v],{ngForOf:[0,"ngForOf"]},null),(l()(),y._40(-1,2,["\n            "]))],function(l,n){l(n,8,0,n.component.course.customfields)},null)}function d(l){return y._42(0,[(l()(),y._16(0,0,null,null,1,"core-file",[],null,null,null,wl.b,wl.a)),y._15(1,245760,null,0,Pl.a,[S.a,al.a,T.a,el.a,w.a,Sl.a,Tl.a,P.a,U.a],{file:[0,"file"],component:[1,"component"],componentId:[2,"componentId"]},null)],function(l,n){var u=n.component;l(n,1,0,n.context.$implicit,u.component,u.course.id)},null)}function p(l){return y._42(0,[(l()(),y._16(0,0,null,null,14,"ion-item",[["class","item item-block"],["text-wrap",""]],null,null,null,hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,19,{contentLabel:0}),y._37(603979776,20,{_buttons:1}),y._37(603979776,21,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                    "])),(l()(),y._16(7,0,null,2,1,"h2",[],null,null,null,null,null)),(l()(),y._40(8,null,["",""])),(l()(),y._40(-1,2,["\n                    "])),(l()(),y._16(10,0,null,2,3,"button",[["block",""],["ion-button",""],["margin-top",""]],null,[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.selfEnrolClicked(l.context.$implicit.id)&&e}return e},Ul.b,Ul.a)),y._15(11,1097728,[[20,4]],0,Ll.a,[[8,""],gl.a,y.p,y.K],{block:[0,"block"]},null),(l()(),y._40(12,0,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n                "]))],function(l,n){l(n,11,0,"")},function(l,n){l(n,8,0,n.context.$implicit.name);l(n,12,0,y._41(n,12,0,y._29(n,13).transform("core.courses.enrolme")))})}function h(l){return y._42(0,[(l()(),y._16(0,0,null,null,4,"div",[["detail-none",""]],null,null,null,null,null)),(l()(),y._40(-1,null,["\n                "])),(l()(),y._11(16777216,null,null,1,null,p)),y._15(3,802816,null,0,pl.j,[y.W,y.T,y.v],{ngForOf:[0,"ngForOf"]},null),(l()(),y._40(-1,null,["\n            "]))],function(l,n){l(n,3,0,n.component.selfEnrolInstances)},null)}function m(l){return y._42(0,[(l()(),y._16(0,0,null,null,19,"ion-item",[["class","item item-block"],["detail-none",""],["text-wrap",""]],null,null,null,hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,22,{contentLabel:0}),y._37(603979776,23,{_buttons:1}),y._37(603979776,24,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(7,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),y._40(8,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(11,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),y._40(12,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(15,0,null,2,3,"button",[["block",""],["ion-button",""],["margin-top",""]],null,[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.paypalEnrol()&&e}return e},Ul.b,Ul.a)),y._15(16,1097728,[[23,4]],0,Ll.a,[[8,""],gl.a,y.p,y.K],{block:[0,"block"]},null),(l()(),y._40(17,0,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n            "]))],function(l,n){l(n,16,0,"")},function(l,n){l(n,8,0,y._41(n,8,0,y._29(n,9).transform("core.courses.paypalaccepted")));l(n,12,0,y._41(n,12,0,y._29(n,13).transform("core.paymentinstant")));l(n,17,0,y._41(n,17,0,y._29(n,18).transform("core.courses.sendpaymentbutton")))})}function b(l){return y._42(0,[(l()(),y._16(0,0,null,null,10,"ion-item",[["class","item item-block"]],null,null,null,hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,25,{contentLabel:0}),y._37(603979776,26,{_buttons:1}),y._37(603979776,27,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(7,0,null,2,2,"p",[],null,null,null,null,null)),(l()(),y._40(8,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n            "]))],null,function(l,n){l(n,8,0,y._41(n,8,0,y._29(n,9).transform("core.courses.notenrollable")))})}function g(l){return y._42(0,[(l()(),y._16(0,0,null,null,1,"core-icon",[["item-start",""]],null,null,null,Ol.b,Ol.a)),y._15(1,704512,null,0,Al.a,[y.p,gl.a],{name:[0,"name"]},null)],function(l,n){l(n,1,0,n.component.prefetchCourseData.prefetchCourseIcon)},null)}function v(l){return y._42(0,[(l()(),y._16(0,0,null,null,2,"ion-icon",[["color","success"],["item-start",""],["name","cloud-done"],["role","img"]],[[1,"aria-label",0],[2,"hide",null]],null,null,null,null)),y._15(1,147456,[[30,4]],0,Wl.a,[gl.a,y.p,y.K],{color:[0,"color"],name:[1,"name"]},null),y._32(131072,El.a,[sl.a,y.i])],function(l,n){l(n,1,0,"success","cloud-done")},function(l,n){l(n,0,0,y._41(n,0,0,y._29(n,2).transform("core.downloaded")),y._29(n,1)._hidden)})}function C(l){return y._42(0,[(l()(),y._16(0,0,null,null,1,"ion-spinner",[["item-start",""]],[[2,"spinner-paused",null]],null,null,Kl.b,Kl.a)),y._15(1,114688,null,0,Ml.a,[gl.a,y.p,y.K],null,null)],function(l,n){l(n,1,0)},function(l,n){l(n,0,0,y._29(n,1)._paused)})}function I(l){return y._42(0,[(l()(),y._16(0,0,null,null,20,"a",[["class","item item-block"],["detail-none",""],["ion-item",""]],[[1,"aria-label",0]],[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.prefetchCourse()&&e}return e},hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,28,{contentLabel:0}),y._37(603979776,29,{_buttons:1}),y._37(603979776,30,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,0,1,null,g)),y._15(9,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,0,1,null,v)),y._15(12,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,0,1,null,C)),y._15(15,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(17,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),y._40(18,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n            "]))],function(l,n){var u=n.component;l(n,9,0,!u.prefetchCourseData.downloadSucceeded&&"spinner"!=u.prefetchCourseData.prefetchCourseIcon);l(n,12,0,u.prefetchCourseData.downloadSucceeded&&"spinner"!=u.prefetchCourseData.prefetchCourseIcon);l(n,15,0,"spinner"==u.prefetchCourseData.prefetchCourseIcon)},function(l,n){var u=n.component;l(n,0,0,y._41(n,0,0,y._29(n,6).transform(u.prefetchCourseData.title)));l(n,18,0,y._41(n,18,0,y._29(n,19).transform("core.course.downloadcourse")))})}function E(l){return y._42(0,[(l()(),y._16(0,0,null,null,13,"a",[["class","item item-block"],["ion-item",""]],[[8,"title",0]],[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.openCourse()&&e}return e},hl.b,hl.a)),y._15(1,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,31,{contentLabel:0}),y._37(603979776,32,{_buttons:1}),y._37(603979776,33,{_icons:1}),y._15(5,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(7,0,null,0,1,"ion-icon",[["item-start",""],["name","briefcase"],["role","img"]],[[2,"hide",null]],null,null,null,null)),y._15(8,147456,[[33,4]],0,Wl.a,[gl.a,y.p,y.K],{name:[0,"name"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(10,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),y._40(11,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n            "]))],function(l,n){l(n,8,0,"briefcase")},function(l,n){l(n,0,0,n.component.course.fullname);l(n,7,0,y._29(n,8)._hidden);l(n,11,0,y._41(n,11,0,y._29(n,12).transform("core.course.contents")))})}function x(l){return y._42(0,[(l()(),y._16(0,0,null,null,69,"ion-list",[],null,null,null,null,null)),y._15(1,16384,null,0,Fl.a,[gl.a,y.p,y.K,tl.a,Rl.l,Gl.a],null,null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,e)),y._15(4,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._16(6,0,null,null,19,"a",[["class","item item-block"],["ion-item",""],["text-wrap",""]],[[8,"title",0],[1,"detail-none",0]],[[null,"click"]],function(l,n,u){var e=!0;if("click"===n){e=!1!==l.component.openCourse()&&e}return e},hl.b,hl.a)),y._15(7,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,1,{contentLabel:0}),y._37(603979776,2,{_buttons:1}),y._37(603979776,3,{_icons:1}),y._15(11,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(13,0,null,0,1,"core-icon",[["fixed-width",""],["item-start",""],["name","fa-graduation-cap"]],null,null,null,Ol.b,Ol.a)),y._15(14,704512,null,0,Al.a,[y.p,gl.a],{name:[0,"name"],fixedWidth:[1,"fixedWidth"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(16,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),y._16(17,0,null,null,1,"core-format-text",[],null,null,null,null,null)),y._15(18,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,2,1,null,t)),y._15(21,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._11(16777216,null,2,1,null,a)),y._15(24,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,2,["\n            "])),(l()(),y._40(-1,null,["\n\n            "])),(l()(),y._11(16777216,null,null,1,null,r)),y._15(28,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n\n            "])),(l()(),y._11(16777216,null,null,1,null,i)),y._15(31,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n\n            "])),(l()(),y._11(16777216,null,null,1,null,f)),y._15(34,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n\n            "])),(l()(),y._11(16777216,null,null,1,null,d)),y._15(37,802816,null,0,pl.j,[y.W,y.T,y.v],{ngForOf:[0,"ngForOf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,h)),y._15(40,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,m)),y._15(43,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,b)),y._15(46,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,I)),y._15(49,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._11(16777216,null,null,1,null,E)),y._15(52,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,null,["\n            "])),(l()(),y._16(54,0,null,null,14,"a",[["class","item item-block"],["core-link",""],["ion-item",""]],[[8,"href",4],[8,"title",0]],null,null,hl.b,hl.a)),y._15(55,81920,null,0,Hl.a,[y.p,T.a,al.a,S.a,ol.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],U.a],null,null),y._15(56,1097728,null,3,ml.a,[bl.a,gl.a,y.p,y.K,[2,vl.a]],null,null),y._37(335544320,34,{contentLabel:0}),y._37(603979776,35,{_buttons:1}),y._37(603979776,36,{_icons:1}),y._15(60,16384,null,0,Cl.a,[],null,null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(62,0,null,0,1,"ion-icon",[["item-start",""],["name","open"],["role","img"]],[[2,"hide",null]],null,null,null,null)),y._15(63,147456,[[36,4]],0,Wl.a,[gl.a,y.p,y.K],{name:[0,"name"]},null),(l()(),y._40(-1,2,["\n                "])),(l()(),y._16(65,0,null,2,2,"h2",[],null,null,null,null,null)),(l()(),y._40(66,null,["",""])),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,2,["\n            "])),(l()(),y._40(-1,null,["\n        "]))],function(l,n){var u=n.component;l(n,4,0,u.course.courseImage);l(n,14,0,"fa-graduation-cap","");l(n,18,0,u.course.fullname);l(n,21,0,u.course.categoryname);l(n,24,0,u.course.startdate);l(n,28,0,u.course.summary);l(n,31,0,u.course.contacts&&u.course.contacts.length);l(n,34,0,u.course.customfields);l(n,37,0,u.course.overviewfiles);l(n,40,0,!u.isEnrolled);l(n,43,0,!u.isEnrolled&&u.paypalEnabled);l(n,46,0,!u.isEnrolled&&!u.selfEnrolInstances.length&&!u.paypalEnabled);l(n,49,0,u.canAccessCourse&&u.downloadCourseEnabled);l(n,52,0,!u.avoidOpenCourse&&u.canAccessCourse),l(n,55,0);l(n,63,0,"open")},function(l,n){var u=n.component;l(n,6,0,u.course.fullname,u.avoidOpenCourse||!u.canAccessCourse);l(n,54,0,u.courseUrl,u.course.fullname);l(n,62,0,y._29(n,63)._hidden);l(n,66,0,y._41(n,66,0,y._29(n,67).transform("core.openinbrowser")))})}function k(l){return y._42(0,[y._32(0,$l.a,[ul.a,jl.a]),(l()(),y._16(1,0,null,null,12,"ion-header",[],null,null,null,null,null)),y._15(2,16384,null,0,Nl.a,[gl.a,y.p,y.K,[2,Vl.a]],null,null),(l()(),y._40(-1,null,["\n    "])),(l()(),y._16(4,0,null,null,8,"ion-navbar",[["class","toolbar"],["core-back-button",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Bl.b,Bl.a)),y._15(5,49152,null,0,ql.a,[zl.a,[2,Vl.a],[2,cl.a],gl.a,y.p,y.K],null,null),y._15(6,212992,null,0,Yl.a,[ql.a,tl.a,sl.a,P.a],null,null),(l()(),y._40(-1,3,["\n        "])),(l()(),y._16(8,0,null,3,3,"ion-title",[],null,null,null,Jl.b,Jl.a)),y._15(9,49152,null,0,Ql.a,[gl.a,y.p,y.K,[2,Xl.a],[2,ql.a]],null,null),(l()(),y._16(10,0,null,0,1,"core-format-text",[],null,null,null,null,null)),y._15(11,540672,null,0,rl.a,[y.p,S.a,T.a,U.a,sl.a,tl.a,al.a,ol.a,ul.a,el.a,w.a,il.a,[2,cl.a],[2,_l.a],[2,fl.a],dl.a,P.a],{text:[0,"text"]},null),(l()(),y._40(-1,3,["\n    "])),(l()(),y._40(-1,null,["\n"])),(l()(),y._40(-1,null,["\n"])),(l()(),y._16(15,0,null,null,17,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,Zl.b,Zl.a)),y._15(16,4374528,null,0,_l.a,[gl.a,tl.a,Gl.a,y.p,y.K,zl.a,ln.a,y.D,[2,Vl.a],[2,cl.a]],null,null),(l()(),y._40(-1,1,["\n    "])),(l()(),y._16(18,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(l,n,u){var e=!0;if("ionRefresh"===n){e=!1!==l.component.refreshData(u)&&e}return e},null,null)),y._15(19,212992,null,0,nn.a,[tl.a,_l.a,y.D,Rl.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(l()(),y._40(-1,null,["\n        "])),(l()(),y._16(21,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,un.b,un.a)),y._15(22,114688,null,0,en.a,[nn.a,gl.a],{pullingText:[0,"pullingText"]},null),y._32(131072,El.a,[sl.a,y.i]),(l()(),y._40(-1,null,["\n    "])),(l()(),y._40(-1,1,["\n    "])),(l()(),y._16(26,0,null,1,5,"core-loading",[],null,null,null,tn.b,tn.a)),y._15(27,638976,null,0,on.a,[sl.a,y.p,P.a,al.a],{hideUntil:[0,"hideUntil"]},null),(l()(),y._40(-1,0,["\n\n        "])),(l()(),y._11(16777216,null,0,1,null,x)),y._15(30,16384,null,0,pl.k,[y.W,y.T],{ngIf:[0,"ngIf"]},null),(l()(),y._40(-1,0,["\n    "])),(l()(),y._40(-1,1,["\n"])),(l()(),y._40(-1,null,["\n"]))],function(l,n){var u=n.component;l(n,6,0);l(n,11,0,u.course.fullname);l(n,19,0,u.dataLoaded);l(n,22,0,y._19(1,"",y._41(n,22,0,y._29(n,23).transform("core.pulltorefresh")),""));l(n,27,0,u.dataLoaded);l(n,30,0,u.course)},function(l,n){l(n,4,0,y._29(n,5)._hidden,y._29(n,5)._sbPadding);l(n,15,0,y._29(n,16).statusbarPadding,y._29(n,16)._hasRefresher);l(n,18,0,"inactive"!==y._29(n,19).state,y._29(n,19)._top);l(n,21,0,y._29(n,22).r.state)})}Object.defineProperty(n,"__esModule",{value:!0});var y=u(1),D=(u(0),u(7),u(4)),w=u(10),P=u(12),S=u(2),T=u(5),U=u(11),L=u(52),O=u(97),A=u(15),W=u(37),K=u(176),M=function(){function l(l,n,u,e,t,o,a,r,s,i,c,_,f,d,p,h){var m=this;this.navCtrl=l,this.sitesProvider=u,this.domUtils=e,this.textUtils=t,this.coursesProvider=a,this.platform=r,this.modalCtrl=s,this.translate=i,this.eventsProvider=c,this.courseOptionsDelegate=_,this.courseHelper=f,this.courseProvider=d,this.courseFormatDelegate=p,this.zone=h,this.canAccessCourse=!0,this.component="CoreCoursesCoursePreview",this.selfEnrolInstances=[],this.avoidOpenCourse=!1,this.prefetchCourseData={downloadSucceeded:!1,prefetchCourseIcon:"spinner",title:"core.course.downloadcourse"},this.isGuestEnabled=!1,this.waitStart=0,this.pageDestroyed=!1,this.course=n.get("course"),this.avoidOpenCourse=n.get("avoidOpenCourse"),this.isMobile=o.isMobile(),this.isDesktop=o.isDesktop(),this.downloadCourseEnabled=!this.coursesProvider.isDownloadCourseDisabledInSite(),this.downloadCourseEnabled&&(this.courseStatusObserver=this.eventsProvider.on(P.a.COURSE_STATUS_CHANGED,function(l){l.courseId!=m.course.id&&l.courseId!=A.a.ALL_COURSES_CLEARED||m.updateCourseStatus(l.status)},this.sitesProvider.getCurrentSiteId()))}return l.prototype.ionViewDidLoad=function(){var l=this,n=this.sitesProvider.getCurrentSite(),u=n&&n.getURL();this.paypalEnabled=this.course.enrollmentmethods&&this.course.enrollmentmethods.indexOf("paypal")>-1,this.guestWSAvailable=this.coursesProvider.isGuestWSAvailable(),this.enrolUrl=this.textUtils.concatenatePaths(u,"enrol/index.php?id="+this.course.id),this.courseUrl=this.textUtils.concatenatePaths(u,"course/view.php?id="+this.course.id),this.paypalReturnUrl=this.textUtils.concatenatePaths(u,"enrol/paypal/return.php"),this.course.overviewfiles&&this.course.overviewfiles.length>0&&(this.course.courseImage=this.course.overviewfiles[0].fileurl),this.selfEnrolModal=this.modalCtrl.create("CoreCoursesSelfEnrolPasswordPage"),this.selfEnrolModal.onDidDismiss(function(n){void 0!==n&&l.selfEnrolInCourse(n,l.currentInstanceId)}),this.getCourse().finally(function(){l.downloadCourseEnabled&&l.courseHelper.getCourseStatusIconAndTitle(l.course.id).then(function(n){if(l.prefetchCourseData.prefetchCourseIcon=n.icon,l.prefetchCourseData.title=n.title,"spinner"==n.icon){var u=l.courseHelper.getCourseDownloadPromise(l.course.id);u?u.catch(function(n){l.pageDestroyed||l.domUtils.showErrorModalDefault(n,"core.course.errordownloadingcourse",!0)}):l.courseProvider.setCoursePreviousStatus(l.course.id)}})})},l.prototype.ngOnDestroy=function(){this.pageDestroyed=!0,this.courseStatusObserver&&this.courseStatusObserver.off()},l.prototype.canAccessAsGuest=function(){if(!this.isGuestEnabled)return Promise.reject(null);this.guestInstanceId=void 0;for(var l=0;l<this.enrollmentMethods.length;l++){var n=this.enrollmentMethods[l];if("guest"==n.type){this.guestInstanceId=n.id;break}}return this.guestInstanceId?this.coursesProvider.getCourseGuestEnrolmentInfo(this.guestInstanceId).then(function(l){return l.status?l.passwordrequired:Promise.reject(null)}):Promise.reject(null)},l.prototype.getCourse=function(l){var n=this;return this.selfEnrolInstances=[],this.coursesProvider.getCourseEnrolmentMethods(this.course.id).then(function(l){n.enrollmentMethods=l,n.enrollmentMethods.forEach(function(l){"self"===l.type?n.selfEnrolInstances.push(l):n.guestWSAvailable&&"guest"===l.type&&(n.isGuestEnabled=!0)})}).catch(function(l){n.domUtils.showErrorModalDefault(l,"Error getting enrolment data")}).then(function(){return n.coursesProvider.getUserCourse(n.course.id).then(function(l){return n.isEnrolled=!0,l}).catch(function(){return n.isEnrolled=!1,n.coursesProvider.getCourse(n.course.id)}).then(function(l){n.course.fullname=l.fullname||n.course.fullname,n.course.summary=l.summary||n.course.summary,n.canAccessCourse=!0}).catch(function(){return n.canAccessAsGuest().then(function(l){n.canAccessCourse=!l}).catch(function(){n.canAccessCourse=!1})})}).finally(function(){if(!n.sitesProvider.getCurrentSite().isVersionGreaterEqualThan("3.7"))return n.coursesProvider.isGetCoursesByFieldAvailableInSite().then(function(l){if(l)return n.coursesProvider.getCourseByField("id",n.course.id).then(function(l){n.course.customfields=l.customfields})}).catch(function(){})}).finally(function(){n.dataLoaded=!0})},l.prototype.openCourse=function(){this.canAccessCourse&&!this.avoidOpenCourse&&this.courseFormatDelegate.openCourse(this.navCtrl,this.course)},l.prototype.paypalEnrol=function(){var l,n,u,e,t,o=this,a=!1,r=function(n){-1!=n.url.indexOf(o.paypalReturnUrl)?a=!0:-1!=n.url.indexOf(o.courseUrl)&&a&&(s(),l.close())},s=function(){i(),o.dataLoaded&&(o.dataLoaded=!1,o.refreshData())},i=function(){n&&n.unsubscribe(),u&&u.unsubscribe(),e&&e.unsubscribe(),t&&t.unsubscribe()};this.sitesProvider.getCurrentSite().openInAppWithAutoLogin(this.enrolUrl).then(function(a){l=a,(o.isDesktop||o.isMobile)&&(n=l.on("loadstart").subscribe(function(l){o.zone.run(function(){return r(l)})}),e=l.on("exit").subscribe(function(){o.zone.run(s)})),o.isDesktop&&(u=l.on("loadstop").subscribe(r),t=o.platform.resume.subscribe(function(){o.dataLoaded&&(o.dataLoaded=!1,o.refreshData())}))})},l.prototype.selfEnrolClicked=function(l){var n=this;this.domUtils.showConfirm(this.translate.instant("core.courses.confirmselfenrol")).then(function(){n.selfEnrolInCourse("",l)}).catch(function(){})},l.prototype.selfEnrolInCourse=function(l,n){var u=this,e=this.domUtils.showModalLoading("core.loading",!0);return this.coursesProvider.selfEnrol(this.course.id,l,n).then(function(){u.isEnrolled=!0,u.dataLoaded=!1,u.waitForEnrolled(!0).then(function(){u.refreshData().finally(function(){u.eventsProvider.trigger(L.a.EVENT_MY_COURSES_UPDATED,{course:u.course},u.sitesProvider.getCurrentSiteId())})})}).catch(function(e){e&&e.code===L.a.ENROL_INVALID_KEY&&(u.selfEnrolModal.present(),u.currentInstanceId=n,!l)||u.domUtils.showErrorModalDefault(e,"core.courses.errorselfenrol",!0)}).finally(function(){e.dismiss()})},l.prototype.refreshData=function(l){var n=this,u=[];return u.push(this.coursesProvider.invalidateUserCourses()),u.push(this.coursesProvider.invalidateCourse(this.course.id)),u.push(this.coursesProvider.invalidateCourseEnrolmentMethods(this.course.id)),u.push(this.courseOptionsDelegate.clearAndInvalidateCoursesOptions(this.course.id)),this.sitesProvider.getCurrentSite().isVersionGreaterEqualThan("3.7")&&u.push(this.coursesProvider.invalidateCoursesByField("id",this.course.id)),this.guestInstanceId&&u.push(this.coursesProvider.invalidateCourseGuestEnrolmentInfo(this.guestInstanceId)),Promise.all(u).finally(function(){return n.getCourse(!0)}).finally(function(){l&&l.complete()})},l.prototype.updateCourseStatus=function(l){var n=this.courseHelper.getCourseStatusIconAndTitleFromStatus(l);this.prefetchCourseData.prefetchCourseIcon=n.icon,this.prefetchCourseData.title=n.title},l.prototype.waitForEnrolled=function(l){var n=this;return l&&(this.waitStart=Date.now()),this.coursesProvider.invalidateUserCourses().catch(function(){}).then(function(){return n.coursesProvider.getUserCourse(n.course.id)}).catch(function(){if(!(n.pageDestroyed||Date.now()-n.waitStart>6e4))return new Promise(function(l,u){setTimeout(function(){n.pageDestroyed?l():n.waitForEnrolled().then(l)},5e3)})})},l.prototype.prefetchCourse=function(){var l=this;this.courseHelper.confirmAndPrefetchCourse(this.prefetchCourseData,this.course).catch(function(n){l.pageDestroyed||l.domUtils.showErrorModalDefault(n,"core.course.errordownloadingcourse",!0)})},l}(),F=u(30),R=u(32),G=u(110),H=function(){return function(){}}(),$=u(1471),j=u(1472),N=u(1473),V=u(1474),B=u(1475),q=u(1476),z=u(1477),Y=u(1478),J=u(1479),Q=u(1480),X=u(1481),Z=u(1482),ll=u(1483),nl=u(215),ul=u(6),el=u(18),tl=u(17),ol=u(24),al=u(3),rl=u(42),sl=u(19),il=u(14),cl=u(20),_l=u(27),fl=u(26),dl=u(38),pl=u(9),hl=u(31),ml=u(22),bl=u(21),gl=u(8),vl=u(29),Cl=u(33),Il=u(477),El=u(28),xl=u(211),kl=u(180),yl=u(153),Dl=u(94),wl=u(212),Pl=u(182),Sl=u(136),Tl=u(67),Ul=u(45),Ll=u(43),Ol=u(112),Al=u(95),Wl=u(47),Kl=u(129),Ml=u(113),Fl=u(83),Rl=u(40),Gl=u(34),Hl=u(183),$l=u(246),jl=u(25),Nl=u(365),Vl=u(39),Bl=u(713),ql=u(209),zl=u(35),Yl=u(471),Jl=u(714),Ql=u(309),Xl=u(245),Zl=u(179),ln=u(102),nn=u(152),un=u(210),en=u(168),tn=u(51),on=u(48),an=u(72),rn=u(169),sn=y._14({encapsulation:2,styles:[],data:{}}),cn=y._12("page-core-courses-course-preview",M,function(l){return y._42(0,[(l()(),y._16(0,0,null,null,1,"page-core-courses-course-preview",[],null,null,null,k,sn)),y._15(1,180224,null,0,M,[cl.a,an.a,S.a,T.a,U.a,w.a,L.a,tl.a,rn.a,sl.a,P.a,O.a,W.a,A.a,K.a,y.D],null,null)],null,null)},{},{},[]),_n=u(23),fn=u(361),dn=u(362),pn=u(364),hn=u(363),mn=u(470),bn=u(712),gn=u(269);u.d(n,"CoreCoursesCoursePreviewPageModuleNgFactory",function(){return vn});var vn=y._13(H,[],function(l){return y._25([y._26(512,y.n,y._6,[[8,[$.a,j.a,N.a,V.a,B.a,q.a,z.a,Y.a,J.a,Q.a,X.a,Z.a,ll.a,cn]],[3,y.n],y.B]),y._26(4608,pl.m,pl.l,[y.x,[2,pl.w]]),y._26(4608,_n.x,_n.x,[]),y._26(4608,_n.d,_n.d,[]),y._26(4608,fn.b,fn.a,[]),y._26(4608,dn.a,dn.b,[]),y._26(4608,pn.b,pn.a,[]),y._26(4608,hn.b,hn.a,[]),y._26(4608,sl.a,sl.a,[mn.a,fn.b,dn.a,pn.b,hn.b,sl.b,sl.c]),y._26(512,pl.b,pl.b,[]),y._26(512,_n.v,_n.v,[]),y._26(512,_n.i,_n.i,[]),y._26(512,_n.s,_n.s,[]),y._26(512,bn.a,bn.a,[]),y._26(512,D.a,D.a,[]),y._26(512,R.a,R.a,[]),y._26(512,G.a,G.a,[]),y._26(512,F.a,F.a,[]),y._26(512,bn.b,bn.b,[]),y._26(512,H,H,[]),y._26(256,sl.c,void 0,[]),y._26(256,sl.b,void 0,[]),y._26(256,gn.a,M,[])])})}});
+webpackJsonp([62],{
+
+/***/ 2095:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+
+// EXTERNAL MODULE: ./node_modules/@angular/core/esm5/core.js
+var core = __webpack_require__(0);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/index.js + 3 modules
+var ionic_angular = __webpack_require__(6);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/index.js + 1 modules
+var _ngx_translate_core = __webpack_require__(3);
+
+// EXTERNAL MODULE: ./src/providers/app.ts
+var app = __webpack_require__(9);
+
+// EXTERNAL MODULE: ./src/providers/events.ts
+var events = __webpack_require__(11);
+
+// EXTERNAL MODULE: ./src/providers/sites.ts
+var sites = __webpack_require__(1);
+
+// EXTERNAL MODULE: ./src/providers/utils/dom.ts
+var dom = __webpack_require__(4);
+
+// EXTERNAL MODULE: ./src/providers/utils/text.ts
+var utils_text = __webpack_require__(10);
+
+// EXTERNAL MODULE: ./src/core/courses/providers/courses.ts
+var courses = __webpack_require__(51);
+
+// EXTERNAL MODULE: ./src/core/course/providers/options-delegate.ts
+var options_delegate = __webpack_require__(96);
+
+// EXTERNAL MODULE: ./src/core/course/providers/course.ts
+var course = __webpack_require__(14);
+
+// EXTERNAL MODULE: ./src/core/course/providers/helper.ts
+var helper = __webpack_require__(36);
+
+// EXTERNAL MODULE: ./src/core/course/providers/format-delegate.ts
+var format_delegate = __webpack_require__(175);
+
+// CONCATENATED MODULE: ./src/core/courses/pages/course-preview/course-preview.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that allows "previewing" a course and enrolling in it if enabled and not enrolled.
+ */
+var course_preview_CoreCoursesCoursePreviewPage = /** @class */ (function () {
+    function CoreCoursesCoursePreviewPage(navCtrl, navParams, sitesProvider, domUtils, textUtils, appProvider, coursesProvider, platform, modalCtrl, translate, eventsProvider, courseOptionsDelegate, courseHelper, courseProvider, courseFormatDelegate, zone) {
+        var _this = this;
+        this.navCtrl = navCtrl;
+        this.sitesProvider = sitesProvider;
+        this.domUtils = domUtils;
+        this.textUtils = textUtils;
+        this.coursesProvider = coursesProvider;
+        this.platform = platform;
+        this.modalCtrl = modalCtrl;
+        this.translate = translate;
+        this.eventsProvider = eventsProvider;
+        this.courseOptionsDelegate = courseOptionsDelegate;
+        this.courseHelper = courseHelper;
+        this.courseProvider = courseProvider;
+        this.courseFormatDelegate = courseFormatDelegate;
+        this.zone = zone;
+        this.canAccessCourse = true;
+        this.component = 'CoreCoursesCoursePreview';
+        this.selfEnrolInstances = [];
+        this.avoidOpenCourse = false;
+        this.prefetchCourseData = {
+            downloadSucceeded: false,
+            prefetchCourseIcon: 'spinner',
+            title: 'core.course.downloadcourse'
+        };
+        this.isGuestEnabled = false;
+        this.waitStart = 0;
+        this.pageDestroyed = false;
+        this.course = navParams.get('course');
+        this.avoidOpenCourse = navParams.get('avoidOpenCourse');
+        this.isMobile = appProvider.isMobile();
+        this.isDesktop = appProvider.isDesktop();
+        this.downloadCourseEnabled = !this.coursesProvider.isDownloadCourseDisabledInSite();
+        if (this.downloadCourseEnabled) {
+            // Listen for status change in course.
+            this.courseStatusObserver = this.eventsProvider.on(events["a" /* CoreEventsProvider */].COURSE_STATUS_CHANGED, function (data) {
+                if (data.courseId == _this.course.id || data.courseId == course["a" /* CoreCourseProvider */].ALL_COURSES_CLEARED) {
+                    _this.updateCourseStatus(data.status);
+                }
+            }, this.sitesProvider.getCurrentSiteId());
+        }
+    }
+    /**
+     * View loaded.
+     */
+    CoreCoursesCoursePreviewPage.prototype.ionViewDidLoad = function () {
+        var _this = this;
+        var currentSite = this.sitesProvider.getCurrentSite(), currentSiteUrl = currentSite && currentSite.getURL();
+        this.paypalEnabled = this.course.enrollmentmethods && this.course.enrollmentmethods.indexOf('paypal') > -1;
+        this.guestWSAvailable = this.coursesProvider.isGuestWSAvailable();
+        this.enrolUrl = this.textUtils.concatenatePaths(currentSiteUrl, 'enrol/index.php?id=' + this.course.id);
+        this.courseUrl = this.textUtils.concatenatePaths(currentSiteUrl, 'course/view.php?id=' + this.course.id);
+        this.paypalReturnUrl = this.textUtils.concatenatePaths(currentSiteUrl, 'enrol/paypal/return.php');
+        if (this.course.overviewfiles && this.course.overviewfiles.length > 0) {
+            this.course.courseImage = this.course.overviewfiles[0].fileurl;
+        }
+        // Initialize the self enrol modal.
+        this.selfEnrolModal = this.modalCtrl.create('CoreCoursesSelfEnrolPasswordPage');
+        this.selfEnrolModal.onDidDismiss(function (password) {
+            if (typeof password != 'undefined') {
+                _this.selfEnrolInCourse(password, _this.currentInstanceId);
+            }
+        });
+        this.getCourse().finally(function () {
+            if (!_this.downloadCourseEnabled) {
+                // Cannot download the whole course, stop.
+                return;
+            }
+            // Determine course prefetch icon.
+            _this.courseHelper.getCourseStatusIconAndTitle(_this.course.id).then(function (data) {
+                _this.prefetchCourseData.prefetchCourseIcon = data.icon;
+                _this.prefetchCourseData.title = data.title;
+                if (data.icon == 'spinner') {
+                    // Course is being downloaded. Get the download promise.
+                    var promise = _this.courseHelper.getCourseDownloadPromise(_this.course.id);
+                    if (promise) {
+                        // There is a download promise. If it fails, show an error.
+                        promise.catch(function (error) {
+                            if (!_this.pageDestroyed) {
+                                _this.domUtils.showErrorModalDefault(error, 'core.course.errordownloadingcourse', true);
+                            }
+                        });
+                    }
+                    else {
+                        // No download, this probably means that the app was closed while downloading. Set previous status.
+                        _this.courseProvider.setCoursePreviousStatus(_this.course.id);
+                    }
+                }
+            });
+        });
+    };
+    /**
+     * Page destroyed.
+     */
+    CoreCoursesCoursePreviewPage.prototype.ngOnDestroy = function () {
+        this.pageDestroyed = true;
+        if (this.courseStatusObserver) {
+            this.courseStatusObserver.off();
+        }
+    };
+    /**
+     * Check if the user can access as guest.
+     *
+     * @return {Promise<boolean>} Promise resolved if can access as guest, rejected otherwise. Resolve param indicates if
+     *                            password is required for guest access.
+     */
+    CoreCoursesCoursePreviewPage.prototype.canAccessAsGuest = function () {
+        if (!this.isGuestEnabled) {
+            return Promise.reject(null);
+        }
+        // Search instance ID of guest enrolment method.
+        this.guestInstanceId = undefined;
+        for (var i = 0; i < this.enrollmentMethods.length; i++) {
+            var method = this.enrollmentMethods[i];
+            if (method.type == 'guest') {
+                this.guestInstanceId = method.id;
+                break;
+            }
+        }
+        if (this.guestInstanceId) {
+            return this.coursesProvider.getCourseGuestEnrolmentInfo(this.guestInstanceId).then(function (info) {
+                if (!info.status) {
+                    // Not active, reject.
+                    return Promise.reject(null);
+                }
+                return info.passwordrequired;
+            });
+        }
+        return Promise.reject(null);
+    };
+    /**
+     * Convenience function to get course. We use this to determine if a user can see the course or not.
+     *
+     * @param {boolean} refresh Whether the user is refreshing the data.
+     */
+    CoreCoursesCoursePreviewPage.prototype.getCourse = function (refresh) {
+        var _this = this;
+        // Get course enrolment methods.
+        this.selfEnrolInstances = [];
+        return this.coursesProvider.getCourseEnrolmentMethods(this.course.id).then(function (methods) {
+            _this.enrollmentMethods = methods;
+            _this.enrollmentMethods.forEach(function (method) {
+                if (method.type === 'self') {
+                    _this.selfEnrolInstances.push(method);
+                }
+                else if (_this.guestWSAvailable && method.type === 'guest') {
+                    _this.isGuestEnabled = true;
+                }
+            });
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error getting enrolment data');
+        }).then(function () {
+            // Check if user is enrolled in the course.
+            return _this.coursesProvider.getUserCourse(_this.course.id).then(function (course) {
+                _this.isEnrolled = true;
+                return course;
+            }).catch(function () {
+                // The user is not enrolled in the course. Use getCourses to see if it's an admin/manager and can see the course.
+                _this.isEnrolled = false;
+                return _this.coursesProvider.getCourse(_this.course.id);
+            }).then(function (course) {
+                // Success retrieving the course, we can assume the user has permissions to view it.
+                _this.course.fullname = course.fullname || _this.course.fullname;
+                _this.course.summary = course.summary || _this.course.summary;
+                _this.canAccessCourse = true;
+            }).catch(function () {
+                // The user is not an admin/manager. Check if we can provide guest access to the course.
+                return _this.canAccessAsGuest().then(function (passwordRequired) {
+                    _this.canAccessCourse = !passwordRequired;
+                }).catch(function () {
+                    _this.canAccessCourse = false;
+                });
+            });
+        }).finally(function () {
+            if (!_this.sitesProvider.getCurrentSite().isVersionGreaterEqualThan('3.7')) {
+                return _this.coursesProvider.isGetCoursesByFieldAvailableInSite().then(function (available) {
+                    if (available) {
+                        return _this.coursesProvider.getCourseByField('id', _this.course.id).then(function (course) {
+                            _this.course.customfields = course.customfields;
+                        });
+                    }
+                }).catch(function () {
+                    // Ignore errors.
+                });
+            }
+        }).finally(function () {
+            _this.dataLoaded = true;
+        });
+    };
+    /**
+     * Open the course.
+     */
+    CoreCoursesCoursePreviewPage.prototype.openCourse = function () {
+        if (!this.canAccessCourse || this.avoidOpenCourse) {
+            // Course cannot be opened or we are avoiding opening because we accessed from inside a course.
+            return;
+        }
+        this.courseFormatDelegate.openCourse(this.navCtrl, this.course);
+    };
+    /**
+     * Enrol using PayPal.
+     */
+    CoreCoursesCoursePreviewPage.prototype.paypalEnrol = function () {
+        var _this = this;
+        var window, hasReturnedFromPaypal = false, inAppLoadSubscription, inAppFinishSubscription, inAppExitSubscription, appResumeSubscription;
+        var urlLoaded = function (event) {
+            if (event.url.indexOf(_this.paypalReturnUrl) != -1) {
+                hasReturnedFromPaypal = true;
+            }
+            else if (event.url.indexOf(_this.courseUrl) != -1 && hasReturnedFromPaypal) {
+                // User reached the course index page after returning from PayPal, close the InAppBrowser.
+                inAppClosed();
+                window.close();
+            }
+        }, inAppClosed = function () {
+            // InAppBrowser closed, refresh data.
+            unsubscribeAll();
+            if (!_this.dataLoaded) {
+                return;
+            }
+            _this.dataLoaded = false;
+            _this.refreshData();
+        }, unsubscribeAll = function () {
+            inAppLoadSubscription && inAppLoadSubscription.unsubscribe();
+            inAppFinishSubscription && inAppFinishSubscription.unsubscribe();
+            inAppExitSubscription && inAppExitSubscription.unsubscribe();
+            appResumeSubscription && appResumeSubscription.unsubscribe();
+        };
+        // Open the enrolment page in InAppBrowser.
+        this.sitesProvider.getCurrentSite().openInAppWithAutoLogin(this.enrolUrl).then(function (w) {
+            window = w;
+            if (_this.isDesktop || _this.isMobile) {
+                // Observe loaded pages in the InAppBrowser to check if the enrol process has ended.
+                inAppLoadSubscription = window.on('loadstart').subscribe(function (event) {
+                    // Execute the callback in the Angular zone, so change detection doesn't stop working.
+                    _this.zone.run(function () { return urlLoaded(event); });
+                });
+                // Observe window closed.
+                inAppExitSubscription = window.on('exit').subscribe(function () {
+                    // Execute the callback in the Angular zone, so change detection doesn't stop working.
+                    _this.zone.run(inAppClosed);
+                });
+            }
+            if (_this.isDesktop) {
+                // In desktop, also observe stop loading since some pages don't throw the loadstart event.
+                inAppFinishSubscription = window.on('loadstop').subscribe(urlLoaded);
+                // Since the user can switch windows, reload the data if he comes back to the app.
+                appResumeSubscription = _this.platform.resume.subscribe(function () {
+                    if (!_this.dataLoaded) {
+                        return;
+                    }
+                    _this.dataLoaded = false;
+                    _this.refreshData();
+                });
+            }
+        });
+    };
+    /**
+     * User clicked in a self enrol button.
+     *
+     * @param {number} instanceId The instance ID of the enrolment method.
+     */
+    CoreCoursesCoursePreviewPage.prototype.selfEnrolClicked = function (instanceId) {
+        var _this = this;
+        this.domUtils.showConfirm(this.translate.instant('core.courses.confirmselfenrol')).then(function () {
+            _this.selfEnrolInCourse('', instanceId);
+        }).catch(function () {
+            // User cancelled.
+        });
+    };
+    /**
+     * Self enrol in a course.
+     *
+     * @param {string} password Password to use.
+     * @param {number} instanceId The instance ID.
+     * @return {Promise<any>} Promise resolved when self enrolled.
+     */
+    CoreCoursesCoursePreviewPage.prototype.selfEnrolInCourse = function (password, instanceId) {
+        var _this = this;
+        var modal = this.domUtils.showModalLoading('core.loading', true);
+        return this.coursesProvider.selfEnrol(this.course.id, password, instanceId).then(function () {
+            // Close modal and refresh data.
+            _this.isEnrolled = true;
+            _this.dataLoaded = false;
+            // Sometimes the list of enrolled courses takes a while to be updated. Wait for it.
+            _this.waitForEnrolled(true).then(function () {
+                _this.refreshData().finally(function () {
+                    // My courses have been updated, trigger event.
+                    _this.eventsProvider.trigger(courses["a" /* CoreCoursesProvider */].EVENT_MY_COURSES_UPDATED, { course: _this.course }, _this.sitesProvider.getCurrentSiteId());
+                });
+            });
+        }).catch(function (error) {
+            if (error && error.code === courses["a" /* CoreCoursesProvider */].ENROL_INVALID_KEY) {
+                // Invalid password, show the modal to enter the password.
+                _this.selfEnrolModal.present();
+                _this.currentInstanceId = instanceId;
+                if (!password) {
+                    // No password entered, don't show error.
+                    return;
+                }
+            }
+            _this.domUtils.showErrorModalDefault(error, 'core.courses.errorselfenrol', true);
+        }).finally(function () {
+            modal.dismiss();
+        });
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} [refresher] The refresher if this was triggered by a Pull To Refresh.
+     */
+    CoreCoursesCoursePreviewPage.prototype.refreshData = function (refresher) {
+        var _this = this;
+        var promises = [];
+        promises.push(this.coursesProvider.invalidateUserCourses());
+        promises.push(this.coursesProvider.invalidateCourse(this.course.id));
+        promises.push(this.coursesProvider.invalidateCourseEnrolmentMethods(this.course.id));
+        promises.push(this.courseOptionsDelegate.clearAndInvalidateCoursesOptions(this.course.id));
+        if (this.sitesProvider.getCurrentSite().isVersionGreaterEqualThan('3.7')) {
+            promises.push(this.coursesProvider.invalidateCoursesByField('id', this.course.id));
+        }
+        if (this.guestInstanceId) {
+            promises.push(this.coursesProvider.invalidateCourseGuestEnrolmentInfo(this.guestInstanceId));
+        }
+        return Promise.all(promises).finally(function () {
+            return _this.getCourse(true);
+        }).finally(function () {
+            if (refresher) {
+                refresher.complete();
+            }
+        });
+    };
+    /**
+     * Update the course status icon and title.
+     *
+     * @param {string} status Status to show.
+     */
+    CoreCoursesCoursePreviewPage.prototype.updateCourseStatus = function (status) {
+        var statusData = this.courseHelper.getCourseStatusIconAndTitleFromStatus(status);
+        this.prefetchCourseData.prefetchCourseIcon = statusData.icon;
+        this.prefetchCourseData.title = statusData.title;
+    };
+    /**
+     * Wait for the user to be enrolled in the course.
+     *
+     * @param {boolean} first If it's the first call (true) or it's a recursive call (false).
+     * @return {Promise<any>} Promise resolved when enrolled or timeout.
+     */
+    CoreCoursesCoursePreviewPage.prototype.waitForEnrolled = function (first) {
+        var _this = this;
+        if (first) {
+            this.waitStart = Date.now();
+        }
+        // Check if user is enrolled in the course.
+        return this.coursesProvider.invalidateUserCourses().catch(function () {
+            // Ignore errors.
+        }).then(function () {
+            return _this.coursesProvider.getUserCourse(_this.course.id);
+        }).catch(function () {
+            // Not enrolled, wait a bit and try again.
+            if (_this.pageDestroyed || (Date.now() - _this.waitStart > 60000)) {
+                // Max time reached or the user left the view, stop.
+                return;
+            }
+            return new Promise(function (resolve, reject) {
+                setTimeout(function () {
+                    if (!_this.pageDestroyed) {
+                        // Wait again.
+                        _this.waitForEnrolled().then(resolve);
+                    }
+                    else {
+                        resolve();
+                    }
+                }, 5000);
+            });
+        });
+    };
+    /**
+     * Prefetch the course.
+     */
+    CoreCoursesCoursePreviewPage.prototype.prefetchCourse = function () {
+        var _this = this;
+        this.courseHelper.confirmAndPrefetchCourse(this.prefetchCourseData, this.course).catch(function (error) {
+            if (!_this.pageDestroyed) {
+                _this.domUtils.showErrorModalDefault(error, 'core.course.errordownloadingcourse', true);
+            }
+        });
+    };
+    CoreCoursesCoursePreviewPage = __decorate([
+        Object(core["m" /* Component */])({
+            selector: 'page-core-courses-course-preview',
+            templateUrl: 'course-preview.html',
+        }),
+        __metadata("design:paramtypes", [ionic_angular["s" /* NavController */], ionic_angular["t" /* NavParams */], sites["a" /* CoreSitesProvider */],
+            dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], app["a" /* CoreAppProvider */],
+            courses["a" /* CoreCoursesProvider */], ionic_angular["v" /* Platform */], ionic_angular["q" /* ModalController */],
+            _ngx_translate_core["c" /* TranslateService */], events["a" /* CoreEventsProvider */],
+            options_delegate["a" /* CoreCourseOptionsDelegate */], helper["a" /* CoreCourseHelperProvider */],
+            course["a" /* CoreCourseProvider */], format_delegate["a" /* CoreCourseFormatDelegate */],
+            core["M" /* NgZone */]])
+    ], CoreCoursesCoursePreviewPage);
+    return CoreCoursesCoursePreviewPage;
+}());
+
+//# sourceMappingURL=course-preview.js.map
+// EXTERNAL MODULE: ./src/components/components.module.ts
+var components_module = __webpack_require__(29);
+
+// EXTERNAL MODULE: ./src/directives/directives.module.ts + 2 modules
+var directives_module = __webpack_require__(31);
+
+// EXTERNAL MODULE: ./src/pipes/pipes.module.ts + 2 modules
+var pipes_module = __webpack_require__(109);
+
+// CONCATENATED MODULE: ./src/core/courses/pages/course-preview/course-preview.module.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var course_preview_module___decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+var course_preview_module_CoreCoursesCoursePreviewPageModule = /** @class */ (function () {
+    function CoreCoursesCoursePreviewPageModule() {
+    }
+    CoreCoursesCoursePreviewPageModule = course_preview_module___decorate([
+        Object(core["I" /* NgModule */])({
+            declarations: [
+                course_preview_CoreCoursesCoursePreviewPage,
+            ],
+            imports: [
+                components_module["a" /* CoreComponentsModule */],
+                directives_module["a" /* CoreDirectivesModule */],
+                pipes_module["a" /* CorePipesModule */],
+                ionic_angular["l" /* IonicPageModule */].forChild(course_preview_CoreCoursesCoursePreviewPage),
+                _ngx_translate_core["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], CoreCoursesCoursePreviewPageModule);
+    return CoreCoursesCoursePreviewPageModule;
+}());
+
+//# sourceMappingURL=course-preview.module.js.map
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js
+var action_sheet_component_ngfactory = __webpack_require__(1471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/alert/alert-component.ngfactory.js
+var alert_component_ngfactory = __webpack_require__(1472);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app-root.ngfactory.js
+var app_root_ngfactory = __webpack_require__(1473);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/loading/loading-component.ngfactory.js
+var loading_component_ngfactory = __webpack_require__(1474);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/modal/modal-component.ngfactory.js
+var modal_component_ngfactory = __webpack_require__(1475);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/picker/picker-component.ngfactory.js + 1 modules
+var picker_component_ngfactory = __webpack_require__(1476);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-component.ngfactory.js
+var popover_component_ngfactory = __webpack_require__(1477);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/select/select-popover-component.ngfactory.js
+var select_popover_component_ngfactory = __webpack_require__(1478);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toast/toast-component.ngfactory.js
+var toast_component_ngfactory = __webpack_require__(1479);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-popover.ngfactory.js
+var context_menu_popover_ngfactory = __webpack_require__(1480);
+
+// EXTERNAL MODULE: ./src/components/course-picker-menu/course-picker-menu-popover.ngfactory.js
+var course_picker_menu_popover_ngfactory = __webpack_require__(1481);
+
+// EXTERNAL MODULE: ./src/components/recaptcha/recaptchamodal.ngfactory.js
+var recaptchamodal_ngfactory = __webpack_require__(1482);
+
+// EXTERNAL MODULE: ./src/components/bs-tooltip/bs-tooltip.ngfactory.js
+var bs_tooltip_ngfactory = __webpack_require__(1483);
+
+// EXTERNAL MODULE: ./src/directives/external-content.ts
+var external_content = __webpack_require__(215);
+
+// EXTERNAL MODULE: ./src/providers/logger.ts
+var logger = __webpack_require__(5);
+
+// EXTERNAL MODULE: ./src/providers/filepool.ts
+var filepool = __webpack_require__(17);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/platform.js + 1 modules
+var platform_platform = __webpack_require__(16);
+
+// EXTERNAL MODULE: ./src/providers/utils/url.ts
+var url = __webpack_require__(23);
+
+// EXTERNAL MODULE: ./src/providers/utils/utils.ts
+var utils = __webpack_require__(2);
+
+// EXTERNAL MODULE: ./src/directives/format-text.ts
+var format_text = __webpack_require__(41);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.service.js
+var translate_service = __webpack_require__(18);
+
+// EXTERNAL MODULE: ./src/core/contentlinks/providers/helper.ts
+var providers_helper = __webpack_require__(13);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-controller.js
+var nav_controller = __webpack_require__(19);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.js
+var content = __webpack_require__(26);
+
+// EXTERNAL MODULE: ./src/components/split-view/split-view.ts
+var split_view = __webpack_require__(25);
+
+// EXTERNAL MODULE: ./src/providers/utils/iframe.ts
+var iframe = __webpack_require__(37);
+
+// EXTERNAL MODULE: ./node_modules/@angular/common/esm5/common.js
+var common = __webpack_require__(8);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.ngfactory.js + 1 modules
+var item_ngfactory = __webpack_require__(30);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.js
+var item = __webpack_require__(21);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/form.js
+var util_form = __webpack_require__(20);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/config/config.js
+var config = __webpack_require__(7);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-reorder.js + 1 modules
+var item_reorder = __webpack_require__(28);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-content.js
+var item_content = __webpack_require__(32);
+
+// EXTERNAL MODULE: ./src/directives/user-link.ts
+var user_link = __webpack_require__(477);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.pipe.js
+var translate_pipe = __webpack_require__(27);
+
+// EXTERNAL MODULE: ./src/components/user-avatar/user-avatar.ngfactory.js
+var user_avatar_ngfactory = __webpack_require__(211);
+
+// EXTERNAL MODULE: ./src/components/user-avatar/user-avatar.ts
+var user_avatar = __webpack_require__(179);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/avatar/avatar.js
+var avatar = __webpack_require__(152);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-divider.js
+var item_divider = __webpack_require__(93);
+
+// EXTERNAL MODULE: ./src/components/file/file.ngfactory.js
+var file_ngfactory = __webpack_require__(212);
+
+// EXTERNAL MODULE: ./src/components/file/file.ts
+var file = __webpack_require__(181);
+
+// EXTERNAL MODULE: ./src/providers/file-helper.ts
+var file_helper = __webpack_require__(135);
+
+// EXTERNAL MODULE: ./src/providers/utils/mimetype.ts
+var mimetype = __webpack_require__(66);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.ngfactory.js
+var button_ngfactory = __webpack_require__(44);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.js
+var button_button = __webpack_require__(42);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ngfactory.js
+var icon_ngfactory = __webpack_require__(111);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ts
+var icon = __webpack_require__(94);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/icon/icon.js
+var icon_icon = __webpack_require__(46);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/spinner/spinner.ngfactory.js
+var spinner_ngfactory = __webpack_require__(128);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/spinner/spinner.js
+var spinner = __webpack_require__(112);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/list/list.js + 1 modules
+var list = __webpack_require__(82);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/gestures/gesture-controller.js
+var gesture_controller = __webpack_require__(39);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/dom-controller.js
+var dom_controller = __webpack_require__(33);
+
+// EXTERNAL MODULE: ./src/directives/link.ts
+var directives_link = __webpack_require__(182);
+
+// EXTERNAL MODULE: ./src/pipes/format-date.ts
+var format_date = __webpack_require__(246);
+
+// EXTERNAL MODULE: ./src/providers/utils/time.ts
+var time = __webpack_require__(24);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-header.js
+var toolbar_header = __webpack_require__(365);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/view-controller.js
+var view_controller = __webpack_require__(38);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.ngfactory.js
+var navbar_ngfactory = __webpack_require__(713);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.js
+var navbar = __webpack_require__(209);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app.js + 3 modules
+var app_app = __webpack_require__(34);
+
+// EXTERNAL MODULE: ./src/directives/back-button.ts
+var back_button = __webpack_require__(471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js
+var toolbar_title_ngfactory = __webpack_require__(714);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.js
+var toolbar_title = __webpack_require__(309);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar.js
+var toolbar = __webpack_require__(245);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.ngfactory.js
+var content_ngfactory = __webpack_require__(178);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/keyboard.js
+var keyboard = __webpack_require__(101);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher.js
+var refresher = __webpack_require__(151);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.ngfactory.js
+var refresher_content_ngfactory = __webpack_require__(210);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.js
+var refresher_content = __webpack_require__(167);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ngfactory.js
+var loading_ngfactory = __webpack_require__(50);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ts
+var loading = __webpack_require__(47);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-params.js
+var nav_params = __webpack_require__(71);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/modal/modal-controller.js
+var modal_controller = __webpack_require__(168);
+
+// CONCATENATED MODULE: ./src/core/courses/pages/course-preview/course-preview.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_CoreCoursesCoursePreviewPage = [];
+var RenderType_CoreCoursesCoursePreviewPage = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_CoreCoursesCoursePreviewPage, data: {} });
+
+function View_CoreCoursesCoursePreviewPage_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, "div", [["class", "core-course-thumb"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.openCourse() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 1, "img", [["alt", ""], ["core-external-content", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](3, 4734976, null, 0, external_content["a" /* CoreExternalContentDirective */], [core["t" /* ElementRef */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], platform_platform["a" /* Platform */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], app["a" /* CoreAppProvider */], utils["a" /* CoreUtilsProvider */]], { src: [0, "src"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.courseImage; _ck(_v, 3, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_3(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "p", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](2, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.categoryname; _ck(_v, 2, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_5(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "span", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](1, null, [" - ", ""])), core["_49" /* ɵppd */](2, 2)], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, _ck(_v, 2, 0, core["_44" /* ɵnov */](_v.parent.parent.parent, 0), (_co.course.enddate * 1000), "strftimedatefullshort")); _ck(_v, 1, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_4(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](1, null, ["", " "])), core["_49" /* ɵppd */](2, 2), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_5)), core["_30" /* ɵdid */](4, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.course.enddate; _ck(_v, 4, 0, currVal_1); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, _ck(_v, 2, 0, core["_44" /* ɵnov */](_v.parent.parent, 0), (_co.course.startdate * 1000), "strftimedatefullshort")); _ck(_v, 1, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_6(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 9, "ion-item", [["class", "item item-block"], ["detail-none", ""], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 4, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 5, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 6, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 1, "core-format-text", [["maxHeight", "120"]], null, null, null, null, null)), core["_30" /* ɵdid */](8, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"], maxHeight: [1, "maxHeight"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.summary; var currVal_1 = "120"; _ck(_v, 8, 0, currVal_0, currVal_1); }, null); }
+function View_CoreCoursesCoursePreviewPage_8(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 15, "a", [["class", "item item-block"], ["core-user-link", ""], ["ion-item", ""], ["text-wrap", ""]], [[1, "aria-label", 0]], null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 81920, null, 0, user_link["a" /* CoreUserLinkDirective */], [core["t" /* ElementRef */], [2, nav_controller["a" /* NavController */]], [2, split_view["a" /* CoreSplitViewComponent */]]], { userId: [0, "userId"], courseId: [1, "courseId"] }, null), core["_30" /* ɵdid */](2, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 10, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 11, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 12, { _icons: 1 }), core["_30" /* ɵdid */](6, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](9, 0, null, 0, 2, "ion-avatar", [["core-user-avatar", ""], ["item-start", ""]], null, null, null, user_avatar_ngfactory["b" /* View_CoreUserAvatarComponent_0 */], user_avatar_ngfactory["a" /* RenderType_CoreUserAvatarComponent */])), core["_30" /* ɵdid */](10, 770048, null, 0, user_avatar["a" /* CoreUserAvatarComponent */], [nav_controller["a" /* NavController */], sites["a" /* CoreSitesProvider */], utils["a" /* CoreUtilsProvider */], app["a" /* CoreAppProvider */], events["a" /* CoreEventsProvider */], [2, split_view["a" /* CoreSplitViewComponent */]]], { user: [0, "user"], userId: [1, "userId"], courseId: [2, "courseId"] }, null), core["_30" /* ɵdid */](11, 16384, null, 0, avatar["a" /* Avatar */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, 2, 1, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](14, null, ["", ""])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = _v.context.$implicit.id; var currVal_2 = (_co.isEnrolled ? _co.course.id : null); _ck(_v, 1, 0, currVal_1, currVal_2); var currVal_3 = _v.context.$implicit; var currVal_4 = _v.context.$implicit.id; var currVal_5 = (_co.isEnrolled ? _co.course.id : null); _ck(_v, 10, 0, currVal_3, currVal_4, currVal_5); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 0, 0, core["_44" /* ɵnov */](_v, 7).transform("core.viewprofile")); _ck(_v, 0, 0, currVal_0); var currVal_6 = _v.context.$implicit.fullname; _ck(_v, 14, 0, currVal_6); }); }
+function View_CoreCoursesCoursePreviewPage_7(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 20, null, null, null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 7, "ion-item-divider", [["class", "item item-divider"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](3, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 7, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 8, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 9, { _icons: 1 }), core["_30" /* ɵdid */](7, 16384, null, 0, item_divider["a" /* ItemDivider */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](8, 2, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_8)), core["_30" /* ɵdid */](12, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_31" /* ɵeld */](14, 0, null, null, 5, "ion-item-divider", [["class", "item item-divider"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](15, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 13, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 14, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 15, { _icons: 1 }), core["_30" /* ɵdid */](19, 16384, null, 0, item_divider["a" /* ItemDivider */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.course.contacts; _ck(_v, 12, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.teachers")); _ck(_v, 8, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_11(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 11, "div", [], [[8, "className", 0]], null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 2, "span", [["class", "core-customfieldname"]], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](4, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_31" /* ɵeld */](5, 0, null, null, 1, "span", [["class", "core-customfieldseparator"]], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, [": "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                        "])), (_l()(), core["_31" /* ɵeld */](8, 0, null, null, 2, "span", [["class", "core-customfieldvalue"]], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](9, 0, null, null, 1, "core-format-text", [["maxHeight", "120"]], null, null, null, null, null)), core["_30" /* ɵdid */](10, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"], maxHeight: [1, "maxHeight"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "]))], function (_ck, _v) { var currVal_1 = _v.parent.context.$implicit.name; _ck(_v, 4, 0, currVal_1); var currVal_2 = _v.parent.context.$implicit.value; var currVal_3 = "120"; _ck(_v, 10, 0, currVal_2, currVal_3); }, function (_ck, _v) { var currVal_0 = core["_34" /* ɵinlineInterpolate */](2, "core-customfield core-customfield_", _v.parent.context.$implicit.type, " core-customfield_", _v.parent.context.$implicit.shortname, ""); _ck(_v, 0, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_10(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, null, null, null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_11)), core["_30" /* ɵdid */](3, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "]))], function (_ck, _v) { var currVal_0 = _v.context.$implicit.value; _ck(_v, 3, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_9(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 9, "ion-item", [["class", "item item-block"], ["detail-none", ""], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 16, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 17, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 18, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_CoreCoursesCoursePreviewPage_10)), core["_30" /* ɵdid */](8, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.customfields; _ck(_v, 8, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_12(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-file", [], null, null, null, file_ngfactory["b" /* View_CoreFileComponent_0 */], file_ngfactory["a" /* RenderType_CoreFileComponent */])), core["_30" /* ɵdid */](1, 245760, null, 0, file["a" /* CoreFileComponent */], [sites["a" /* CoreSitesProvider */], utils["a" /* CoreUtilsProvider */], dom["a" /* CoreDomUtilsProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], file_helper["a" /* CoreFileHelperProvider */], mimetype["a" /* CoreMimetypeUtilsProvider */], events["a" /* CoreEventsProvider */], utils_text["a" /* CoreTextUtilsProvider */]], { file: [0, "file"], component: [1, "component"], componentId: [2, "componentId"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _v.context.$implicit; var currVal_1 = _co.component; var currVal_2 = _co.course.id; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2); }, null); }
+function View_CoreCoursesCoursePreviewPage_14(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 14, "ion-item", [["class", "item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 19, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 20, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 21, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 1, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](10, 0, null, 2, 3, "button", [["block", ""], ["ion-button", ""], ["margin-top", ""]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.selfEnrolClicked(_v.context.$implicit.id) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](11, 1097728, [[20, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { block: [0, "block"] }, null), (_l()(), core["_55" /* ɵted */](12, 0, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "]))], function (_ck, _v) { var currVal_1 = ""; _ck(_v, 11, 0, currVal_1); }, function (_ck, _v) { var currVal_0 = _v.context.$implicit.name; _ck(_v, 8, 0, currVal_0); var currVal_2 = core["_56" /* ɵunv */](_v, 12, 0, core["_44" /* ɵnov */](_v, 13).transform("core.courses.enrolme")); _ck(_v, 12, 0, currVal_2); }); }
+function View_CoreCoursesCoursePreviewPage_13(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 4, "div", [["detail-none", ""]], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_14)), core["_30" /* ɵdid */](3, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.selfEnrolInstances; _ck(_v, 3, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_15(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 19, "ion-item", [["class", "item item-block"], ["detail-none", ""], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 22, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 23, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 24, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](12, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](15, 0, null, 2, 3, "button", [["block", ""], ["ion-button", ""], ["margin-top", ""]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.paypalEnrol() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](16, 1097728, [[23, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { block: [0, "block"] }, null), (_l()(), core["_55" /* ɵted */](17, 0, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_2 = ""; _ck(_v, 16, 0, currVal_2); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.courses.paypalaccepted")); _ck(_v, 8, 0, currVal_0); var currVal_1 = core["_56" /* ɵunv */](_v, 12, 0, core["_44" /* ɵnov */](_v, 13).transform("core.paymentinstant")); _ck(_v, 12, 0, currVal_1); var currVal_3 = core["_56" /* ɵunv */](_v, 17, 0, core["_44" /* ɵnov */](_v, 18).transform("core.courses.sendpaymentbutton")); _ck(_v, 17, 0, currVal_3); }); }
+function View_CoreCoursesCoursePreviewPage_16(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 10, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 25, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 26, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 27, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 2, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](8, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], null, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.courses.notenrollable")); _ck(_v, 8, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_18(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-icon", [["item-start", ""]], null, null, null, icon_ngfactory["b" /* View_CoreIconComponent_0 */], icon_ngfactory["a" /* RenderType_CoreIconComponent */])), core["_30" /* ɵdid */](1, 704512, null, 0, icon["a" /* CoreIconComponent */], [core["t" /* ElementRef */], config["a" /* Config */]], { name: [0, "name"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.prefetchCourseData.prefetchCourseIcon; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_CoreCoursesCoursePreviewPage_19(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "ion-icon", [["color", "success"], ["item-start", ""], ["name", "cloud-done"], ["role", "img"]], [[1, "aria-label", 0], [2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](1, 147456, [[30, 4]], 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { color: [0, "color"], name: [1, "name"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_2 = "success"; var currVal_3 = "cloud-done"; _ck(_v, 1, 0, currVal_2, currVal_3); }, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 0, 0, core["_44" /* ɵnov */](_v, 2).transform("core.downloaded")); var currVal_1 = core["_44" /* ɵnov */](_v, 1)._hidden; _ck(_v, 0, 0, currVal_0, currVal_1); }); }
+function View_CoreCoursesCoursePreviewPage_20(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "ion-spinner", [["item-start", ""]], [[2, "spinner-paused", null]], null, null, spinner_ngfactory["b" /* View_Spinner_0 */], spinner_ngfactory["a" /* RenderType_Spinner */])), core["_30" /* ɵdid */](1, 114688, null, 0, spinner["a" /* Spinner */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 1)._paused; _ck(_v, 0, 0, currVal_0); }); }
+function View_CoreCoursesCoursePreviewPage_17(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 20, "a", [["class", "item item-block"], ["detail-none", ""], ["ion-item", ""]], [[1, "aria-label", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.prefetchCourse() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 28, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 29, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 30, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_CoreCoursesCoursePreviewPage_18)), core["_30" /* ɵdid */](9, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_CoreCoursesCoursePreviewPage_19)), core["_30" /* ɵdid */](12, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_CoreCoursesCoursePreviewPage_20)), core["_30" /* ɵdid */](15, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](17, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](18, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var _co = _v.component; var currVal_1 = (!_co.prefetchCourseData.downloadSucceeded && (_co.prefetchCourseData.prefetchCourseIcon != "spinner")); _ck(_v, 9, 0, currVal_1); var currVal_2 = (_co.prefetchCourseData.downloadSucceeded && (_co.prefetchCourseData.prefetchCourseIcon != "spinner")); _ck(_v, 12, 0, currVal_2); var currVal_3 = (_co.prefetchCourseData.prefetchCourseIcon == "spinner"); _ck(_v, 15, 0, currVal_3); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = core["_56" /* ɵunv */](_v, 0, 0, core["_44" /* ɵnov */](_v, 6).transform(_co.prefetchCourseData.title)); _ck(_v, 0, 0, currVal_0); var currVal_4 = core["_56" /* ɵunv */](_v, 18, 0, core["_44" /* ɵnov */](_v, 19).transform("core.course.downloadcourse")); _ck(_v, 18, 0, currVal_4); }); }
+function View_CoreCoursesCoursePreviewPage_21(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 13, "a", [["class", "item item-block"], ["ion-item", ""]], [[8, "title", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.openCourse() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 31, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 32, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 33, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 0, 1, "ion-icon", [["item-start", ""], ["name", "briefcase"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](8, 147456, [[33, 4]], 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](10, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](11, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_2 = "briefcase"; _ck(_v, 8, 0, currVal_2); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.fullname; _ck(_v, 0, 0, currVal_0); var currVal_1 = core["_44" /* ɵnov */](_v, 8)._hidden; _ck(_v, 7, 0, currVal_1); var currVal_3 = core["_56" /* ɵunv */](_v, 11, 0, core["_44" /* ɵnov */](_v, 12).transform("core.course.contents")); _ck(_v, 11, 0, currVal_3); }); }
+function View_CoreCoursesCoursePreviewPage_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 69, "ion-list", [], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, list["a" /* List */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], platform_platform["a" /* Platform */], gesture_controller["l" /* GestureController */], dom_controller["a" /* DomController */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_2)), core["_30" /* ɵdid */](4, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](6, 0, null, null, 19, "a", [["class", "item item-block"], ["ion-item", ""], ["text-wrap", ""]], [[8, "title", 0], [1, "detail-none", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.openCourse() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](7, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 1, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 2, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 3, { _icons: 1 }), core["_30" /* ɵdid */](11, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, 0, 1, "core-icon", [["fixed-width", ""], ["item-start", ""], ["name", "fa-graduation-cap"]], null, null, null, icon_ngfactory["b" /* View_CoreIconComponent_0 */], icon_ngfactory["a" /* RenderType_CoreIconComponent */])), core["_30" /* ɵdid */](14, 704512, null, 0, icon["a" /* CoreIconComponent */], [core["t" /* ElementRef */], config["a" /* Config */]], { name: [0, "name"], fixedWidth: [1, "fixedWidth"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](16, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](17, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](18, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_CoreCoursesCoursePreviewPage_3)), core["_30" /* ɵdid */](21, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_CoreCoursesCoursePreviewPage_4)), core["_30" /* ɵdid */](24, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_6)), core["_30" /* ɵdid */](28, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_7)), core["_30" /* ɵdid */](31, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_9)), core["_30" /* ɵdid */](34, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_12)), core["_30" /* ɵdid */](37, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_13)), core["_30" /* ɵdid */](40, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_15)), core["_30" /* ɵdid */](43, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_16)), core["_30" /* ɵdid */](46, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_17)), core["_30" /* ɵdid */](49, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_CoreCoursesCoursePreviewPage_21)), core["_30" /* ɵdid */](52, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](54, 0, null, null, 14, "a", [["class", "item item-block"], ["core-link", ""], ["ion-item", ""]], [[8, "href", 4], [8, "title", 0]], null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](55, 81920, null, 0, directives_link["a" /* CoreLinkDirective */], [core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */], sites["a" /* CoreSitesProvider */], url["a" /* CoreUrlUtilsProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], utils_text["a" /* CoreTextUtilsProvider */]], null, null), core["_30" /* ɵdid */](56, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 34, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 35, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 36, { _icons: 1 }), core["_30" /* ɵdid */](60, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](62, 0, null, 0, 1, "ion-icon", [["item-start", ""], ["name", "open"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](63, 147456, [[36, 4]], 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](65, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](66, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "]))], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.course.courseImage; _ck(_v, 4, 0, currVal_0); var currVal_3 = "fa-graduation-cap"; var currVal_4 = ""; _ck(_v, 14, 0, currVal_3, currVal_4); var currVal_5 = _co.course.fullname; _ck(_v, 18, 0, currVal_5); var currVal_6 = _co.course.categoryname; _ck(_v, 21, 0, currVal_6); var currVal_7 = _co.course.startdate; _ck(_v, 24, 0, currVal_7); var currVal_8 = _co.course.summary; _ck(_v, 28, 0, currVal_8); var currVal_9 = (_co.course.contacts && _co.course.contacts.length); _ck(_v, 31, 0, currVal_9); var currVal_10 = _co.course.customfields; _ck(_v, 34, 0, currVal_10); var currVal_11 = _co.course.overviewfiles; _ck(_v, 37, 0, currVal_11); var currVal_12 = !_co.isEnrolled; _ck(_v, 40, 0, currVal_12); var currVal_13 = (!_co.isEnrolled && _co.paypalEnabled); _ck(_v, 43, 0, currVal_13); var currVal_14 = ((!_co.isEnrolled && !_co.selfEnrolInstances.length) && !_co.paypalEnabled); _ck(_v, 46, 0, currVal_14); var currVal_15 = (_co.canAccessCourse && _co.downloadCourseEnabled); _ck(_v, 49, 0, currVal_15); var currVal_16 = (!_co.avoidOpenCourse && _co.canAccessCourse); _ck(_v, 52, 0, currVal_16); _ck(_v, 55, 0); var currVal_20 = "open"; _ck(_v, 63, 0, currVal_20); }, function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.course.fullname; var currVal_2 = (_co.avoidOpenCourse || !_co.canAccessCourse); _ck(_v, 6, 0, currVal_1, currVal_2); var currVal_17 = _co.courseUrl; var currVal_18 = _co.course.fullname; _ck(_v, 54, 0, currVal_17, currVal_18); var currVal_19 = core["_44" /* ɵnov */](_v, 63)._hidden; _ck(_v, 62, 0, currVal_19); var currVal_21 = core["_56" /* ɵunv */](_v, 66, 0, core["_44" /* ɵnov */](_v, 67).transform("core.openinbrowser")); _ck(_v, 66, 0, currVal_21); }); }
+function View_CoreCoursesCoursePreviewPage_0(_l) { return core["_57" /* ɵvid */](0, [core["_47" /* ɵpid */](0, format_date["a" /* CoreFormatDatePipe */], [logger["a" /* CoreLoggerProvider */], time["a" /* CoreTimeUtilsProvider */]]), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 12, "ion-header", [], null, null, null, null, null)), core["_30" /* ɵdid */](2, 16384, null, 0, toolbar_header["a" /* Header */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, view_controller["a" /* ViewController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_31" /* ɵeld */](4, 0, null, null, 8, "ion-navbar", [["class", "toolbar"], ["core-back-button", ""]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, navbar_ngfactory["b" /* View_Navbar_0 */], navbar_ngfactory["a" /* RenderType_Navbar */])), core["_30" /* ɵdid */](5, 49152, null, 0, navbar["a" /* Navbar */], [app_app["a" /* App */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), core["_30" /* ɵdid */](6, 212992, null, 0, back_button["a" /* CoreBackButtonDirective */], [navbar["a" /* Navbar */], platform_platform["a" /* Platform */], translate_service["a" /* TranslateService */], events["a" /* CoreEventsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](8, 0, null, 3, 3, "ion-title", [], null, null, null, toolbar_title_ngfactory["b" /* View_ToolbarTitle_0 */], toolbar_title_ngfactory["a" /* RenderType_ToolbarTitle */])), core["_30" /* ɵdid */](9, 49152, null, 0, toolbar_title["a" /* ToolbarTitle */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), (_l()(), core["_31" /* ɵeld */](10, 0, null, 0, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](11, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform_platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_31" /* ɵeld */](15, 0, null, null, 17, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](16, 4374528, null, 0, content["a" /* Content */], [config["a" /* Config */], platform_platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app_app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](18, 0, null, 2, 6, "ion-refresher", [], [[2, "refresher-active", null], [4, "top", null]], [[null, "ionRefresh"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionRefresh" === en)) {
+        var pd_0 = (_co.refreshData($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), core["_30" /* ɵdid */](19, 212992, null, 0, refresher["a" /* Refresher */], [platform_platform["a" /* Platform */], content["a" /* Content */], core["M" /* NgZone */], gesture_controller["l" /* GestureController */]], { enabled: [0, "enabled"] }, { ionRefresh: "ionRefresh" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_31" /* ɵeld */](21, 0, null, null, 2, "ion-refresher-content", [], [[1, "state", 0]], null, null, refresher_content_ngfactory["b" /* View_RefresherContent_0 */], refresher_content_ngfactory["a" /* RenderType_RefresherContent */])), core["_30" /* ɵdid */](22, 114688, null, 0, refresher_content["a" /* RefresherContent */], [refresher["a" /* Refresher */], config["a" /* Config */]], { pullingText: [0, "pullingText"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](26, 0, null, 1, 5, "core-loading", [], null, null, null, loading_ngfactory["b" /* View_CoreLoadingComponent_0 */], loading_ngfactory["a" /* RenderType_CoreLoadingComponent */])), core["_30" /* ɵdid */](27, 638976, null, 0, loading["a" /* CoreLoadingComponent */], [translate_service["a" /* TranslateService */], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */]], { hideUntil: [0, "hideUntil"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n\n        "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_CoreCoursesCoursePreviewPage_1)), core["_30" /* ɵdid */](30, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"]))], function (_ck, _v) { var _co = _v.component; _ck(_v, 6, 0); var currVal_2 = _co.course.fullname; _ck(_v, 11, 0, currVal_2); var currVal_7 = _co.dataLoaded; _ck(_v, 19, 0, currVal_7); var currVal_9 = core["_34" /* ɵinlineInterpolate */](1, "", core["_56" /* ɵunv */](_v, 22, 0, core["_44" /* ɵnov */](_v, 23).transform("core.pulltorefresh")), ""); _ck(_v, 22, 0, currVal_9); var currVal_10 = _co.dataLoaded; _ck(_v, 27, 0, currVal_10); var currVal_11 = _co.course; _ck(_v, 30, 0, currVal_11); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 5)._hidden; var currVal_1 = core["_44" /* ɵnov */](_v, 5)._sbPadding; _ck(_v, 4, 0, currVal_0, currVal_1); var currVal_3 = core["_44" /* ɵnov */](_v, 16).statusbarPadding; var currVal_4 = core["_44" /* ɵnov */](_v, 16)._hasRefresher; _ck(_v, 15, 0, currVal_3, currVal_4); var currVal_5 = (core["_44" /* ɵnov */](_v, 19).state !== "inactive"); var currVal_6 = core["_44" /* ɵnov */](_v, 19)._top; _ck(_v, 18, 0, currVal_5, currVal_6); var currVal_8 = core["_44" /* ɵnov */](_v, 22).r.state; _ck(_v, 21, 0, currVal_8); }); }
+function View_CoreCoursesCoursePreviewPage_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "page-core-courses-course-preview", [], null, null, null, View_CoreCoursesCoursePreviewPage_0, RenderType_CoreCoursesCoursePreviewPage)), core["_30" /* ɵdid */](1, 180224, null, 0, course_preview_CoreCoursesCoursePreviewPage, [nav_controller["a" /* NavController */], nav_params["a" /* NavParams */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], app["a" /* CoreAppProvider */], courses["a" /* CoreCoursesProvider */], platform_platform["a" /* Platform */], modal_controller["a" /* ModalController */], translate_service["a" /* TranslateService */], events["a" /* CoreEventsProvider */], options_delegate["a" /* CoreCourseOptionsDelegate */], helper["a" /* CoreCourseHelperProvider */], course["a" /* CoreCourseProvider */], format_delegate["a" /* CoreCourseFormatDelegate */], core["M" /* NgZone */]], null, null)], null, null); }
+var CoreCoursesCoursePreviewPageNgFactory = core["_27" /* ɵccf */]("page-core-courses-course-preview", course_preview_CoreCoursesCoursePreviewPage, View_CoreCoursesCoursePreviewPage_Host_0, {}, {}, []);
+
+//# sourceMappingURL=course-preview.ngfactory.js.map
+// EXTERNAL MODULE: ./node_modules/@angular/forms/esm5/forms.js
+var esm5_forms = __webpack_require__(22);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.loader.js
+var translate_loader = __webpack_require__(361);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.compiler.js
+var translate_compiler = __webpack_require__(362);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.parser.js
+var translate_parser = __webpack_require__(364);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/missing-translation-handler.js
+var missing_translation_handler = __webpack_require__(363);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.store.js
+var translate_store = __webpack_require__(470);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/module.js
+var ionic_angular_module = __webpack_require__(712);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/module-loader.js
+var module_loader = __webpack_require__(269);
+
+// CONCATENATED MODULE: ./src/core/courses/pages/course-preview/course-preview.module.ngfactory.js
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CoreCoursesCoursePreviewPageModuleNgFactory", function() { return CoreCoursesCoursePreviewPageModuleNgFactory; });
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var CoreCoursesCoursePreviewPageModuleNgFactory = core["_28" /* ɵcmf */](course_preview_module_CoreCoursesCoursePreviewPageModule, [], function (_l) { return core["_40" /* ɵmod */]([core["_41" /* ɵmpd */](512, core["o" /* ComponentFactoryResolver */], core["_21" /* ɵCodegenComponentFactoryResolver */], [[8, [action_sheet_component_ngfactory["a" /* ActionSheetCmpNgFactory */], alert_component_ngfactory["a" /* AlertCmpNgFactory */], app_root_ngfactory["a" /* IonicAppNgFactory */], loading_component_ngfactory["a" /* LoadingCmpNgFactory */], modal_component_ngfactory["a" /* ModalCmpNgFactory */], picker_component_ngfactory["a" /* PickerCmpNgFactory */], popover_component_ngfactory["a" /* PopoverCmpNgFactory */], select_popover_component_ngfactory["a" /* SelectPopoverNgFactory */], toast_component_ngfactory["a" /* ToastCmpNgFactory */], context_menu_popover_ngfactory["a" /* CoreContextMenuPopoverComponentNgFactory */], course_picker_menu_popover_ngfactory["a" /* CoreCoursePickerMenuPopoverComponentNgFactory */], recaptchamodal_ngfactory["a" /* CoreRecaptchaModalComponentNgFactory */], bs_tooltip_ngfactory["a" /* CoreBSTooltipComponentNgFactory */], CoreCoursesCoursePreviewPageNgFactory]], [3, core["o" /* ComponentFactoryResolver */]], core["K" /* NgModuleRef */]]), core["_41" /* ɵmpd */](4608, common["m" /* NgLocalization */], common["l" /* NgLocaleLocalization */], [core["G" /* LOCALE_ID */], [2, common["w" /* ɵa */]]]), core["_41" /* ɵmpd */](4608, esm5_forms["x" /* ɵi */], esm5_forms["x" /* ɵi */], []), core["_41" /* ɵmpd */](4608, esm5_forms["d" /* FormBuilder */], esm5_forms["d" /* FormBuilder */], []), core["_41" /* ɵmpd */](4608, translate_loader["b" /* TranslateLoader */], translate_loader["a" /* TranslateFakeLoader */], []), core["_41" /* ɵmpd */](4608, translate_compiler["a" /* TranslateCompiler */], translate_compiler["b" /* TranslateFakeCompiler */], []), core["_41" /* ɵmpd */](4608, translate_parser["b" /* TranslateParser */], translate_parser["a" /* TranslateDefaultParser */], []), core["_41" /* ɵmpd */](4608, missing_translation_handler["b" /* MissingTranslationHandler */], missing_translation_handler["a" /* FakeMissingTranslationHandler */], []), core["_41" /* ɵmpd */](4608, translate_service["a" /* TranslateService */], translate_service["a" /* TranslateService */], [translate_store["a" /* TranslateStore */], translate_loader["b" /* TranslateLoader */], translate_compiler["a" /* TranslateCompiler */], translate_parser["b" /* TranslateParser */], missing_translation_handler["b" /* MissingTranslationHandler */], translate_service["b" /* USE_DEFAULT_LANG */], translate_service["c" /* USE_STORE */]]), core["_41" /* ɵmpd */](512, common["b" /* CommonModule */], common["b" /* CommonModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["v" /* ɵba */], esm5_forms["v" /* ɵba */], []), core["_41" /* ɵmpd */](512, esm5_forms["i" /* FormsModule */], esm5_forms["i" /* FormsModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["s" /* ReactiveFormsModule */], esm5_forms["s" /* ReactiveFormsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["a" /* IonicModule */], ionic_angular_module["a" /* IonicModule */], []), core["_41" /* ɵmpd */](512, _ngx_translate_core["b" /* TranslateModule */], _ngx_translate_core["b" /* TranslateModule */], []), core["_41" /* ɵmpd */](512, directives_module["a" /* CoreDirectivesModule */], directives_module["a" /* CoreDirectivesModule */], []), core["_41" /* ɵmpd */](512, pipes_module["a" /* CorePipesModule */], pipes_module["a" /* CorePipesModule */], []), core["_41" /* ɵmpd */](512, components_module["a" /* CoreComponentsModule */], components_module["a" /* CoreComponentsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["b" /* IonicPageModule */], ionic_angular_module["b" /* IonicPageModule */], []), core["_41" /* ɵmpd */](512, course_preview_module_CoreCoursesCoursePreviewPageModule, course_preview_module_CoreCoursesCoursePreviewPageModule, []), core["_41" /* ɵmpd */](256, translate_service["c" /* USE_STORE */], undefined, []), core["_41" /* ɵmpd */](256, translate_service["b" /* USE_DEFAULT_LANG */], undefined, []), core["_41" /* ɵmpd */](256, module_loader["a" /* LAZY_LOADED_TOKEN */], course_preview_CoreCoursesCoursePreviewPage, [])]); });
+
+//# sourceMappingURL=course-preview.module.ngfactory.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=62.js.map

@@ -1,1 +1,1691 @@
-webpackJsonp([3],{1975:function(n,e,t){"use strict";function s(n){return _._42(0,[(n()(),_._16(0,0,null,null,1,"core-icon",[["item-end",""],["name","fa-ban"]],null,null,null,A.b,A.a)),_._15(1,704512,null,0,$.a,[_.p,W.a],{name:[0,"name"]},null)],function(n,e){n(e,1,0,"fa-ban")},null)}function l(n){return _._42(0,[(n()(),_._16(0,0,null,null,19,"a",[["class","addon-messages-conversation-item item item-block"],["ion-item",""],["text-wrap",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(n,e,t){var s=!0;if("click"===e){s=!1!==n.component.selectUser(n.context.$implicit.id)&&s}return s},F.b,F.a)),_._15(1,1097728,null,3,B.a,[G.a,W.a,_.p,_.K,[2,H.a]],null,null),_._37(335544320,2,{contentLabel:0}),_._37(603979776,3,{_buttons:1}),_._37(603979776,4,{_icons:1}),_._15(5,16384,null,0,j.a,[],null,null),(n()(),_._40(-1,2,["\n                "])),(n()(),_._16(7,0,null,0,2,"ion-avatar",[["core-user-avatar",""],["item-start",""]],null,null,null,z.b,z.a)),_._15(8,16384,null,0,J.a,[],null,null),_._15(9,770048,null,0,Q.a,[Z.a,m.a,X.a,Y.a,g.a,[2,b.a]],{user:[0,"user"],linkProfile:[1,"linkProfile"],checkOnline:[2,"checkOnline"]},null),(n()(),_._40(-1,2,["\n                "])),(n()(),_._16(11,0,null,2,7,"h2",[],null,null,null,null,null)),(n()(),_._40(-1,null,["\n                    "])),(n()(),_._16(13,0,null,null,1,"core-format-text",[],null,null,null,null,null)),_._15(14,540672,null,0,nn.a,[_.p,m.a,en.a,tn.a,sn.a,ln.a,X.a,an.a,on.a,rn.a,Y.a,un.a,[2,Z.a],[2,cn.a],[2,b.a],dn.a,g.a],{text:[0,"text"]},null),(n()(),_._40(-1,null,["\n                    "])),(n()(),_._11(16777216,null,null,1,null,s)),_._15(17,16384,null,0,hn.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(n()(),_._40(-1,null,["\n                "])),(n()(),_._40(-1,2,["\n            "]))],function(n,e){n(e,9,0,e.context.$implicit,!1,e.context.$implicit.showonlinestatus);n(e,14,0,e.context.$implicit.fullname);n(e,17,0,e.context.$implicit.isblocked)},function(n,e){n(e,0,0,e.context.$implicit.fullname,e.context.$implicit.id==e.component.selectedUserId)})}function a(n){return _._42(0,[(n()(),_._16(0,0,null,null,2,"core-empty-box",[["icon","person"]],null,null,null,fn.b,fn.a)),_._15(1,49152,null,0,_n.a,[],{message:[0,"message"],icon:[1,"icon"]},null),_._32(131072,pn.a,[sn.a,_.i])],function(n,e){n(e,1,0,_._41(e,1,0,_._29(e,2).transform("addon.messages.nocontactsgetstarted")),"person")},null)}function i(n){return _._42(0,[_._37(402653184,1,{content:0}),(n()(),_._16(1,0,null,null,27,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,gn.b,gn.a)),_._15(2,4374528,[[1,4]],0,cn.a,[W.a,ln.a,mn.a,_.p,_.K,vn.a,bn.a,_.D,[2,In.a],[2,Z.a]],null,null),(n()(),_._40(-1,1,["\n    "])),(n()(),_._16(4,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(n,e,t){var s=!0;if("ionRefresh"===e){s=!1!==n.component.refreshData(t)&&s}return s},null,null)),_._15(5,212992,null,0,Un.a,[ln.a,cn.a,_.D,yn.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(n()(),_._40(-1,null,["\n        "])),(n()(),_._16(7,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,Cn.b,Cn.a)),_._15(8,114688,null,0,Dn.a,[Un.a,W.a],{pullingText:[0,"pullingText"]},null),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,null,["\n    "])),(n()(),_._40(-1,1,["\n    "])),(n()(),_._16(12,0,null,1,15,"core-loading",[["class","core-loading-center"]],null,null,null,Mn.b,Mn.a)),_._15(13,638976,null,0,Sn.a,[sn.a,_.p,g.a,X.a],{hideUntil:[0,"hideUntil"]},null),(n()(),_._40(-1,0,["\n        "])),(n()(),_._16(15,0,null,0,5,"ion-list",[["no-margin",""]],null,null,null,null,null)),_._15(16,16384,null,0,On.a,[W.a,_.p,_.K,ln.a,yn.l,mn.a],null,null),(n()(),_._40(-1,null,["\n            "])),(n()(),_._11(16777216,null,null,1,null,l)),_._15(19,802816,null,0,hn.j,[_.W,_.T,_.v],{ngForOf:[0,"ngForOf"]},null),(n()(),_._40(-1,null,["\n        "])),(n()(),_._40(-1,0,["\n        "])),(n()(),_._11(16777216,null,0,1,null,a)),_._15(23,16384,null,0,hn.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(n()(),_._40(-1,0,["\n        "])),(n()(),_._16(25,0,null,0,1,"core-infinite-loading",[["position","bottom"]],null,[[null,"action"]],function(n,e,t){var s=!0;if("action"===e){s=!1!==n.component.loadMore(t)&&s}return s},En.b,En.a)),_._15(26,573440,null,0,Pn.a,[[2,cn.a],en.a],{enabled:[0,"enabled"],error:[1,"error"],position:[2,"position"]},{action:"action"}),(n()(),_._40(-1,0,["\n    "])),(n()(),_._40(-1,1,["\n"])),(n()(),_._40(-1,null,["\n"]))],function(n,e){var t=e.component;n(e,5,0,t.loaded);n(e,8,0,_._19(1,"",_._41(e,8,0,_._29(e,9).transform("core.pulltorefresh")),""));n(e,13,0,t.loaded);n(e,19,0,t.contacts);n(e,23,0,!t.contacts.length);n(e,26,0,t.canLoadMore,t.loadMoreError,"bottom")},function(n,e){n(e,1,0,_._29(e,2).statusbarPadding,_._29(e,2)._hasRefresher);n(e,4,0,"inactive"!==_._29(e,5).state,_._29(e,5)._top);n(e,7,0,_._29(e,8).r.state)})}function o(n){return _._42(0,[(n()(),_._16(0,0,null,null,2,"p",[],null,null,null,null,null)),(n()(),_._40(1,null,["",""])),_._32(131072,pn.a,[sn.a,_.i])],null,function(n,e){n(e,1,0,_._41(e,1,0,_._29(e,2).transform("addon.messages.wouldliketocontactyou")))})}function r(n){return _._42(0,[(n()(),_._16(0,0,null,null,17,"a",[["class","addon-messages-conversation-item item item-block"],["ion-item",""],["text-wrap",""]],[[8,"title",0],[2,"core-split-item-selected",null]],[[null,"click"]],function(n,e,t){var s=!0;if("click"===e){s=!1!==n.component.selectUser(n.context.$implicit.id)&&s}return s},F.b,F.a)),_._15(1,1097728,null,3,B.a,[G.a,W.a,_.p,_.K,[2,H.a]],null,null),_._37(335544320,2,{contentLabel:0}),_._37(603979776,3,{_buttons:1}),_._37(603979776,4,{_icons:1}),_._15(5,16384,null,0,j.a,[],null,null),(n()(),_._40(-1,2,["\n                "])),(n()(),_._16(7,0,null,0,2,"ion-avatar",[["core-user-avatar",""],["item-start",""]],null,null,null,z.b,z.a)),_._15(8,16384,null,0,J.a,[],null,null),_._15(9,770048,null,0,Q.a,[Z.a,m.a,X.a,Y.a,g.a,[2,b.a]],{user:[0,"user"],linkProfile:[1,"linkProfile"]},null),(n()(),_._40(-1,2,["\n                "])),(n()(),_._16(11,0,null,2,2,"h2",[],null,null,null,null,null)),(n()(),_._16(12,0,null,null,1,"core-format-text",[],null,null,null,null,null)),_._15(13,540672,null,0,nn.a,[_.p,m.a,en.a,tn.a,sn.a,ln.a,X.a,an.a,on.a,rn.a,Y.a,un.a,[2,Z.a],[2,cn.a],[2,b.a],dn.a,g.a],{text:[0,"text"]},null),(n()(),_._40(-1,2,["\n                "])),(n()(),_._11(16777216,null,2,1,null,o)),_._15(16,16384,null,0,hn.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(n()(),_._40(-1,2,["\n            "]))],function(n,e){n(e,9,0,e.context.$implicit,!1);n(e,13,0,e.context.$implicit.fullname);n(e,16,0,!e.context.$implicit.iscontact&&!e.context.$implicit.confirmedOrDeclined)},function(n,e){n(e,0,0,e.context.$implicit.fullname,e.context.$implicit.id==e.component.selectedUserId)})}function u(n){return _._42(0,[(n()(),_._16(0,0,null,null,2,"core-empty-box",[["icon","person"]],null,null,null,fn.b,fn.a)),_._15(1,49152,null,0,_n.a,[],{message:[0,"message"],icon:[1,"icon"]},null),_._32(131072,pn.a,[sn.a,_.i])],function(n,e){n(e,1,0,_._41(e,1,0,_._29(e,2).transform("addon.messages.nocontactrequests")),"person")},null)}function c(n){return _._42(0,[_._37(402653184,1,{content:0}),(n()(),_._16(1,0,null,null,27,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,gn.b,gn.a)),_._15(2,4374528,[[1,4]],0,cn.a,[W.a,ln.a,mn.a,_.p,_.K,vn.a,bn.a,_.D,[2,In.a],[2,Z.a]],null,null),(n()(),_._40(-1,1,["\n    "])),(n()(),_._16(4,0,null,2,6,"ion-refresher",[],[[2,"refresher-active",null],[4,"top",null]],[[null,"ionRefresh"]],function(n,e,t){var s=!0;if("ionRefresh"===e){s=!1!==n.component.refreshData(t)&&s}return s},null,null)),_._15(5,212992,null,0,Un.a,[ln.a,cn.a,_.D,yn.l],{enabled:[0,"enabled"]},{ionRefresh:"ionRefresh"}),(n()(),_._40(-1,null,["\n        "])),(n()(),_._16(7,0,null,null,2,"ion-refresher-content",[],[[1,"state",0]],null,null,Cn.b,Cn.a)),_._15(8,114688,null,0,Dn.a,[Un.a,W.a],{pullingText:[0,"pullingText"]},null),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,null,["\n    "])),(n()(),_._40(-1,1,["\n    "])),(n()(),_._16(12,0,null,1,15,"core-loading",[["class","core-loading-center"]],null,null,null,Mn.b,Mn.a)),_._15(13,638976,null,0,Sn.a,[sn.a,_.p,g.a,X.a],{hideUntil:[0,"hideUntil"]},null),(n()(),_._40(-1,0,["\n        "])),(n()(),_._16(15,0,null,0,5,"ion-list",[["no-margin",""]],null,null,null,null,null)),_._15(16,16384,null,0,On.a,[W.a,_.p,_.K,ln.a,yn.l,mn.a],null,null),(n()(),_._40(-1,null,["\n            "])),(n()(),_._11(16777216,null,null,1,null,r)),_._15(19,802816,null,0,hn.j,[_.W,_.T,_.v],{ngForOf:[0,"ngForOf"]},null),(n()(),_._40(-1,null,["\n        "])),(n()(),_._40(-1,0,["\n        "])),(n()(),_._11(16777216,null,0,1,null,u)),_._15(23,16384,null,0,hn.k,[_.W,_.T],{ngIf:[0,"ngIf"]},null),(n()(),_._40(-1,0,["\n        "])),(n()(),_._16(25,0,null,0,1,"core-infinite-loading",[["position","bottom"]],null,[[null,"action"]],function(n,e,t){var s=!0;if("action"===e){s=!1!==n.component.loadMore(t)&&s}return s},En.b,En.a)),_._15(26,573440,null,0,Pn.a,[[2,cn.a],en.a],{enabled:[0,"enabled"],error:[1,"error"],position:[2,"position"]},{action:"action"}),(n()(),_._40(-1,0,["\n    "])),(n()(),_._40(-1,1,["\n"])),(n()(),_._40(-1,null,["\n"]))],function(n,e){var t=e.component;n(e,5,0,t.loaded);n(e,8,0,_._19(1,"",_._41(e,8,0,_._29(e,9).transform("core.pulltorefresh")),""));n(e,13,0,t.loaded);n(e,19,0,t.requests);n(e,23,0,!t.requests.length);n(e,26,0,t.canLoadMore,t.loadMoreError,"bottom")},function(n,e){n(e,1,0,_._29(e,2).statusbarPadding,_._29(e,2)._hasRefresher);n(e,4,0,"inactive"!==_._29(e,5).state,_._29(e,5)._top);n(e,7,0,_._29(e,8).r.state)})}function d(n){return _._42(0,[(n()(),_._40(-1,null,["\n                    "])),(n()(),_._16(1,0,null,null,1,"addon-messages-confirmed-contacts",[],null,[[null,"onUserSelected"]],function(n,e,t){var s=!0;if("onUserSelected"===e){s=!1!==n.component.selectUser("contacts",t.userId,t.onInit)&&s}return s},i,Rn)),_._15(2,245760,null,0,wn.a,[en.a,g.a,m.a,v.a],null,{onUserSelected:"onUserSelected"}),(n()(),_._40(-1,null,["\n                "]))],function(n,e){n(e,2,0)},null)}function h(n){return _._42(0,[(n()(),_._40(-1,null,["\n                    "])),(n()(),_._16(1,0,null,null,1,"addon-messages-contact-requests",[],null,[[null,"onUserSelected"]],function(n,e,t){var s=!0;if("onUserSelected"===e){s=!1!==n.component.selectUser("requests",t.userId,t.onInit)&&s}return s},c,qn)),_._15(2,245760,null,0,xn.a,[en.a,g.a,m.a,v.a],null,{onUserSelected:"onUserSelected"}),(n()(),_._40(-1,null,["\n                "]))],function(n,e){n(e,2,0)},null)}function f(n){return _._42(0,[_._37(402653184,1,{splitviewCtrl:0}),_._37(402653184,2,{tabsComponent:0}),(n()(),_._16(2,0,null,null,29,"ion-header",[],null,null,null,null,null)),_._15(3,16384,null,0,Tn.a,[W.a,_.p,_.K,[2,In.a]],null,null),(n()(),_._40(-1,null,["\n    "])),(n()(),_._16(5,0,null,null,25,"ion-navbar",[["class","toolbar"],["core-back-button",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,kn.b,kn.a)),_._15(6,49152,null,0,Nn.a,[vn.a,[2,In.a],[2,Z.a],W.a,_.p,_.K],null,null),_._15(7,212992,null,0,Ln.a,[Nn.a,ln.a,sn.a,g.a],null,null),(n()(),_._40(-1,3,["\n        "])),(n()(),_._16(9,0,null,3,3,"ion-title",[],null,null,null,Vn.b,Vn.a)),_._15(10,49152,null,0,Kn.a,[W.a,_.p,_.K,[2,An.a],[2,Nn.a]],null,null),(n()(),_._40(11,0,["",""])),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,3,["\n        "])),(n()(),_._16(14,0,null,2,15,"ion-buttons",[["end",""]],null,null,null,null,null)),_._15(15,16384,null,1,$n.a,[W.a,_.p,_.K,[2,An.a],[2,Nn.a]],null,null),_._37(603979776,3,{_buttons:1}),(n()(),_._40(-1,null,["\n            "])),(n()(),_._16(18,0,null,null,6,"button",[["icon-only",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(n,e,t){var s=!0;if("click"===e){s=!1!==n.component.gotoSearch()&&s}return s},Wn.b,Wn.a)),_._15(19,1097728,[[3,4]],0,Fn.a,[[8,""],W.a,_.p,_.K],null,null),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,0,["\n                "])),(n()(),_._16(22,0,null,0,1,"ion-icon",[["name","search"],["role","img"]],[[2,"hide",null]],null,null,null,null)),_._15(23,147456,null,0,Bn.a,[W.a,_.p,_.K],{name:[0,"name"]},null),(n()(),_._40(-1,0,["\n            "])),(n()(),_._40(-1,null,["\n            "])),(n()(),_._40(-1,null,["\n            "])),(n()(),_._16(27,0,null,null,1,"core-context-menu",[],null,null,null,Gn.b,Gn.a)),_._15(28,245760,null,0,Hn.a,[sn.a,jn.a,_.p,en.a,[2,zn.a],X.a],null,null),(n()(),_._40(-1,null,["\n        "])),(n()(),_._40(-1,3,["\n    "])),(n()(),_._40(-1,null,["\n"])),(n()(),_._40(-1,null,["\n"])),(n()(),_._16(33,0,null,null,28,"core-split-view",[],null,null,null,Jn.b,Jn.a)),_._15(34,245760,[[1,4]],0,b.a,[[2,Z.a],_.p,Qn.a,ln.a,sn.a],null,null),(n()(),_._40(-1,0,["\n    "])),(n()(),_._16(36,0,null,0,24,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,gn.b,gn.a)),_._15(37,4374528,null,0,cn.a,[W.a,ln.a,mn.a,_.p,_.K,vn.a,bn.a,_.D,[2,In.a],[2,Z.a]],null,null),(n()(),_._40(-1,1,["\n        "])),(n()(),_._16(39,0,null,1,20,"core-tabs",[],null,null,null,Zn.b,Zn.a)),_._15(40,4964352,[[2,4]],0,I.a,[_.p,cn.a,en.a,Y.a,ln.a,sn.a],null,null),(n()(),_._40(-1,0,["\n            "])),(n()(),_._16(42,0,null,0,7,"core-tab",[],null,[[null,"ionSelect"]],function(n,e,t){var s=!0;if("ionSelect"===e){s=!1!==n.component.selectUser("contacts")&&s}return s},Xn.b,Xn.a)),_._15(43,245760,null,2,zn.a,[I.a,_.p,en.a,X.a],{title:[0,"title"]},{ionSelect:"ionSelect"}),_._37(335544320,4,{template:0}),_._37(335544320,5,{content:0}),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,null,["\n                "])),(n()(),_._11(0,[[4,2]],null,0,null,d)),(n()(),_._40(-1,null,["\n            "])),(n()(),_._40(-1,0,["\n            "])),(n()(),_._16(51,0,null,0,7,"core-tab",[],null,[[null,"ionSelect"]],function(n,e,t){var s=!0;if("ionSelect"===e){s=!1!==n.component.selectUser("requests")&&s}return s},Xn.b,Xn.a)),_._15(52,245760,null,2,zn.a,[I.a,_.p,en.a,X.a],{title:[0,"title"],badge:[1,"badge"]},{ionSelect:"ionSelect"}),_._37(335544320,6,{template:0}),_._37(335544320,7,{content:0}),_._32(131072,pn.a,[sn.a,_.i]),(n()(),_._40(-1,null,["\n                 "])),(n()(),_._11(0,[[6,2]],null,0,null,h)),(n()(),_._40(-1,null,["\n            "])),(n()(),_._40(-1,0,["\n        "])),(n()(),_._40(-1,1,["\n    "])),(n()(),_._40(-1,0,["\n"]))],function(n,e){var t=e.component;n(e,7,0);n(e,23,0,"search"),n(e,28,0),n(e,34,0),n(e,40,0);n(e,43,0,_._41(e,43,0,_._29(e,46).transform("addon.messages.contacts")));n(e,52,0,_._41(e,52,0,_._29(e,55).transform("addon.messages.requests")),t.contactRequestsCount)},function(n,e){n(e,5,0,_._29(e,6)._hidden,_._29(e,6)._sbPadding);n(e,11,0,_._41(e,11,0,_._29(e,12).transform("addon.messages.contacts")));n(e,18,0,_._41(e,18,0,_._29(e,20).transform("addon.messages.search")));n(e,22,0,_._29(e,23)._hidden);n(e,36,0,_._29(e,37).statusbarPadding,_._29(e,37)._hasRefresher)})}Object.defineProperty(e,"__esModule",{value:!0});var _=t(1),p=(t(0),t(7),t(4)),g=t(12),m=t(2),v=t(154),b=t(26),I=t(173),U=function(){function n(n,e,t,s){var l=this;this.navCtrl=t,this.messagesProvider=s,this.contactRequestsCount=0,this.selectedUserId={contacts:null,requests:null},this.siteId=e.getCurrentSiteId(),this.contactRequestsCountObserver=n.on(v.a.CONTACT_REQUESTS_COUNT_EVENT,function(n){l.contactRequestsCount=n.count},this.siteId)}return n.prototype.ngOnInit=function(){this.messagesProvider.getContactRequestsCount(this.siteId)},n.prototype.gotoSearch=function(){this.navCtrl.push("AddonMessagesSearchPage")},n.prototype.ionViewDidEnter=function(){this.splitviewCtrl.isOn()||(this.selectedUserId.contacts=null,this.selectedUserId.requests=null),this.tabsComponent&&this.tabsComponent.ionViewDidEnter()},n.prototype.ionViewDidLeave=function(){this.tabsComponent&&this.tabsComponent.ionViewDidLeave()},n.prototype.selectUser=function(n,e,t){void 0===t&&(t=!1),!(e=e||this.selectedUserId[n])||e==this.conversationUserId&&this.splitviewCtrl.isOn()||t&&!this.splitviewCtrl.isOn()||(this.conversationUserId=e,this.selectedUserId[n]=e,this.splitviewCtrl.push("AddonMessagesDiscussionPage",{userId:e}))},n.prototype.ngOnDestroy=function(){this.contactRequestsCountObserver&&this.contactRequestsCountObserver.off()},n}(),y=t(30),C=t(32),D=t(110),M=t(2103),S=function(){return function(){}}(),O=t(1471),E=t(1472),P=t(1473),w=t(1474),R=t(1475),x=t(1476),q=t(1477),T=t(1478),k=t(1479),N=t(1480),L=t(1481),V=t(1482),K=t(1483),A=t(112),$=t(95),W=t(8),F=t(31),B=t(22),G=t(21),H=t(29),j=t(33),z=t(211),J=t(153),Q=t(180),Z=t(20),X=t(3),Y=t(10),nn=t(42),en=t(5),tn=t(11),sn=t(19),ln=t(17),an=t(24),on=t(6),rn=t(18),un=t(14),cn=t(27),dn=t(38),hn=t(9),fn=t(122),_n=t(111),pn=t(28),gn=t(179),mn=t(34),vn=t(35),bn=t(102),In=t(39),Un=t(152),yn=t(40),Cn=t(210),Dn=t(168),Mn=t(51),Sn=t(48),On=t(83),En=t(369),Pn=t(271),wn=t(2105),Rn=_._14({encapsulation:2,styles:[],data:{}}),xn=t(2106),qn=_._14({encapsulation:2,styles:[],data:{}}),Tn=t(365),kn=t(713),Nn=t(209),Ln=t(471),Vn=t(714),Kn=t(309),An=t(245),$n=t(366),Wn=t(45),Fn=t(43),Bn=t(47),Gn=t(86),Hn=t(75),jn=t(66),zn=t(73),Jn=t(472),Qn=t(69),Zn=t(478),Xn=t(479),Yn=_._14({encapsulation:2,styles:[],data:{}}),ne=_._12("page-addon-messages-contacts",U,function(n){return _._42(0,[(n()(),_._16(0,0,null,null,1,"page-addon-messages-contacts",[],null,null,null,f,Yn)),_._15(1,245760,null,0,U,[g.a,m.a,Z.a,v.a],null,null)],function(n,e){n(e,1,0)},null)},{},{},[]),ee=t(23),te=t(361),se=t(362),le=t(364),ae=t(363),ie=t(470),oe=t(712),re=t(269);t.d(e,"AddonMessagesContactsPageModuleNgFactory",function(){return ue});var ue=_._13(S,[],function(n){return _._25([_._26(512,_.n,_._6,[[8,[O.a,E.a,P.a,w.a,R.a,x.a,q.a,T.a,k.a,N.a,L.a,V.a,K.a,ne]],[3,_.n],_.B]),_._26(4608,hn.m,hn.l,[_.x,[2,hn.w]]),_._26(4608,ee.x,ee.x,[]),_._26(4608,ee.d,ee.d,[]),_._26(4608,te.b,te.a,[]),_._26(4608,se.a,se.b,[]),_._26(4608,le.b,le.a,[]),_._26(4608,ae.b,ae.a,[]),_._26(4608,sn.a,sn.a,[ie.a,te.b,se.a,le.b,ae.b,sn.b,sn.c]),_._26(512,hn.b,hn.b,[]),_._26(512,ee.v,ee.v,[]),_._26(512,ee.i,ee.i,[]),_._26(512,ee.s,ee.s,[]),_._26(512,oe.a,oe.a,[]),_._26(512,p.a,p.a,[]),_._26(512,C.a,C.a,[]),_._26(512,D.a,D.a,[]),_._26(512,y.a,y.a,[]),_._26(512,M.a,M.a,[]),_._26(512,oe.b,oe.b,[]),_._26(512,S,S,[]),_._26(256,sn.c,void 0,[]),_._26(256,sn.b,void 0,[]),_._26(256,re.a,U,[])])})},2103:function(n,e,t){"use strict";t.d(e,"a",function(){return s});t(0),t(7),t(4),t(30),t(32),t(110),t(2104),t(2105),t(2106),t(2107);var s=function(){return function(){}}()},2104:function(n,e,t){"use strict";t.d(e,"a",function(){return l});t(0),t(7),t(4),t(12),t(2);var s=t(154),l=(t(5),t(3),t(10),t(137),function(){function n(n,e,t,l,a,i,o,r,u,c){var d=this;this.eventsProvider=n,this.messagesProvider=l,this.domUtils=a,this.appProvider=o,this.utils=u,this.loaded=!1,this.search={enabled:!1,showResults:!1,results:[],loading:"",text:""},this.search.loading=t.instant("core.searching"),this.loadingMessages=t.instant("core.loading"),this.siteId=e.getCurrentSiteId(),this.newMessagesObserver=n.on(s.a.NEW_MESSAGE_EVENT,function(n){if(n.userId&&d.discussions){var e=d.discussions.find(function(e){return e.message.user==n.userId});void 0===e?(d.loaded=!1,d.refreshData().finally(function(){d.loaded=!0})):(e.message.message=n.message,e.message.timecreated=n.timecreated)}},this.siteId),this.readChangedObserver=n.on(s.a.READ_CHANGED_EVENT,function(n){if(n.userId&&d.discussions){var e=d.discussions.find(function(e){return e.message.user==n.userId});void 0!==e&&(e.unread=!1,d.messagesProvider.invalidateConversations(d.siteId),d.messagesProvider.refreshUnreadConversationCounts(d.siteId))}},this.siteId),this.appResumeSubscription=r.resume.subscribe(function(){d.loaded&&(d.loaded=!1,d.refreshData())}),this.discussionUserId=i.get("discussionUserId")||!1,this.pushObserver=c.on("receive").subscribe(function(n){u.isFalseOrZero(n.notif)&&n.site==d.siteId&&d.refreshData(null,!1)})}return n.prototype.ngOnInit=function(){var n=this;this.discussionUserId&&this.gotoDiscussion(this.discussionUserId),this.fetchData().then(function(){!n.discussionUserId&&n.discussions.length>0&&n.gotoDiscussion(n.discussions[0].message.user,void 0,!0)})},n.prototype.refreshData=function(n,e){var t=this;void 0===e&&(e=!0);var s=[];return s.push(this.messagesProvider.invalidateDiscussionsCache(this.siteId)),e&&s.push(this.messagesProvider.invalidateUnreadConversationCounts(this.siteId)),this.utils.allPromises(s).finally(function(){return t.fetchData().finally(function(){n&&n.complete()})})},n.prototype.fetchData=function(){var n=this;this.loadingMessage=this.loadingMessages,this.search.enabled=this.messagesProvider.isSearchMessagesEnabled();var e=[];return e.push(this.messagesProvider.getDiscussions(this.siteId).then(function(e){var t=[];for(var s in e)e[s].unread=!!e[s].unread,t.push(e[s]);n.discussions=t.sort(function(n,e){return e.message.timecreated-n.message.timecreated})})),e.push(this.messagesProvider.getUnreadConversationCounts(this.siteId)),Promise.all(e).catch(function(e){n.domUtils.showErrorModalDefault(e,"addon.messages.errorwhileretrievingdiscussions",!0)}).finally(function(){n.loaded=!0})},n.prototype.clearSearch=function(){var n=this;this.loaded=!1,this.search.showResults=!1,this.search.text="",this.fetchData().finally(function(){n.loaded=!0})},n.prototype.searchMessage=function(n){var e=this;return this.appProvider.closeKeyboard(),this.loaded=!1,this.loadingMessage=this.search.loading,this.messagesProvider.searchMessages(n,void 0,void 0,void 0,this.siteId).then(function(n){e.search.showResults=!0,e.search.results=n.messages}).catch(function(n){e.domUtils.showErrorModalDefault(n,"addon.messages.errorwhileretrievingmessages",!0)}).finally(function(){e.loaded=!0})},n.prototype.gotoDiscussion=function(n,e,t){void 0===t&&(t=!1),this.discussionUserId=n;var l={discussion:n,onlyWithSplitView:t};e&&(l.message=e),this.eventsProvider.trigger(s.a.SPLIT_VIEW_LOAD_EVENT,l,this.siteId)},n.prototype.ngOnDestroy=function(){this.newMessagesObserver&&this.newMessagesObserver.off(),this.readChangedObserver&&this.readChangedObserver.off(),this.cronObserver&&this.cronObserver.off(),this.appResumeSubscription&&this.appResumeSubscription.unsubscribe(),this.pushObserver&&this.pushObserver.unsubscribe()},n}())},2105:function(n,e,t){"use strict";t.d(e,"a",function(){return a});t(0);var s=t(1),l=(t(7),t(12),t(2),t(154)),a=(t(5),function(){function n(n,e,t,a){var i=this;this.domUtils=n,this.messagesProvider=a,this.onUserSelected=new s.r,this.loaded=!1,this.canLoadMore=!1,this.loadMoreError=!1,this.contacts=[],this.onUserSelected=new s.r,this.memberInfoObserver=e.on(l.a.MEMBER_INFO_CHANGED_EVENT,function(n){if(n.userBlocked||n.userUnblocked){var e=i.contacts.find(function(e){return e.id==n.userId});e&&(e.isblocked=n.userBlocked)}else if(n.contactRemoved){var t=i.contacts.findIndex(function(e){return e.id==n.userId});t>=0&&i.contacts.splice(t,1)}else n.contactRequestConfirmed&&i.refreshData()},t.getCurrentSiteId())}return n.prototype.ngOnInit=function(){var n=this;this.fetchData().then(function(){n.contacts.length&&n.selectUser(n.contacts[0].id,!0)}).finally(function(){n.loaded=!0}),this.content.resize()},n.prototype.fetchData=function(n){var e=this;void 0===n&&(n=!1),this.loadMoreError=!1;var t=n?0:this.contacts.length;return(0===t?this.messagesProvider.invalidateUserContacts().catch(function(){}):Promise.resolve()).then(function(){return e.messagesProvider.getUserContacts(t)}).then(function(t){e.contacts=n?t.contacts:e.contacts.concat(t.contacts),e.canLoadMore=t.canLoadMore}).catch(function(n){e.loadMoreError=!0,e.domUtils.showErrorModalDefault(n,"addon.messages.errorwhileretrievingcontacts",!0)})},n.prototype.refreshData=function(n){return this.fetchData(!0).finally(function(){n&&n.complete()})},n.prototype.loadMore=function(n){return this.fetchData().finally(function(){n&&n()})},n.prototype.selectUser=function(n,e){void 0===e&&(e=!1),this.selectedUserId=n,this.onUserSelected.emit({userId:n,onInit:e})},n.prototype.ngOnDestroy=function(){this.memberInfoObserver&&this.memberInfoObserver.off()},n}())},2106:function(n,e,t){"use strict";t.d(e,"a",function(){return a});t(0);var s=t(1),l=(t(7),t(12),t(2),t(154)),a=(t(5),function(){function n(n,e,t,a){var i=this;this.domUtils=n,this.messagesProvider=a,this.onUserSelected=new s.r,this.loaded=!1,this.canLoadMore=!1,this.loadMoreError=!1,this.requests=[],this.memberInfoObserver=e.on(l.a.MEMBER_INFO_CHANGED_EVENT,function(n){if(n.contactRequestConfirmed||n.contactRequestDeclined){var e=i.requests.findIndex(function(e){return e.id==n.userId});e>=0&&i.requests.splice(e,1)}},t.getCurrentSiteId())}return n.prototype.ngOnInit=function(){var n=this;this.fetchData().then(function(){n.requests.length&&n.selectUser(n.requests[0].id,!0)}).finally(function(){n.loaded=!0}),this.content.resize()},n.prototype.fetchData=function(n){var e=this;void 0===n&&(n=!1),this.loadMoreError=!1;var t=n?0:this.requests.length;return(0===t?this.messagesProvider.invalidateContactRequestsCache().catch(function(){}):Promise.resolve()).then(function(){return e.messagesProvider.getContactRequests(t)}).then(function(t){e.requests=n?t.requests:e.requests.concat(t.requests),e.canLoadMore=t.canLoadMore}).catch(function(n){e.loadMoreError=!0,e.domUtils.showErrorModalDefault(n,"addon.messages.errorwhileretrievingcontacts",!0)})},n.prototype.refreshData=function(n){return this.messagesProvider.refreshContactRequestsCount(),this.fetchData(!0).finally(function(){n&&n.complete()})},n.prototype.loadMore=function(n){return this.fetchData().finally(function(){n&&n()})},n.prototype.selectUser=function(n,e){void 0===e&&(e=!1),this.selectedUserId=n,this.onUserSelected.emit({userId:n,onInit:e})},n.prototype.ngOnDestroy=function(){this.memberInfoObserver&&this.memberInfoObserver.off()},n}())},2107:function(n,e,t){"use strict";t.d(e,"a",function(){return l});t(0),t(7),t(4),t(2);var s=t(154),l=(t(5),t(10),t(12),function(){function n(n,e,t,l,a,i,o){var r=this;this.appProvider=t,this.messagesProvider=l,this.domUtils=a,this.eventsProvider=o,this.noSearchTypes=["online","offline","blocked","strangers"],this.loaded=!1,this.contactTypes=this.noSearchTypes,this.searchType="search",this.loadingMessage="",this.hasContacts=!1,this.contacts={search:[]},this.searchString="",this.currentUserId=n.getCurrentSiteUserId(),this.siteId=n.getCurrentSiteId(),this.searchingMessages=e.instant("core.searching"),this.loadingMessages=e.instant("core.loading"),this.loadingMessage=this.loadingMessages,this.discussionUserId=i.get("discussionUserId")||!1,this.memberInfoObserver=o.on(s.a.MEMBER_INFO_CHANGED_EVENT,function(n){n.contactRequestConfirmed&&r.refreshData()},n.getCurrentSiteId())}return n.prototype.ngOnInit=function(){var n=this;this.discussionUserId&&this.gotoDiscussion(this.discussionUserId),this.fetchData().then(function(){if(!n.discussionUserId&&n.hasContacts){var e=void 0;for(var t in n.contacts)if(n.contacts[t].length>0){e=n.contacts[t][0];break}e&&n.gotoDiscussion(e.id,!0)}}).finally(function(){n.loaded=!0})},n.prototype.refreshData=function(n){var e=this;return(this.searchString?this.performSearch(this.searchString):this.messagesProvider.invalidateAllContactsCache(this.currentUserId).then(function(){return e.fetchData()})).finally(function(){n.complete()})},n.prototype.fetchData=function(){var n=this;return this.loadingMessage=this.loadingMessages,this.messagesProvider.getAllContacts().then(function(e){for(var t in e)n.contacts[t]=e[t].length>0?n.sortUsers(e[t]):[];n.clearSearch()}).catch(function(e){n.domUtils.showErrorModalDefault(e,"addon.messages.errorwhileretrievingcontacts",!0)})},n.prototype.sortUsers=function(n){return n.sort(function(n,e){var t=n.fullname.toLowerCase(),s=e.fullname.toLowerCase();return t.localeCompare(s)})},n.prototype.clearSearch=function(){this.searchString="",this.contactTypes=this.noSearchTypes,this.hasContacts=!1;for(var n in this.contacts)if(this.contacts[n].length>0)return void(this.hasContacts=!0)},n.prototype.search=function(n){var e=this;return this.appProvider.closeKeyboard(),this.loaded=!1,this.loadingMessage=this.searchingMessages,this.performSearch(n).finally(function(){e.loaded=!0})},n.prototype.performSearch=function(n){var e=this;return this.messagesProvider.searchContacts(n).then(function(t){e.hasContacts=t.length>0,e.searchString=n,e.contactTypes=["search"],e.contacts.search=e.sortUsers(t)}).catch(function(n){e.domUtils.showErrorModalDefault(n,"addon.messages.errorwhileretrievingcontacts",!0)})},n.prototype.gotoDiscussion=function(n,e){void 0===e&&(e=!1),this.discussionUserId=n;this.eventsProvider.trigger(s.a.SPLIT_VIEW_LOAD_EVENT,{discussion:n,onlyWithSplitView:e},this.siteId)},n.prototype.ngOnDestroy=function(){this.memberInfoObserver&&this.memberInfoObserver.off()},n}())}});
+webpackJsonp([3],{
+
+/***/ 1976:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+
+// EXTERNAL MODULE: ./node_modules/@angular/core/esm5/core.js
+var core = __webpack_require__(0);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/index.js + 3 modules
+var ionic_angular = __webpack_require__(6);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/index.js + 1 modules
+var _ngx_translate_core = __webpack_require__(3);
+
+// EXTERNAL MODULE: ./src/providers/events.ts
+var events = __webpack_require__(11);
+
+// EXTERNAL MODULE: ./src/providers/sites.ts
+var sites = __webpack_require__(1);
+
+// EXTERNAL MODULE: ./src/addon/messages/providers/messages.ts
+var messages = __webpack_require__(153);
+
+// EXTERNAL MODULE: ./src/components/split-view/split-view.ts
+var split_view = __webpack_require__(25);
+
+// EXTERNAL MODULE: ./src/components/tabs/tabs.ts
+var tabs = __webpack_require__(172);
+
+// CONCATENATED MODULE: ./src/addon/messages/pages/contacts/contacts.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+/**
+ * Page that displays contacts and contact requests.
+ */
+var contacts_AddonMessagesContactsPage = /** @class */ (function () {
+    function AddonMessagesContactsPage(eventsProvider, sitesProvider, navCtrl, messagesProvider) {
+        var _this = this;
+        this.navCtrl = navCtrl;
+        this.messagesProvider = messagesProvider;
+        this.contactRequestsCount = 0;
+        this.selectedUserId = {
+            contacts: null,
+            requests: null,
+        };
+        this.siteId = sitesProvider.getCurrentSiteId();
+        // Update the contact requests badge.
+        this.contactRequestsCountObserver = eventsProvider.on(messages["a" /* AddonMessagesProvider */].CONTACT_REQUESTS_COUNT_EVENT, function (data) {
+            _this.contactRequestsCount = data.count;
+        }, this.siteId);
+    }
+    /**
+     * Page being initialized.
+     */
+    AddonMessagesContactsPage.prototype.ngOnInit = function () {
+        this.messagesProvider.getContactRequestsCount(this.siteId); // Badge already updated by the observer.
+    };
+    /**
+     * Navigate to the search page.
+     */
+    AddonMessagesContactsPage.prototype.gotoSearch = function () {
+        this.navCtrl.push('AddonMessagesSearchPage');
+    };
+    /**
+     * User entered the page.
+     */
+    AddonMessagesContactsPage.prototype.ionViewDidEnter = function () {
+        if (!this.splitviewCtrl.isOn()) {
+            this.selectedUserId.contacts = null;
+            this.selectedUserId.requests = null;
+        }
+        this.tabsComponent && this.tabsComponent.ionViewDidEnter();
+    };
+    /**
+     * User left the page.
+     */
+    AddonMessagesContactsPage.prototype.ionViewDidLeave = function () {
+        this.tabsComponent && this.tabsComponent.ionViewDidLeave();
+    };
+    /**
+     * Set the selected user and open the conversation in the split view if needed.
+     *
+     * @param {string} tab Active tab: "contacts" or "requests".
+     * @param {number} [userId] Id of the selected user, undefined to use the last selected user in the tab.
+     * @param {boolean} [onInit=false] Whether the contact was selected on initial load.
+     */
+    AddonMessagesContactsPage.prototype.selectUser = function (tab, userId, onInit) {
+        if (onInit === void 0) { onInit = false; }
+        userId = userId || this.selectedUserId[tab];
+        if (!userId || userId == this.conversationUserId && this.splitviewCtrl.isOn()) {
+            // No user conversation to open or it is already opened.
+            return;
+        }
+        if (onInit && !this.splitviewCtrl.isOn()) {
+            // Do not open a conversation by default when split view is not visible.
+            return;
+        }
+        this.conversationUserId = userId;
+        this.selectedUserId[tab] = userId;
+        this.splitviewCtrl.push('AddonMessagesDiscussionPage', { userId: userId });
+    };
+    /**
+     * Page destroyed.
+     */
+    AddonMessagesContactsPage.prototype.ngOnDestroy = function () {
+        this.contactRequestsCountObserver && this.contactRequestsCountObserver.off();
+    };
+    __decorate([
+        Object(core["_9" /* ViewChild */])(split_view["a" /* CoreSplitViewComponent */]),
+        __metadata("design:type", split_view["a" /* CoreSplitViewComponent */])
+    ], AddonMessagesContactsPage.prototype, "splitviewCtrl", void 0);
+    __decorate([
+        Object(core["_9" /* ViewChild */])(tabs["a" /* CoreTabsComponent */]),
+        __metadata("design:type", tabs["a" /* CoreTabsComponent */])
+    ], AddonMessagesContactsPage.prototype, "tabsComponent", void 0);
+    AddonMessagesContactsPage = __decorate([
+        Object(core["m" /* Component */])({
+            selector: 'page-addon-messages-contacts',
+            templateUrl: 'contacts.html',
+        }),
+        __metadata("design:paramtypes", [events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */],
+            ionic_angular["s" /* NavController */], messages["a" /* AddonMessagesProvider */]])
+    ], AddonMessagesContactsPage);
+    return AddonMessagesContactsPage;
+}());
+
+//# sourceMappingURL=contacts.js.map
+// EXTERNAL MODULE: ./src/components/components.module.ts
+var components_module = __webpack_require__(29);
+
+// EXTERNAL MODULE: ./src/directives/directives.module.ts + 2 modules
+var directives_module = __webpack_require__(31);
+
+// EXTERNAL MODULE: ./src/pipes/pipes.module.ts + 2 modules
+var pipes_module = __webpack_require__(109);
+
+// EXTERNAL MODULE: ./src/addon/messages/components/components.module.ts
+var components_components_module = __webpack_require__(2103);
+
+// CONCATENATED MODULE: ./src/addon/messages/pages/contacts/contacts.module.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var contacts_module___decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+var contacts_module_AddonMessagesContactsPageModule = /** @class */ (function () {
+    function AddonMessagesContactsPageModule() {
+    }
+    AddonMessagesContactsPageModule = contacts_module___decorate([
+        Object(core["I" /* NgModule */])({
+            declarations: [
+                contacts_AddonMessagesContactsPage,
+            ],
+            imports: [
+                components_module["a" /* CoreComponentsModule */],
+                directives_module["a" /* CoreDirectivesModule */],
+                pipes_module["a" /* CorePipesModule */],
+                components_components_module["a" /* AddonMessagesComponentsModule */],
+                ionic_angular["l" /* IonicPageModule */].forChild(contacts_AddonMessagesContactsPage),
+                _ngx_translate_core["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonMessagesContactsPageModule);
+    return AddonMessagesContactsPageModule;
+}());
+
+//# sourceMappingURL=contacts.module.js.map
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js
+var action_sheet_component_ngfactory = __webpack_require__(1471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/alert/alert-component.ngfactory.js
+var alert_component_ngfactory = __webpack_require__(1472);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app-root.ngfactory.js
+var app_root_ngfactory = __webpack_require__(1473);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/loading/loading-component.ngfactory.js
+var loading_component_ngfactory = __webpack_require__(1474);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/modal/modal-component.ngfactory.js
+var modal_component_ngfactory = __webpack_require__(1475);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/picker/picker-component.ngfactory.js + 1 modules
+var picker_component_ngfactory = __webpack_require__(1476);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-component.ngfactory.js
+var popover_component_ngfactory = __webpack_require__(1477);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/select/select-popover-component.ngfactory.js
+var select_popover_component_ngfactory = __webpack_require__(1478);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toast/toast-component.ngfactory.js
+var toast_component_ngfactory = __webpack_require__(1479);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-popover.ngfactory.js
+var context_menu_popover_ngfactory = __webpack_require__(1480);
+
+// EXTERNAL MODULE: ./src/components/course-picker-menu/course-picker-menu-popover.ngfactory.js
+var course_picker_menu_popover_ngfactory = __webpack_require__(1481);
+
+// EXTERNAL MODULE: ./src/components/recaptcha/recaptchamodal.ngfactory.js
+var recaptchamodal_ngfactory = __webpack_require__(1482);
+
+// EXTERNAL MODULE: ./src/components/bs-tooltip/bs-tooltip.ngfactory.js
+var bs_tooltip_ngfactory = __webpack_require__(1483);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ngfactory.js
+var icon_ngfactory = __webpack_require__(111);
+
+// EXTERNAL MODULE: ./src/components/icon/icon.ts
+var icon = __webpack_require__(94);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/config/config.js
+var config = __webpack_require__(7);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.ngfactory.js + 1 modules
+var item_ngfactory = __webpack_require__(30);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.js
+var item = __webpack_require__(21);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/form.js
+var util_form = __webpack_require__(20);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-reorder.js + 1 modules
+var item_reorder = __webpack_require__(28);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-content.js
+var item_content = __webpack_require__(32);
+
+// EXTERNAL MODULE: ./src/components/user-avatar/user-avatar.ngfactory.js
+var user_avatar_ngfactory = __webpack_require__(211);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/avatar/avatar.js
+var avatar = __webpack_require__(152);
+
+// EXTERNAL MODULE: ./src/components/user-avatar/user-avatar.ts
+var user_avatar = __webpack_require__(179);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-controller.js
+var nav_controller = __webpack_require__(19);
+
+// EXTERNAL MODULE: ./src/providers/utils/utils.ts
+var utils = __webpack_require__(2);
+
+// EXTERNAL MODULE: ./src/providers/app.ts
+var app = __webpack_require__(9);
+
+// EXTERNAL MODULE: ./src/directives/format-text.ts
+var format_text = __webpack_require__(41);
+
+// EXTERNAL MODULE: ./src/providers/utils/dom.ts
+var dom = __webpack_require__(4);
+
+// EXTERNAL MODULE: ./src/providers/utils/text.ts
+var utils_text = __webpack_require__(10);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.service.js
+var translate_service = __webpack_require__(18);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/platform.js + 1 modules
+var platform = __webpack_require__(16);
+
+// EXTERNAL MODULE: ./src/providers/utils/url.ts
+var url = __webpack_require__(23);
+
+// EXTERNAL MODULE: ./src/providers/logger.ts
+var logger = __webpack_require__(5);
+
+// EXTERNAL MODULE: ./src/providers/filepool.ts
+var filepool = __webpack_require__(17);
+
+// EXTERNAL MODULE: ./src/core/contentlinks/providers/helper.ts
+var helper = __webpack_require__(13);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.js
+var content = __webpack_require__(26);
+
+// EXTERNAL MODULE: ./src/providers/utils/iframe.ts
+var iframe = __webpack_require__(37);
+
+// EXTERNAL MODULE: ./node_modules/@angular/common/esm5/common.js
+var common = __webpack_require__(8);
+
+// EXTERNAL MODULE: ./src/components/empty-box/empty-box.ngfactory.js
+var empty_box_ngfactory = __webpack_require__(121);
+
+// EXTERNAL MODULE: ./src/components/empty-box/empty-box.ts
+var empty_box = __webpack_require__(110);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.pipe.js
+var translate_pipe = __webpack_require__(27);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.ngfactory.js
+var content_ngfactory = __webpack_require__(178);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/dom-controller.js
+var dom_controller = __webpack_require__(33);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app.js + 3 modules
+var app_app = __webpack_require__(34);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/keyboard.js
+var keyboard = __webpack_require__(101);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/view-controller.js
+var view_controller = __webpack_require__(38);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher.js
+var refresher = __webpack_require__(151);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/gestures/gesture-controller.js
+var gesture_controller = __webpack_require__(39);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.ngfactory.js
+var refresher_content_ngfactory = __webpack_require__(210);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/refresher/refresher-content.js
+var refresher_content = __webpack_require__(167);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ngfactory.js
+var loading_ngfactory = __webpack_require__(50);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ts
+var loading = __webpack_require__(47);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/list/list.js + 1 modules
+var list = __webpack_require__(82);
+
+// EXTERNAL MODULE: ./src/components/infinite-loading/infinite-loading.ngfactory.js
+var infinite_loading_ngfactory = __webpack_require__(369);
+
+// EXTERNAL MODULE: ./src/components/infinite-loading/infinite-loading.ts
+var infinite_loading = __webpack_require__(271);
+
+// EXTERNAL MODULE: ./src/addon/messages/components/confirmed-contacts/confirmed-contacts.ts
+var confirmed_contacts = __webpack_require__(2105);
+
+// CONCATENATED MODULE: ./src/addon/messages/components/confirmed-contacts/confirmed-contacts.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_AddonMessagesConfirmedContactsComponent = [];
+var RenderType_AddonMessagesConfirmedContactsComponent = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_AddonMessagesConfirmedContactsComponent, data: {} });
+
+function View_AddonMessagesConfirmedContactsComponent_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "core-icon", [["item-end", ""], ["name", "fa-ban"]], null, null, null, icon_ngfactory["b" /* View_CoreIconComponent_0 */], icon_ngfactory["a" /* RenderType_CoreIconComponent */])), core["_30" /* ɵdid */](1, 704512, null, 0, icon["a" /* CoreIconComponent */], [core["t" /* ElementRef */], config["a" /* Config */]], { name: [0, "name"] }, null)], function (_ck, _v) { var currVal_0 = "fa-ban"; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_AddonMessagesConfirmedContactsComponent_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 19, "a", [["class", "addon-messages-conversation-item item item-block"], ["ion-item", ""], ["text-wrap", ""]], [[8, "title", 0], [2, "core-split-item-selected", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.selectUser(_v.context.$implicit.id) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 2, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 3, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 4, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 0, 2, "ion-avatar", [["core-user-avatar", ""], ["item-start", ""]], null, null, null, user_avatar_ngfactory["b" /* View_CoreUserAvatarComponent_0 */], user_avatar_ngfactory["a" /* RenderType_CoreUserAvatarComponent */])), core["_30" /* ɵdid */](8, 16384, null, 0, avatar["a" /* Avatar */], [], null, null), core["_30" /* ɵdid */](9, 770048, null, 0, user_avatar["a" /* CoreUserAvatarComponent */], [nav_controller["a" /* NavController */], sites["a" /* CoreSitesProvider */], utils["a" /* CoreUtilsProvider */], app["a" /* CoreAppProvider */], events["a" /* CoreEventsProvider */], [2, split_view["a" /* CoreSplitViewComponent */]]], { user: [0, "user"], linkProfile: [1, "linkProfile"], checkOnline: [2, "checkOnline"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 7, "h2", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](13, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](14, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonMessagesConfirmedContactsComponent_2)), core["_30" /* ɵdid */](17, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_2 = _v.context.$implicit; var currVal_3 = false; var currVal_4 = _v.context.$implicit.showonlinestatus; _ck(_v, 9, 0, currVal_2, currVal_3, currVal_4); var currVal_5 = _v.context.$implicit.fullname; _ck(_v, 14, 0, currVal_5); var currVal_6 = _v.context.$implicit.isblocked; _ck(_v, 17, 0, currVal_6); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _v.context.$implicit.fullname; var currVal_1 = (_v.context.$implicit.id == _co.selectedUserId); _ck(_v, 0, 0, currVal_0, currVal_1); }); }
+function View_AddonMessagesConfirmedContactsComponent_3(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "core-empty-box", [["icon", "person"]], null, null, null, empty_box_ngfactory["b" /* View_CoreEmptyBoxComponent_0 */], empty_box_ngfactory["a" /* RenderType_CoreEmptyBoxComponent */])), core["_30" /* ɵdid */](1, 49152, null, 0, empty_box["a" /* CoreEmptyBoxComponent */], [], { message: [0, "message"], icon: [1, "icon"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, core["_44" /* ɵnov */](_v, 2).transform("addon.messages.nocontactsgetstarted")); var currVal_1 = "person"; _ck(_v, 1, 0, currVal_0, currVal_1); }, null); }
+function View_AddonMessagesConfirmedContactsComponent_0(_l) { return core["_57" /* ɵvid */](0, [core["_52" /* ɵqud */](402653184, 1, { content: 0 }), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 27, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](2, 4374528, [[1, 4]], 0, content["a" /* Content */], [config["a" /* Config */], platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app_app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](4, 0, null, 2, 6, "ion-refresher", [], [[2, "refresher-active", null], [4, "top", null]], [[null, "ionRefresh"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionRefresh" === en)) {
+        var pd_0 = (_co.refreshData($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), core["_30" /* ɵdid */](5, 212992, null, 0, refresher["a" /* Refresher */], [platform["a" /* Platform */], content["a" /* Content */], core["M" /* NgZone */], gesture_controller["l" /* GestureController */]], { enabled: [0, "enabled"] }, { ionRefresh: "ionRefresh" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, null, 2, "ion-refresher-content", [], [[1, "state", 0]], null, null, refresher_content_ngfactory["b" /* View_RefresherContent_0 */], refresher_content_ngfactory["a" /* RenderType_RefresherContent */])), core["_30" /* ɵdid */](8, 114688, null, 0, refresher_content["a" /* RefresherContent */], [refresher["a" /* Refresher */], config["a" /* Config */]], { pullingText: [0, "pullingText"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](12, 0, null, 1, 15, "core-loading", [["class", "core-loading-center"]], null, null, null, loading_ngfactory["b" /* View_CoreLoadingComponent_0 */], loading_ngfactory["a" /* RenderType_CoreLoadingComponent */])), core["_30" /* ɵdid */](13, 638976, null, 0, loading["a" /* CoreLoadingComponent */], [translate_service["a" /* TranslateService */], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */]], { hideUntil: [0, "hideUntil"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](15, 0, null, 0, 5, "ion-list", [["no-margin", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](16, 16384, null, 0, list["a" /* List */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], platform["a" /* Platform */], gesture_controller["l" /* GestureController */], dom_controller["a" /* DomController */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonMessagesConfirmedContactsComponent_1)), core["_30" /* ɵdid */](19, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonMessagesConfirmedContactsComponent_3)), core["_30" /* ɵdid */](23, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](25, 0, null, 0, 1, "core-infinite-loading", [["position", "bottom"]], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.loadMore($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, infinite_loading_ngfactory["b" /* View_CoreInfiniteLoadingComponent_0 */], infinite_loading_ngfactory["a" /* RenderType_CoreInfiniteLoadingComponent */])), core["_30" /* ɵdid */](26, 573440, null, 0, infinite_loading["a" /* CoreInfiniteLoadingComponent */], [[2, content["a" /* Content */]], dom["a" /* CoreDomUtilsProvider */]], { enabled: [0, "enabled"], error: [1, "error"], position: [2, "position"] }, { action: "action" }), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"]))], function (_ck, _v) { var _co = _v.component; var currVal_4 = _co.loaded; _ck(_v, 5, 0, currVal_4); var currVal_6 = core["_34" /* ɵinlineInterpolate */](1, "", core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.pulltorefresh")), ""); _ck(_v, 8, 0, currVal_6); var currVal_7 = _co.loaded; _ck(_v, 13, 0, currVal_7); var currVal_8 = _co.contacts; _ck(_v, 19, 0, currVal_8); var currVal_9 = !_co.contacts.length; _ck(_v, 23, 0, currVal_9); var currVal_10 = _co.canLoadMore; var currVal_11 = _co.loadMoreError; var currVal_12 = "bottom"; _ck(_v, 26, 0, currVal_10, currVal_11, currVal_12); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 2).statusbarPadding; var currVal_1 = core["_44" /* ɵnov */](_v, 2)._hasRefresher; _ck(_v, 1, 0, currVal_0, currVal_1); var currVal_2 = (core["_44" /* ɵnov */](_v, 5).state !== "inactive"); var currVal_3 = core["_44" /* ɵnov */](_v, 5)._top; _ck(_v, 4, 0, currVal_2, currVal_3); var currVal_5 = core["_44" /* ɵnov */](_v, 8).r.state; _ck(_v, 7, 0, currVal_5); }); }
+function View_AddonMessagesConfirmedContactsComponent_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "addon-messages-confirmed-contacts", [], null, null, null, View_AddonMessagesConfirmedContactsComponent_0, RenderType_AddonMessagesConfirmedContactsComponent)), core["_30" /* ɵdid */](1, 245760, null, 0, confirmed_contacts["a" /* AddonMessagesConfirmedContactsComponent */], [dom["a" /* CoreDomUtilsProvider */], events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */], messages["a" /* AddonMessagesProvider */]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var AddonMessagesConfirmedContactsComponentNgFactory = core["_27" /* ɵccf */]("addon-messages-confirmed-contacts", confirmed_contacts["a" /* AddonMessagesConfirmedContactsComponent */], View_AddonMessagesConfirmedContactsComponent_Host_0, {}, { onUserSelected: "onUserSelected" }, []);
+
+//# sourceMappingURL=confirmed-contacts.ngfactory.js.map
+// EXTERNAL MODULE: ./src/addon/messages/components/contact-requests/contact-requests.ts
+var contact_requests = __webpack_require__(2106);
+
+// CONCATENATED MODULE: ./src/addon/messages/components/contact-requests/contact-requests.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_AddonMessagesContactRequestsComponent = [];
+var RenderType_AddonMessagesContactRequestsComponent = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_AddonMessagesContactRequestsComponent, data: {} });
+
+function View_AddonMessagesContactRequestsComponent_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "p", [], null, null, null, null, null)), (_l()(), core["_55" /* ɵted */](1, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], null, function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, core["_44" /* ɵnov */](_v, 2).transform("addon.messages.wouldliketocontactyou")); _ck(_v, 1, 0, currVal_0); }); }
+function View_AddonMessagesContactRequestsComponent_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 17, "a", [["class", "addon-messages-conversation-item item item-block"], ["ion-item", ""], ["text-wrap", ""]], [[8, "title", 0], [2, "core-split-item-selected", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.selectUser(_v.context.$implicit.id) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 2, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 3, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 4, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 0, 2, "ion-avatar", [["core-user-avatar", ""], ["item-start", ""]], null, null, null, user_avatar_ngfactory["b" /* View_CoreUserAvatarComponent_0 */], user_avatar_ngfactory["a" /* RenderType_CoreUserAvatarComponent */])), core["_30" /* ɵdid */](8, 16384, null, 0, avatar["a" /* Avatar */], [], null, null), core["_30" /* ɵdid */](9, 770048, null, 0, user_avatar["a" /* CoreUserAvatarComponent */], [nav_controller["a" /* NavController */], sites["a" /* CoreSitesProvider */], utils["a" /* CoreUtilsProvider */], app["a" /* CoreAppProvider */], events["a" /* CoreEventsProvider */], [2, split_view["a" /* CoreSplitViewComponent */]]], { user: [0, "user"], linkProfile: [1, "linkProfile"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](11, 0, null, 2, 2, "h2", [], null, null, null, null, null)), (_l()(), core["_31" /* ɵeld */](12, 0, null, null, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](13, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], app["a" /* CoreAppProvider */], helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_26" /* ɵand */](16777216, null, 2, 1, null, View_AddonMessagesContactRequestsComponent_2)), core["_30" /* ɵdid */](16, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_2 = _v.context.$implicit; var currVal_3 = false; _ck(_v, 9, 0, currVal_2, currVal_3); var currVal_4 = _v.context.$implicit.fullname; _ck(_v, 13, 0, currVal_4); var currVal_5 = (!_v.context.$implicit.iscontact && !_v.context.$implicit.confirmedOrDeclined); _ck(_v, 16, 0, currVal_5); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _v.context.$implicit.fullname; var currVal_1 = (_v.context.$implicit.id == _co.selectedUserId); _ck(_v, 0, 0, currVal_0, currVal_1); }); }
+function View_AddonMessagesContactRequestsComponent_3(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 2, "core-empty-box", [["icon", "person"]], null, null, null, empty_box_ngfactory["b" /* View_CoreEmptyBoxComponent_0 */], empty_box_ngfactory["a" /* RenderType_CoreEmptyBoxComponent */])), core["_30" /* ɵdid */](1, 49152, null, 0, empty_box["a" /* CoreEmptyBoxComponent */], [], { message: [0, "message"], icon: [1, "icon"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]])], function (_ck, _v) { var currVal_0 = core["_56" /* ɵunv */](_v, 1, 0, core["_44" /* ɵnov */](_v, 2).transform("addon.messages.nocontactrequests")); var currVal_1 = "person"; _ck(_v, 1, 0, currVal_0, currVal_1); }, null); }
+function View_AddonMessagesContactRequestsComponent_0(_l) { return core["_57" /* ɵvid */](0, [core["_52" /* ɵqud */](402653184, 1, { content: 0 }), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 27, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](2, 4374528, [[1, 4]], 0, content["a" /* Content */], [config["a" /* Config */], platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app_app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](4, 0, null, 2, 6, "ion-refresher", [], [[2, "refresher-active", null], [4, "top", null]], [[null, "ionRefresh"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionRefresh" === en)) {
+        var pd_0 = (_co.refreshData($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), core["_30" /* ɵdid */](5, 212992, null, 0, refresher["a" /* Refresher */], [platform["a" /* Platform */], content["a" /* Content */], core["M" /* NgZone */], gesture_controller["l" /* GestureController */]], { enabled: [0, "enabled"] }, { ionRefresh: "ionRefresh" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, null, 2, "ion-refresher-content", [], [[1, "state", 0]], null, null, refresher_content_ngfactory["b" /* View_RefresherContent_0 */], refresher_content_ngfactory["a" /* RenderType_RefresherContent */])), core["_30" /* ɵdid */](8, 114688, null, 0, refresher_content["a" /* RefresherContent */], [refresher["a" /* Refresher */], config["a" /* Config */]], { pullingText: [0, "pullingText"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](12, 0, null, 1, 15, "core-loading", [["class", "core-loading-center"]], null, null, null, loading_ngfactory["b" /* View_CoreLoadingComponent_0 */], loading_ngfactory["a" /* RenderType_CoreLoadingComponent */])), core["_30" /* ɵdid */](13, 638976, null, 0, loading["a" /* CoreLoadingComponent */], [translate_service["a" /* TranslateService */], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */]], { hideUntil: [0, "hideUntil"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](15, 0, null, 0, 5, "ion-list", [["no-margin", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](16, 16384, null, 0, list["a" /* List */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], platform["a" /* Platform */], gesture_controller["l" /* GestureController */], dom_controller["a" /* DomController */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonMessagesContactRequestsComponent_1)), core["_30" /* ɵdid */](19, 802816, null, 0, common["j" /* NgForOf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */], core["E" /* IterableDiffers */]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_26" /* ɵand */](16777216, null, 0, 1, null, View_AddonMessagesContactRequestsComponent_3)), core["_30" /* ɵdid */](23, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](25, 0, null, 0, 1, "core-infinite-loading", [["position", "bottom"]], null, [[null, "action"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("action" === en)) {
+        var pd_0 = (_co.loadMore($event) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, infinite_loading_ngfactory["b" /* View_CoreInfiniteLoadingComponent_0 */], infinite_loading_ngfactory["a" /* RenderType_CoreInfiniteLoadingComponent */])), core["_30" /* ɵdid */](26, 573440, null, 0, infinite_loading["a" /* CoreInfiniteLoadingComponent */], [[2, content["a" /* Content */]], dom["a" /* CoreDomUtilsProvider */]], { enabled: [0, "enabled"], error: [1, "error"], position: [2, "position"] }, { action: "action" }), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"]))], function (_ck, _v) { var _co = _v.component; var currVal_4 = _co.loaded; _ck(_v, 5, 0, currVal_4); var currVal_6 = core["_34" /* ɵinlineInterpolate */](1, "", core["_56" /* ɵunv */](_v, 8, 0, core["_44" /* ɵnov */](_v, 9).transform("core.pulltorefresh")), ""); _ck(_v, 8, 0, currVal_6); var currVal_7 = _co.loaded; _ck(_v, 13, 0, currVal_7); var currVal_8 = _co.requests; _ck(_v, 19, 0, currVal_8); var currVal_9 = !_co.requests.length; _ck(_v, 23, 0, currVal_9); var currVal_10 = _co.canLoadMore; var currVal_11 = _co.loadMoreError; var currVal_12 = "bottom"; _ck(_v, 26, 0, currVal_10, currVal_11, currVal_12); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 2).statusbarPadding; var currVal_1 = core["_44" /* ɵnov */](_v, 2)._hasRefresher; _ck(_v, 1, 0, currVal_0, currVal_1); var currVal_2 = (core["_44" /* ɵnov */](_v, 5).state !== "inactive"); var currVal_3 = core["_44" /* ɵnov */](_v, 5)._top; _ck(_v, 4, 0, currVal_2, currVal_3); var currVal_5 = core["_44" /* ɵnov */](_v, 8).r.state; _ck(_v, 7, 0, currVal_5); }); }
+function View_AddonMessagesContactRequestsComponent_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "addon-messages-contact-requests", [], null, null, null, View_AddonMessagesContactRequestsComponent_0, RenderType_AddonMessagesContactRequestsComponent)), core["_30" /* ɵdid */](1, 245760, null, 0, contact_requests["a" /* AddonMessagesContactRequestsComponent */], [dom["a" /* CoreDomUtilsProvider */], events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */], messages["a" /* AddonMessagesProvider */]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var AddonMessagesContactRequestsComponentNgFactory = core["_27" /* ɵccf */]("addon-messages-contact-requests", contact_requests["a" /* AddonMessagesContactRequestsComponent */], View_AddonMessagesContactRequestsComponent_Host_0, {}, { onUserSelected: "onUserSelected" }, []);
+
+//# sourceMappingURL=contact-requests.ngfactory.js.map
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-header.js
+var toolbar_header = __webpack_require__(365);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.ngfactory.js
+var navbar_ngfactory = __webpack_require__(713);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.js
+var navbar = __webpack_require__(209);
+
+// EXTERNAL MODULE: ./src/directives/back-button.ts
+var back_button = __webpack_require__(471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js
+var toolbar_title_ngfactory = __webpack_require__(714);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.js
+var toolbar_title = __webpack_require__(309);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar.js
+var toolbar = __webpack_require__(245);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-item.js
+var toolbar_item = __webpack_require__(366);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.ngfactory.js
+var button_ngfactory = __webpack_require__(44);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.js
+var button_button = __webpack_require__(42);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/icon/icon.js
+var icon_icon = __webpack_require__(46);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu.ngfactory.js
+var context_menu_ngfactory = __webpack_require__(85);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu.ts
+var context_menu = __webpack_require__(74);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-controller.js
+var popover_controller = __webpack_require__(65);
+
+// EXTERNAL MODULE: ./src/components/tabs/tab.ts
+var tab = __webpack_require__(72);
+
+// EXTERNAL MODULE: ./src/components/split-view/split-view.ngfactory.js
+var split_view_ngfactory = __webpack_require__(472);
+
+// EXTERNAL MODULE: ./src/core/fileuploader/providers/fileuploader.ts
+var fileuploader = __webpack_require__(68);
+
+// EXTERNAL MODULE: ./src/components/tabs/tabs.ngfactory.js
+var tabs_ngfactory = __webpack_require__(478);
+
+// EXTERNAL MODULE: ./src/components/tabs/tab.ngfactory.js
+var tab_ngfactory = __webpack_require__(479);
+
+// CONCATENATED MODULE: ./src/addon/messages/pages/contacts/contacts.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_AddonMessagesContactsPage = [];
+var RenderType_AddonMessagesContactsPage = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_AddonMessagesContactsPage, data: {} });
+
+function View_AddonMessagesContactsPage_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 1, "addon-messages-confirmed-contacts", [], null, [[null, "onUserSelected"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onUserSelected" === en)) {
+        var pd_0 = (_co.selectUser("contacts", $event.userId, $event.onInit) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, View_AddonMessagesConfirmedContactsComponent_0, RenderType_AddonMessagesConfirmedContactsComponent)), core["_30" /* ɵdid */](2, 245760, null, 0, confirmed_contacts["a" /* AddonMessagesConfirmedContactsComponent */], [dom["a" /* CoreDomUtilsProvider */], events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */], messages["a" /* AddonMessagesProvider */]], null, { onUserSelected: "onUserSelected" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "]))], function (_ck, _v) { _ck(_v, 2, 0); }, null); }
+function View_AddonMessagesContactsPage_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_55" /* ɵted */](-1, null, ["\n                    "])), (_l()(), core["_31" /* ɵeld */](1, 0, null, null, 1, "addon-messages-contact-requests", [], null, [[null, "onUserSelected"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onUserSelected" === en)) {
+        var pd_0 = (_co.selectUser("requests", $event.userId, $event.onInit) !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, View_AddonMessagesContactRequestsComponent_0, RenderType_AddonMessagesContactRequestsComponent)), core["_30" /* ɵdid */](2, 245760, null, 0, contact_requests["a" /* AddonMessagesContactRequestsComponent */], [dom["a" /* CoreDomUtilsProvider */], events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */], messages["a" /* AddonMessagesProvider */]], null, { onUserSelected: "onUserSelected" }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "]))], function (_ck, _v) { _ck(_v, 2, 0); }, null); }
+function View_AddonMessagesContactsPage_0(_l) { return core["_57" /* ɵvid */](0, [core["_52" /* ɵqud */](402653184, 1, { splitviewCtrl: 0 }), core["_52" /* ɵqud */](402653184, 2, { tabsComponent: 0 }), (_l()(), core["_31" /* ɵeld */](2, 0, null, null, 29, "ion-header", [], null, null, null, null, null)), core["_30" /* ɵdid */](3, 16384, null, 0, toolbar_header["a" /* Header */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, view_controller["a" /* ViewController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_31" /* ɵeld */](5, 0, null, null, 25, "ion-navbar", [["class", "toolbar"], ["core-back-button", ""]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, navbar_ngfactory["b" /* View_Navbar_0 */], navbar_ngfactory["a" /* RenderType_Navbar */])), core["_30" /* ɵdid */](6, 49152, null, 0, navbar["a" /* Navbar */], [app_app["a" /* App */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), core["_30" /* ɵdid */](7, 212992, null, 0, back_button["a" /* CoreBackButtonDirective */], [navbar["a" /* Navbar */], platform["a" /* Platform */], translate_service["a" /* TranslateService */], events["a" /* CoreEventsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](9, 0, null, 3, 3, "ion-title", [], null, null, null, toolbar_title_ngfactory["b" /* View_ToolbarTitle_0 */], toolbar_title_ngfactory["a" /* RenderType_ToolbarTitle */])), core["_30" /* ɵdid */](10, 49152, null, 0, toolbar_title["a" /* ToolbarTitle */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), (_l()(), core["_55" /* ɵted */](11, 0, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](14, 0, null, 2, 15, "ion-buttons", [["end", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](15, 16384, null, 1, toolbar_item["a" /* ToolbarItem */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), core["_52" /* ɵqud */](603979776, 3, { _buttons: 1 }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](18, 0, null, null, 6, "button", [["icon-only", ""], ["ion-button", ""]], [[1, "aria-label", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.gotoSearch() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](19, 1097728, [[3, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n                "])), (_l()(), core["_31" /* ɵeld */](22, 0, null, 0, 1, "ion-icon", [["name", "search"], ["role", "img"]], [[2, "hide", null]], null, null, null, null)), core["_30" /* ɵdid */](23, 147456, null, 0, icon_icon["a" /* Icon */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { name: [0, "name"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](27, 0, null, null, 1, "core-context-menu", [], null, null, null, context_menu_ngfactory["b" /* View_CoreContextMenuComponent_0 */], context_menu_ngfactory["a" /* RenderType_CoreContextMenuComponent */])), core["_30" /* ɵdid */](28, 245760, null, 0, context_menu["a" /* CoreContextMenuComponent */], [translate_service["a" /* TranslateService */], popover_controller["a" /* PopoverController */], core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], [2, tab["a" /* CoreTabComponent */]], utils["a" /* CoreUtilsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_31" /* ɵeld */](33, 0, null, null, 28, "core-split-view", [], null, null, null, split_view_ngfactory["b" /* View_CoreSplitViewComponent_0 */], split_view_ngfactory["a" /* RenderType_CoreSplitViewComponent */])), core["_30" /* ɵdid */](34, 245760, [[1, 4]], 0, split_view["a" /* CoreSplitViewComponent */], [[2, nav_controller["a" /* NavController */]], core["t" /* ElementRef */], fileuploader["a" /* CoreFileUploaderProvider */], platform["a" /* Platform */], translate_service["a" /* TranslateService */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_31" /* ɵeld */](36, 0, null, 0, 24, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](37, 4374528, null, 0, content["a" /* Content */], [config["a" /* Config */], platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app_app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n        "])), (_l()(), core["_31" /* ɵeld */](39, 0, null, 1, 20, "core-tabs", [], null, null, null, tabs_ngfactory["b" /* View_CoreTabsComponent_0 */], tabs_ngfactory["a" /* RenderType_CoreTabsComponent */])), core["_30" /* ɵdid */](40, 4964352, [[2, 4]], 0, tabs["a" /* CoreTabsComponent */], [core["t" /* ElementRef */], content["a" /* Content */], dom["a" /* CoreDomUtilsProvider */], app["a" /* CoreAppProvider */], platform["a" /* Platform */], translate_service["a" /* TranslateService */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_31" /* ɵeld */](42, 0, null, 0, 7, "core-tab", [], null, [[null, "ionSelect"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionSelect" === en)) {
+        var pd_0 = (_co.selectUser("contacts") !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, tab_ngfactory["b" /* View_CoreTabComponent_0 */], tab_ngfactory["a" /* RenderType_CoreTabComponent */])), core["_30" /* ɵdid */](43, 245760, null, 2, tab["a" /* CoreTabComponent */], [tabs["a" /* CoreTabsComponent */], core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */]], { title: [0, "title"] }, { ionSelect: "ionSelect" }), core["_52" /* ɵqud */](335544320, 4, { template: 0 }), core["_52" /* ɵqud */](335544320, 5, { content: 0 }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                "])), (_l()(), core["_26" /* ɵand */](0, [[4, 2]], null, 0, null, View_AddonMessagesContactsPage_1)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n            "])), (_l()(), core["_31" /* ɵeld */](51, 0, null, 0, 7, "core-tab", [], null, [[null, "ionSelect"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("ionSelect" === en)) {
+        var pd_0 = (_co.selectUser("requests") !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, tab_ngfactory["b" /* View_CoreTabComponent_0 */], tab_ngfactory["a" /* RenderType_CoreTabComponent */])), core["_30" /* ɵdid */](52, 245760, null, 2, tab["a" /* CoreTabComponent */], [tabs["a" /* CoreTabsComponent */], core["t" /* ElementRef */], dom["a" /* CoreDomUtilsProvider */], utils["a" /* CoreUtilsProvider */]], { title: [0, "title"], badge: [1, "badge"] }, { ionSelect: "ionSelect" }), core["_52" /* ɵqud */](335544320, 6, { template: 0 }), core["_52" /* ɵqud */](335544320, 7, { content: 0 }), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n                 "])), (_l()(), core["_26" /* ɵand */](0, [[6, 2]], null, 0, null, View_AddonMessagesContactsPage_2)), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n"]))], function (_ck, _v) { var _co = _v.component; _ck(_v, 7, 0); var currVal_5 = "search"; _ck(_v, 23, 0, currVal_5); _ck(_v, 28, 0); _ck(_v, 34, 0); _ck(_v, 40, 0); var currVal_8 = core["_56" /* ɵunv */](_v, 43, 0, core["_44" /* ɵnov */](_v, 46).transform("addon.messages.contacts")); _ck(_v, 43, 0, currVal_8); var currVal_9 = core["_56" /* ɵunv */](_v, 52, 0, core["_44" /* ɵnov */](_v, 55).transform("addon.messages.requests")); var currVal_10 = _co.contactRequestsCount; _ck(_v, 52, 0, currVal_9, currVal_10); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 6)._hidden; var currVal_1 = core["_44" /* ɵnov */](_v, 6)._sbPadding; _ck(_v, 5, 0, currVal_0, currVal_1); var currVal_2 = core["_56" /* ɵunv */](_v, 11, 0, core["_44" /* ɵnov */](_v, 12).transform("addon.messages.contacts")); _ck(_v, 11, 0, currVal_2); var currVal_3 = core["_56" /* ɵunv */](_v, 18, 0, core["_44" /* ɵnov */](_v, 20).transform("addon.messages.search")); _ck(_v, 18, 0, currVal_3); var currVal_4 = core["_44" /* ɵnov */](_v, 23)._hidden; _ck(_v, 22, 0, currVal_4); var currVal_6 = core["_44" /* ɵnov */](_v, 37).statusbarPadding; var currVal_7 = core["_44" /* ɵnov */](_v, 37)._hasRefresher; _ck(_v, 36, 0, currVal_6, currVal_7); }); }
+function View_AddonMessagesContactsPage_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "page-addon-messages-contacts", [], null, null, null, View_AddonMessagesContactsPage_0, RenderType_AddonMessagesContactsPage)), core["_30" /* ɵdid */](1, 245760, null, 0, contacts_AddonMessagesContactsPage, [events["a" /* CoreEventsProvider */], sites["a" /* CoreSitesProvider */], nav_controller["a" /* NavController */], messages["a" /* AddonMessagesProvider */]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var AddonMessagesContactsPageNgFactory = core["_27" /* ɵccf */]("page-addon-messages-contacts", contacts_AddonMessagesContactsPage, View_AddonMessagesContactsPage_Host_0, {}, {}, []);
+
+//# sourceMappingURL=contacts.ngfactory.js.map
+// EXTERNAL MODULE: ./node_modules/@angular/forms/esm5/forms.js
+var esm5_forms = __webpack_require__(22);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.loader.js
+var translate_loader = __webpack_require__(361);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.compiler.js
+var translate_compiler = __webpack_require__(362);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.parser.js
+var translate_parser = __webpack_require__(364);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/missing-translation-handler.js
+var missing_translation_handler = __webpack_require__(363);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.store.js
+var translate_store = __webpack_require__(470);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/module.js
+var ionic_angular_module = __webpack_require__(712);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/module-loader.js
+var module_loader = __webpack_require__(269);
+
+// CONCATENATED MODULE: ./src/addon/messages/pages/contacts/contacts.module.ngfactory.js
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonMessagesContactsPageModuleNgFactory", function() { return AddonMessagesContactsPageModuleNgFactory; });
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var AddonMessagesContactsPageModuleNgFactory = core["_28" /* ɵcmf */](contacts_module_AddonMessagesContactsPageModule, [], function (_l) { return core["_40" /* ɵmod */]([core["_41" /* ɵmpd */](512, core["o" /* ComponentFactoryResolver */], core["_21" /* ɵCodegenComponentFactoryResolver */], [[8, [action_sheet_component_ngfactory["a" /* ActionSheetCmpNgFactory */], alert_component_ngfactory["a" /* AlertCmpNgFactory */], app_root_ngfactory["a" /* IonicAppNgFactory */], loading_component_ngfactory["a" /* LoadingCmpNgFactory */], modal_component_ngfactory["a" /* ModalCmpNgFactory */], picker_component_ngfactory["a" /* PickerCmpNgFactory */], popover_component_ngfactory["a" /* PopoverCmpNgFactory */], select_popover_component_ngfactory["a" /* SelectPopoverNgFactory */], toast_component_ngfactory["a" /* ToastCmpNgFactory */], context_menu_popover_ngfactory["a" /* CoreContextMenuPopoverComponentNgFactory */], course_picker_menu_popover_ngfactory["a" /* CoreCoursePickerMenuPopoverComponentNgFactory */], recaptchamodal_ngfactory["a" /* CoreRecaptchaModalComponentNgFactory */], bs_tooltip_ngfactory["a" /* CoreBSTooltipComponentNgFactory */], AddonMessagesContactsPageNgFactory]], [3, core["o" /* ComponentFactoryResolver */]], core["K" /* NgModuleRef */]]), core["_41" /* ɵmpd */](4608, common["m" /* NgLocalization */], common["l" /* NgLocaleLocalization */], [core["G" /* LOCALE_ID */], [2, common["w" /* ɵa */]]]), core["_41" /* ɵmpd */](4608, esm5_forms["x" /* ɵi */], esm5_forms["x" /* ɵi */], []), core["_41" /* ɵmpd */](4608, esm5_forms["d" /* FormBuilder */], esm5_forms["d" /* FormBuilder */], []), core["_41" /* ɵmpd */](4608, translate_loader["b" /* TranslateLoader */], translate_loader["a" /* TranslateFakeLoader */], []), core["_41" /* ɵmpd */](4608, translate_compiler["a" /* TranslateCompiler */], translate_compiler["b" /* TranslateFakeCompiler */], []), core["_41" /* ɵmpd */](4608, translate_parser["b" /* TranslateParser */], translate_parser["a" /* TranslateDefaultParser */], []), core["_41" /* ɵmpd */](4608, missing_translation_handler["b" /* MissingTranslationHandler */], missing_translation_handler["a" /* FakeMissingTranslationHandler */], []), core["_41" /* ɵmpd */](4608, translate_service["a" /* TranslateService */], translate_service["a" /* TranslateService */], [translate_store["a" /* TranslateStore */], translate_loader["b" /* TranslateLoader */], translate_compiler["a" /* TranslateCompiler */], translate_parser["b" /* TranslateParser */], missing_translation_handler["b" /* MissingTranslationHandler */], translate_service["b" /* USE_DEFAULT_LANG */], translate_service["c" /* USE_STORE */]]), core["_41" /* ɵmpd */](512, common["b" /* CommonModule */], common["b" /* CommonModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["v" /* ɵba */], esm5_forms["v" /* ɵba */], []), core["_41" /* ɵmpd */](512, esm5_forms["i" /* FormsModule */], esm5_forms["i" /* FormsModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["s" /* ReactiveFormsModule */], esm5_forms["s" /* ReactiveFormsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["a" /* IonicModule */], ionic_angular_module["a" /* IonicModule */], []), core["_41" /* ɵmpd */](512, _ngx_translate_core["b" /* TranslateModule */], _ngx_translate_core["b" /* TranslateModule */], []), core["_41" /* ɵmpd */](512, directives_module["a" /* CoreDirectivesModule */], directives_module["a" /* CoreDirectivesModule */], []), core["_41" /* ɵmpd */](512, pipes_module["a" /* CorePipesModule */], pipes_module["a" /* CorePipesModule */], []), core["_41" /* ɵmpd */](512, components_module["a" /* CoreComponentsModule */], components_module["a" /* CoreComponentsModule */], []), core["_41" /* ɵmpd */](512, components_components_module["a" /* AddonMessagesComponentsModule */], components_components_module["a" /* AddonMessagesComponentsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["b" /* IonicPageModule */], ionic_angular_module["b" /* IonicPageModule */], []), core["_41" /* ɵmpd */](512, contacts_module_AddonMessagesContactsPageModule, contacts_module_AddonMessagesContactsPageModule, []), core["_41" /* ɵmpd */](256, translate_service["c" /* USE_STORE */], undefined, []), core["_41" /* ɵmpd */](256, translate_service["b" /* USE_DEFAULT_LANG */], undefined, []), core["_41" /* ɵmpd */](256, module_loader["a" /* LAZY_LOADED_TOKEN */], contacts_AddonMessagesContactsPage, [])]); });
+
+//# sourceMappingURL=contacts.module.ngfactory.js.map
+
+/***/ }),
+
+/***/ 2103:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonMessagesComponentsModule; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_common__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_ionic_angular__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pipes_pipes_module__ = __webpack_require__(109);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_discussions_discussions__ = __webpack_require__(2104);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_confirmed_contacts_confirmed_contacts__ = __webpack_require__(2105);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_contact_requests_contact_requests__ = __webpack_require__(2106);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_contacts_contacts__ = __webpack_require__(2107);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+
+
+
+
+
+var AddonMessagesComponentsModule = /** @class */ (function () {
+    function AddonMessagesComponentsModule() {
+    }
+    AddonMessagesComponentsModule = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["I" /* NgModule */])({
+            declarations: [
+                __WEBPACK_IMPORTED_MODULE_7__components_discussions_discussions__["a" /* AddonMessagesDiscussionsComponent */],
+                __WEBPACK_IMPORTED_MODULE_8__components_confirmed_contacts_confirmed_contacts__["a" /* AddonMessagesConfirmedContactsComponent */],
+                __WEBPACK_IMPORTED_MODULE_9__components_contact_requests_contact_requests__["a" /* AddonMessagesContactRequestsComponent */],
+                __WEBPACK_IMPORTED_MODULE_10__components_contacts_contacts__["a" /* AddonMessagesContactsComponent */]
+            ],
+            imports: [
+                __WEBPACK_IMPORTED_MODULE_1__angular_common__["b" /* CommonModule */],
+                __WEBPACK_IMPORTED_MODULE_2_ionic_angular__["k" /* IonicModule */],
+                __WEBPACK_IMPORTED_MODULE_3__ngx_translate_core__["b" /* TranslateModule */].forChild(),
+                __WEBPACK_IMPORTED_MODULE_4__components_components_module__["a" /* CoreComponentsModule */],
+                __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__["a" /* CoreDirectivesModule */],
+                __WEBPACK_IMPORTED_MODULE_6__pipes_pipes_module__["a" /* CorePipesModule */]
+            ],
+            providers: [],
+            exports: [
+                __WEBPACK_IMPORTED_MODULE_7__components_discussions_discussions__["a" /* AddonMessagesDiscussionsComponent */],
+                __WEBPACK_IMPORTED_MODULE_8__components_confirmed_contacts_confirmed_contacts__["a" /* AddonMessagesConfirmedContactsComponent */],
+                __WEBPACK_IMPORTED_MODULE_9__components_contact_requests_contact_requests__["a" /* AddonMessagesContactRequestsComponent */],
+                __WEBPACK_IMPORTED_MODULE_10__components_contacts_contacts__["a" /* AddonMessagesContactsComponent */]
+            ]
+        })
+    ], AddonMessagesComponentsModule);
+    return AddonMessagesComponentsModule;
+}());
+
+//# sourceMappingURL=components.module.js.map
+
+/***/ }),
+
+/***/ 2104:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonMessagesDiscussionsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_events__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_sites__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_messages__ = __webpack_require__(153);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_utils_utils__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__providers_app__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__core_pushnotifications_providers_delegate__ = __webpack_require__(136);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+/**
+ * Component that displays the list of discussions.
+ */
+var AddonMessagesDiscussionsComponent = /** @class */ (function () {
+    function AddonMessagesDiscussionsComponent(eventsProvider, sitesProvider, translate, messagesProvider, domUtils, navParams, appProvider, platform, utils, pushNotificationsDelegate) {
+        var _this = this;
+        this.eventsProvider = eventsProvider;
+        this.messagesProvider = messagesProvider;
+        this.domUtils = domUtils;
+        this.appProvider = appProvider;
+        this.utils = utils;
+        this.loaded = false;
+        this.search = {
+            enabled: false,
+            showResults: false,
+            results: [],
+            loading: '',
+            text: ''
+        };
+        this.search.loading = translate.instant('core.searching');
+        this.loadingMessages = translate.instant('core.loading');
+        this.siteId = sitesProvider.getCurrentSiteId();
+        // Update discussions when new message is received.
+        this.newMessagesObserver = eventsProvider.on(__WEBPACK_IMPORTED_MODULE_5__providers_messages__["a" /* AddonMessagesProvider */].NEW_MESSAGE_EVENT, function (data) {
+            if (data.userId && _this.discussions) {
+                var discussion = _this.discussions.find(function (disc) {
+                    return disc.message.user == data.userId;
+                });
+                if (typeof discussion == 'undefined') {
+                    _this.loaded = false;
+                    _this.refreshData().finally(function () {
+                        _this.loaded = true;
+                    });
+                }
+                else {
+                    // An existing discussion has a new message, update the last message.
+                    discussion.message.message = data.message;
+                    discussion.message.timecreated = data.timecreated;
+                }
+            }
+        }, this.siteId);
+        // Update discussions when a message is read.
+        this.readChangedObserver = eventsProvider.on(__WEBPACK_IMPORTED_MODULE_5__providers_messages__["a" /* AddonMessagesProvider */].READ_CHANGED_EVENT, function (data) {
+            if (data.userId && _this.discussions) {
+                var discussion = _this.discussions.find(function (disc) {
+                    return disc.message.user == data.userId;
+                });
+                if (typeof discussion != 'undefined') {
+                    // A discussion has been read reset counter.
+                    discussion.unread = false;
+                    // Conversations changed, invalidate them and refresh unread counts.
+                    _this.messagesProvider.invalidateConversations(_this.siteId);
+                    _this.messagesProvider.refreshUnreadConversationCounts(_this.siteId);
+                }
+            }
+        }, this.siteId);
+        // Refresh the view when the app is resumed.
+        this.appResumeSubscription = platform.resume.subscribe(function () {
+            if (!_this.loaded) {
+                return;
+            }
+            _this.loaded = false;
+            _this.refreshData();
+        });
+        this.discussionUserId = navParams.get('discussionUserId') || false;
+        // If a message push notification is received, refresh the view.
+        this.pushObserver = pushNotificationsDelegate.on('receive').subscribe(function (notification) {
+            // New message received. If it's from current site, refresh the data.
+            if (utils.isFalseOrZero(notification.notif) && notification.site == _this.siteId) {
+                // Don't refresh unread counts, it's refreshed from the main menu handler in this case.
+                _this.refreshData(null, false);
+            }
+        });
+    }
+    /**
+     * Component loaded.
+     */
+    AddonMessagesDiscussionsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        if (this.discussionUserId) {
+            // There is a discussion to load, open the discussion in a new state.
+            this.gotoDiscussion(this.discussionUserId);
+        }
+        this.fetchData().then(function () {
+            if (!_this.discussionUserId && _this.discussions.length > 0) {
+                // Take first and load it.
+                _this.gotoDiscussion(_this.discussions[0].message.user, undefined, true);
+            }
+        });
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} [refresher] Refresher.
+     * @param {boolean} [refreshUnreadCounts=true] Whteher to refresh unread counts.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesDiscussionsComponent.prototype.refreshData = function (refresher, refreshUnreadCounts) {
+        var _this = this;
+        if (refreshUnreadCounts === void 0) { refreshUnreadCounts = true; }
+        var promises = [];
+        promises.push(this.messagesProvider.invalidateDiscussionsCache(this.siteId));
+        if (refreshUnreadCounts) {
+            promises.push(this.messagesProvider.invalidateUnreadConversationCounts(this.siteId));
+        }
+        return this.utils.allPromises(promises).finally(function () {
+            return _this.fetchData().finally(function () {
+                if (refresher) {
+                    refresher.complete();
+                }
+            });
+        });
+    };
+    /**
+     * Fetch discussions.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesDiscussionsComponent.prototype.fetchData = function () {
+        var _this = this;
+        this.loadingMessage = this.loadingMessages;
+        this.search.enabled = this.messagesProvider.isSearchMessagesEnabled();
+        var promises = [];
+        promises.push(this.messagesProvider.getDiscussions(this.siteId).then(function (discussions) {
+            // Convert to an array for sorting.
+            var discussionsSorted = [];
+            for (var userId in discussions) {
+                discussions[userId].unread = !!discussions[userId].unread;
+                discussionsSorted.push(discussions[userId]);
+            }
+            _this.discussions = discussionsSorted.sort(function (a, b) {
+                return b.message.timecreated - a.message.timecreated;
+            });
+        }));
+        promises.push(this.messagesProvider.getUnreadConversationCounts(this.siteId));
+        return Promise.all(promises).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingdiscussions', true);
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Clear search and show discussions again.
+     */
+    AddonMessagesDiscussionsComponent.prototype.clearSearch = function () {
+        var _this = this;
+        this.loaded = false;
+        this.search.showResults = false;
+        this.search.text = ''; // Reset searched string.
+        this.fetchData().finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Search messages cotaining text.
+     *
+     * @param  {string}       query Text to search for.
+     * @return {Promise<any>}       Resolved when done.
+     */
+    AddonMessagesDiscussionsComponent.prototype.searchMessage = function (query) {
+        var _this = this;
+        this.appProvider.closeKeyboard();
+        this.loaded = false;
+        this.loadingMessage = this.search.loading;
+        return this.messagesProvider.searchMessages(query, undefined, undefined, undefined, this.siteId).then(function (searchResults) {
+            _this.search.showResults = true;
+            _this.search.results = searchResults.messages;
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingmessages', true);
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Navigate to a particular discussion.
+     *
+     * @param {number} discussionUserId Discussion Id to load.
+     * @param {number} [messageId]      Message to scroll after loading the discussion. Used when searching.
+     * @param {boolean} [onlyWithSplitView=false]  Only go to Discussion if split view is on.
+     */
+    AddonMessagesDiscussionsComponent.prototype.gotoDiscussion = function (discussionUserId, messageId, onlyWithSplitView) {
+        if (onlyWithSplitView === void 0) { onlyWithSplitView = false; }
+        this.discussionUserId = discussionUserId;
+        var params = {
+            discussion: discussionUserId,
+            onlyWithSplitView: onlyWithSplitView
+        };
+        if (messageId) {
+            params['message'] = messageId;
+        }
+        this.eventsProvider.trigger(__WEBPACK_IMPORTED_MODULE_5__providers_messages__["a" /* AddonMessagesProvider */].SPLIT_VIEW_LOAD_EVENT, params, this.siteId);
+    };
+    /**
+     * Component destroyed.
+     */
+    AddonMessagesDiscussionsComponent.prototype.ngOnDestroy = function () {
+        this.newMessagesObserver && this.newMessagesObserver.off();
+        this.readChangedObserver && this.readChangedObserver.off();
+        this.cronObserver && this.cronObserver.off();
+        this.appResumeSubscription && this.appResumeSubscription.unsubscribe();
+        this.pushObserver && this.pushObserver.unsubscribe();
+    };
+    AddonMessagesDiscussionsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'addon-messages-discussions',
+            templateUrl: 'addon-messages-discussions.html',
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_4__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["c" /* TranslateService */],
+            __WEBPACK_IMPORTED_MODULE_5__providers_messages__["a" /* AddonMessagesProvider */], __WEBPACK_IMPORTED_MODULE_6__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["t" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_8__providers_app__["a" /* CoreAppProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["v" /* Platform */], __WEBPACK_IMPORTED_MODULE_7__providers_utils_utils__["a" /* CoreUtilsProvider */],
+            __WEBPACK_IMPORTED_MODULE_9__core_pushnotifications_providers_delegate__["a" /* CorePushNotificationsDelegate */]])
+    ], AddonMessagesDiscussionsComponent);
+    return AddonMessagesDiscussionsComponent;
+}());
+
+//# sourceMappingURL=discussions.js.map
+
+/***/ }),
+
+/***/ 2105:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonMessagesConfirmedContactsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_events__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_sites__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_messages__ = __webpack_require__(153);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(4);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+/**
+ * Component that displays the list of confirmed contacts.
+ */
+var AddonMessagesConfirmedContactsComponent = /** @class */ (function () {
+    function AddonMessagesConfirmedContactsComponent(domUtils, eventsProvider, sitesProvider, messagesProvider) {
+        var _this = this;
+        this.domUtils = domUtils;
+        this.messagesProvider = messagesProvider;
+        this.onUserSelected = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* EventEmitter */]();
+        this.loaded = false;
+        this.canLoadMore = false;
+        this.loadMoreError = false;
+        this.contacts = [];
+        this.onUserSelected = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* EventEmitter */]();
+        // Update block status of a user.
+        this.memberInfoObserver = eventsProvider.on(__WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */].MEMBER_INFO_CHANGED_EVENT, function (data) {
+            if (data.userBlocked || data.userUnblocked) {
+                var user = _this.contacts.find(function (user) { return user.id == data.userId; });
+                if (user) {
+                    user.isblocked = data.userBlocked;
+                }
+            }
+            else if (data.contactRemoved) {
+                var index = _this.contacts.findIndex(function (contact) { return contact.id == data.userId; });
+                if (index >= 0) {
+                    _this.contacts.splice(index, 1);
+                }
+            }
+            else if (data.contactRequestConfirmed) {
+                _this.refreshData();
+            }
+        }, sitesProvider.getCurrentSiteId());
+    }
+    /**
+     * Component loaded.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        this.fetchData().then(function () {
+            if (_this.contacts.length) {
+                _this.selectUser(_this.contacts[0].id, true);
+            }
+        }).finally(function () {
+            _this.loaded = true;
+        });
+        // Workaround for infinite scrolling.
+        this.content.resize();
+    };
+    /**
+     * Fetch contacts.
+     *
+     * @param {boolean} [refresh=false] True if we are refreshing contacts, false if we are loading more.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.fetchData = function (refresh) {
+        var _this = this;
+        if (refresh === void 0) { refresh = false; }
+        this.loadMoreError = false;
+        var limitFrom = refresh ? 0 : this.contacts.length;
+        var promise;
+        if (limitFrom === 0) {
+            // Always try to get latest data from server.
+            promise = this.messagesProvider.invalidateUserContacts().catch(function () {
+                // Shouldn't happen.
+            });
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        return promise.then(function () {
+            return _this.messagesProvider.getUserContacts(limitFrom);
+        }).then(function (result) {
+            _this.contacts = refresh ? result.contacts : _this.contacts.concat(result.contacts);
+            _this.canLoadMore = result.canLoadMore;
+        }).catch(function (error) {
+            _this.loadMoreError = true;
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingcontacts', true);
+        });
+    };
+    /**
+     * Refresh contacts.
+     *
+     * @param {any} [refresher] Refresher.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.refreshData = function (refresher) {
+        // No need to invalidate contacts, we always try to get the latest.
+        return this.fetchData(true).finally(function () {
+            refresher && refresher.complete();
+        });
+    };
+    /**
+     * Load more contacts.
+     *
+     * @param {any} [infiniteComplete] Infinite scroll complete function. Only used from core-infinite-loading.
+     * @return {Promise<any>} Resolved when done.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.loadMore = function (infiniteComplete) {
+        return this.fetchData().finally(function () {
+            infiniteComplete && infiniteComplete();
+        });
+    };
+    /**
+     * Notify that a contact has been selected.
+     *
+     * @param {number} userId User id.
+     * @param {boolean} [onInit=false] Whether the contact is selected on initial load.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.selectUser = function (userId, onInit) {
+        if (onInit === void 0) { onInit = false; }
+        this.selectedUserId = userId;
+        this.onUserSelected.emit({ userId: userId, onInit: onInit });
+    };
+    /**
+     * Component destroyed.
+     */
+    AddonMessagesConfirmedContactsComponent.prototype.ngOnDestroy = function () {
+        this.memberInfoObserver && this.memberInfoObserver.off();
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* Output */])(),
+        __metadata("design:type", Object)
+    ], AddonMessagesConfirmedContactsComponent.prototype, "onUserSelected", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */])
+    ], AddonMessagesConfirmedContactsComponent.prototype, "content", void 0);
+    AddonMessagesConfirmedContactsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'addon-messages-confirmed-contacts',
+            templateUrl: 'addon-messages-confirmed-contacts.html',
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_2__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */]])
+    ], AddonMessagesConfirmedContactsComponent);
+    return AddonMessagesConfirmedContactsComponent;
+}());
+
+//# sourceMappingURL=confirmed-contacts.js.map
+
+/***/ }),
+
+/***/ 2106:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonMessagesContactRequestsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__providers_events__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_sites__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_messages__ = __webpack_require__(153);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(4);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+/**
+ * Component that displays the list of contact requests.
+ */
+var AddonMessagesContactRequestsComponent = /** @class */ (function () {
+    function AddonMessagesContactRequestsComponent(domUtils, eventsProvider, sitesProvider, messagesProvider) {
+        var _this = this;
+        this.domUtils = domUtils;
+        this.messagesProvider = messagesProvider;
+        this.onUserSelected = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* EventEmitter */]();
+        this.loaded = false;
+        this.canLoadMore = false;
+        this.loadMoreError = false;
+        this.requests = [];
+        // Hide the "Would like to contact you" message when a contact request is confirmed.
+        this.memberInfoObserver = eventsProvider.on(__WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */].MEMBER_INFO_CHANGED_EVENT, function (data) {
+            if (data.contactRequestConfirmed || data.contactRequestDeclined) {
+                var index = _this.requests.findIndex(function (request) { return request.id == data.userId; });
+                if (index >= 0) {
+                    _this.requests.splice(index, 1);
+                }
+            }
+        }, sitesProvider.getCurrentSiteId());
+    }
+    /**
+     * Component loaded.
+     */
+    AddonMessagesContactRequestsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        this.fetchData().then(function () {
+            if (_this.requests.length) {
+                _this.selectUser(_this.requests[0].id, true);
+            }
+        }).finally(function () {
+            _this.loaded = true;
+        });
+        // Workaround for infinite scrolling.
+        this.content.resize();
+    };
+    /**
+     * Fetch contact requests.
+     *
+     * @param {boolean} [refresh=false] True if we are refreshing contact requests, false if we are loading more.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesContactRequestsComponent.prototype.fetchData = function (refresh) {
+        var _this = this;
+        if (refresh === void 0) { refresh = false; }
+        this.loadMoreError = false;
+        var limitFrom = refresh ? 0 : this.requests.length;
+        var promise;
+        if (limitFrom === 0) {
+            // Always try to get latest data from server.
+            promise = this.messagesProvider.invalidateContactRequestsCache().catch(function () {
+                // Shouldn't happen.
+            });
+        }
+        else {
+            promise = Promise.resolve();
+        }
+        return promise.then(function () {
+            return _this.messagesProvider.getContactRequests(limitFrom);
+        }).then(function (result) {
+            _this.requests = refresh ? result.requests : _this.requests.concat(result.requests);
+            _this.canLoadMore = result.canLoadMore;
+        }).catch(function (error) {
+            _this.loadMoreError = true;
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingcontacts', true);
+        });
+    };
+    /**
+     * Refresh contact requests.
+     *
+     * @param {any} [refresher] Refresher.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesContactRequestsComponent.prototype.refreshData = function (refresher) {
+        // Refresh the number of contacts requests to update badges.
+        this.messagesProvider.refreshContactRequestsCount();
+        // No need to invalidate contact requests, we always try to get the latest.
+        return this.fetchData(true).finally(function () {
+            refresher && refresher.complete();
+        });
+    };
+    /**
+     * Load more contact requests.
+     *
+     * @param {any} [infiniteComplete] Infinite scroll complete function. Only used from core-infinite-loading.
+     * @return {Promise<any>} Resolved when done.
+     */
+    AddonMessagesContactRequestsComponent.prototype.loadMore = function (infiniteComplete) {
+        return this.fetchData().finally(function () {
+            infiniteComplete && infiniteComplete();
+        });
+    };
+    /**
+     * Notify that a contact has been selected.
+     *
+     * @param {number} userId User id.
+     * @param {boolean} [onInit=false] Whether the contact is selected on initial load.
+     */
+    AddonMessagesContactRequestsComponent.prototype.selectUser = function (userId, onInit) {
+        if (onInit === void 0) { onInit = false; }
+        this.selectedUserId = userId;
+        this.onUserSelected.emit({ userId: userId, onInit: onInit });
+    };
+    /**
+     * Component destroyed.
+     */
+    AddonMessagesContactRequestsComponent.prototype.ngOnDestroy = function () {
+        this.memberInfoObserver && this.memberInfoObserver.off();
+    };
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["O" /* Output */])(),
+        __metadata("design:type", Object)
+    ], AddonMessagesContactRequestsComponent.prototype, "onUserSelected", void 0);
+    __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_9" /* ViewChild */])(__WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */]),
+        __metadata("design:type", __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["f" /* Content */])
+    ], AddonMessagesContactRequestsComponent.prototype, "content", void 0);
+    AddonMessagesContactRequestsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'addon-messages-contact-requests',
+            templateUrl: 'addon-messages-contact-requests.html',
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_2__providers_events__["a" /* CoreEventsProvider */], __WEBPACK_IMPORTED_MODULE_3__providers_sites__["a" /* CoreSitesProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */]])
+    ], AddonMessagesContactRequestsComponent);
+    return AddonMessagesContactRequestsComponent;
+}());
+
+//# sourceMappingURL=contact-requests.js.map
+
+/***/ }),
+
+/***/ 2107:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AddonMessagesContactsComponent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_ionic_angular__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__providers_sites__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__providers_messages__ = __webpack_require__(153);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__providers_app__ = __webpack_require__(9);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__providers_events__ = __webpack_require__(11);
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+/**
+ * Component that displays the list of contacts.
+ */
+var AddonMessagesContactsComponent = /** @class */ (function () {
+    function AddonMessagesContactsComponent(sitesProvider, translate, appProvider, messagesProvider, domUtils, navParams, eventsProvider) {
+        var _this = this;
+        this.appProvider = appProvider;
+        this.messagesProvider = messagesProvider;
+        this.domUtils = domUtils;
+        this.eventsProvider = eventsProvider;
+        this.noSearchTypes = ['online', 'offline', 'blocked', 'strangers'];
+        this.loaded = false;
+        this.contactTypes = this.noSearchTypes;
+        this.searchType = 'search';
+        this.loadingMessage = '';
+        this.hasContacts = false;
+        this.contacts = {
+            search: []
+        };
+        this.searchString = '';
+        this.currentUserId = sitesProvider.getCurrentSiteUserId();
+        this.siteId = sitesProvider.getCurrentSiteId();
+        this.searchingMessages = translate.instant('core.searching');
+        this.loadingMessages = translate.instant('core.loading');
+        this.loadingMessage = this.loadingMessages;
+        this.discussionUserId = navParams.get('discussionUserId') || false;
+        // Refresh the list when a contact request is confirmed.
+        this.memberInfoObserver = eventsProvider.on(__WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */].MEMBER_INFO_CHANGED_EVENT, function (data) {
+            if (data.contactRequestConfirmed) {
+                _this.refreshData();
+            }
+        }, sitesProvider.getCurrentSiteId());
+    }
+    /**
+     * Component loaded.
+     */
+    AddonMessagesContactsComponent.prototype.ngOnInit = function () {
+        var _this = this;
+        if (this.discussionUserId) {
+            // There is a discussion to load, open the discussion in a new state.
+            this.gotoDiscussion(this.discussionUserId);
+        }
+        this.fetchData().then(function () {
+            if (!_this.discussionUserId && _this.hasContacts) {
+                var contact = void 0;
+                for (var x in _this.contacts) {
+                    if (_this.contacts[x].length > 0) {
+                        contact = _this.contacts[x][0];
+                        break;
+                    }
+                }
+                if (contact) {
+                    // Take first and load it.
+                    _this.gotoDiscussion(contact.id, true);
+                }
+            }
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Refresh the data.
+     *
+     * @param {any} [refresher] Refresher.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesContactsComponent.prototype.refreshData = function (refresher) {
+        var _this = this;
+        var promise;
+        if (this.searchString) {
+            // User has searched, update the search.
+            promise = this.performSearch(this.searchString);
+        }
+        else {
+            // Update contacts.
+            promise = this.messagesProvider.invalidateAllContactsCache(this.currentUserId).then(function () {
+                return _this.fetchData();
+            });
+        }
+        return promise.finally(function () {
+            refresher.complete();
+        });
+    };
+    /**
+     * Fetch contacts.
+     *
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonMessagesContactsComponent.prototype.fetchData = function () {
+        var _this = this;
+        this.loadingMessage = this.loadingMessages;
+        return this.messagesProvider.getAllContacts().then(function (contacts) {
+            for (var x in contacts) {
+                if (contacts[x].length > 0) {
+                    _this.contacts[x] = _this.sortUsers(contacts[x]);
+                }
+                else {
+                    _this.contacts[x] = [];
+                }
+            }
+            _this.clearSearch();
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingcontacts', true);
+        });
+    };
+    /**
+     * Sort user list by fullname
+     * @param  {any[]} list List to sort.
+     * @return {any[]}      Sorted list.
+     */
+    AddonMessagesContactsComponent.prototype.sortUsers = function (list) {
+        return list.sort(function (a, b) {
+            var compareA = a.fullname.toLowerCase(), compareB = b.fullname.toLowerCase();
+            return compareA.localeCompare(compareB);
+        });
+    };
+    /**
+     * Clear search and show all contacts again.
+     */
+    AddonMessagesContactsComponent.prototype.clearSearch = function () {
+        this.searchString = ''; // Reset searched string.
+        this.contactTypes = this.noSearchTypes;
+        this.hasContacts = false;
+        for (var x in this.contacts) {
+            if (this.contacts[x].length > 0) {
+                this.hasContacts = true;
+                return;
+            }
+        }
+    };
+    /**
+     * Search users from the UI.
+     *
+     * @param  {string}       query Text to search for.
+     * @return {Promise<any>}       Resolved when done.
+     */
+    AddonMessagesContactsComponent.prototype.search = function (query) {
+        var _this = this;
+        this.appProvider.closeKeyboard();
+        this.loaded = false;
+        this.loadingMessage = this.searchingMessages;
+        return this.performSearch(query).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Perform the search of users.
+     *
+     * @param  {string}       query Text to search for.
+     * @return {Promise<any>}       Resolved when done.
+     */
+    AddonMessagesContactsComponent.prototype.performSearch = function (query) {
+        var _this = this;
+        return this.messagesProvider.searchContacts(query).then(function (result) {
+            _this.hasContacts = result.length > 0;
+            _this.searchString = query;
+            _this.contactTypes = ['search'];
+            _this.contacts['search'] = _this.sortUsers(result);
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'addon.messages.errorwhileretrievingcontacts', true);
+        });
+    };
+    /**
+     * Navigate to a particular discussion.
+     *
+     * @param {number} discussionUserId Discussion Id to load.
+     * @param {boolean} [onlyWithSplitView=false]  Only go to Discussion if split view is on.
+     */
+    AddonMessagesContactsComponent.prototype.gotoDiscussion = function (discussionUserId, onlyWithSplitView) {
+        if (onlyWithSplitView === void 0) { onlyWithSplitView = false; }
+        this.discussionUserId = discussionUserId;
+        var params = {
+            discussion: discussionUserId,
+            onlyWithSplitView: onlyWithSplitView
+        };
+        this.eventsProvider.trigger(__WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */].SPLIT_VIEW_LOAD_EVENT, params, this.siteId);
+    };
+    /**
+     * Component destroyed.
+     */
+    AddonMessagesContactsComponent.prototype.ngOnDestroy = function () {
+        this.memberInfoObserver && this.memberInfoObserver.off();
+    };
+    AddonMessagesContactsComponent = __decorate([
+        Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["m" /* Component */])({
+            selector: 'addon-messages-contacts',
+            templateUrl: 'addon-messages-contacts.html',
+        }),
+        __metadata("design:paramtypes", [__WEBPACK_IMPORTED_MODULE_3__providers_sites__["a" /* CoreSitesProvider */], __WEBPACK_IMPORTED_MODULE_2__ngx_translate_core__["c" /* TranslateService */], __WEBPACK_IMPORTED_MODULE_6__providers_app__["a" /* CoreAppProvider */],
+            __WEBPACK_IMPORTED_MODULE_4__providers_messages__["a" /* AddonMessagesProvider */], __WEBPACK_IMPORTED_MODULE_5__providers_utils_dom__["a" /* CoreDomUtilsProvider */], __WEBPACK_IMPORTED_MODULE_1_ionic_angular__["t" /* NavParams */],
+            __WEBPACK_IMPORTED_MODULE_7__providers_events__["a" /* CoreEventsProvider */]])
+    ], AddonMessagesContactsComponent);
+    return AddonMessagesContactsComponent;
+}());
+
+//# sourceMappingURL=contacts.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=3.js.map

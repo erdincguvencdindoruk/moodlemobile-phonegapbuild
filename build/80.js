@@ -1,1 +1,911 @@
-webpackJsonp([80],{2091:function(n,i,t){"use strict";function e(n){return o._42(0,[(n()(),o._16(0,0,null,null,13,"ion-item",[["class","item-title item item-block"],["text-wrap",""]],null,null,null,V.b,V.a)),o._15(1,1097728,null,3,K.a,[W.a,A.a,o.p,o.K,[2,N.a]],null,null),o._37(335544320,2,{contentLabel:0}),o._37(603979776,3,{_buttons:1}),o._37(603979776,4,{_icons:1}),o._15(5,16384,null,0,B.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(7,0,null,3,5,"ion-input",[["name","title"],["type","text"]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],null,null,R.b,R.a)),o._15(8,671744,null,0,d.f,[[3,d.b],[8,null],[8,null],[8,null]],{name:[0,"name"]},null),o._35(2048,null,d.m,null,[d.f]),o._15(10,16384,null,0,d.n,[d.m],null,null),o._15(11,5423104,null,0,H.a,[A.a,j.a,W.a,$.a,o.p,o.K,[2,G.a],[2,K.a],[2,d.m],J.a],{type:[0,"type"],placeholder:[1,"placeholder"]},null),o._32(131072,q.a,[z.a,o.i]),(n()(),o._40(-1,2,["\n            "]))],function(n,i){n(i,8,0,"title");n(i,11,0,"text",o._41(i,11,1,o._29(i,12).transform("addon.mod_wiki.newpagetitle")))},function(n,i){n(i,7,0,o._29(i,10).ngClassUntouched,o._29(i,10).ngClassTouched,o._29(i,10).ngClassPristine,o._29(i,10).ngClassDirty,o._29(i,10).ngClassValid,o._29(i,10).ngClassInvalid,o._29(i,10).ngClassPending)})}function l(n){return o._42(0,[(n()(),o._16(0,0,null,null,11,"ion-item",[["class","addon-mod_wiki-wrongversionlock item item-block"],["text-center",""]],null,null,null,V.b,V.a)),o._15(1,1097728,null,3,K.a,[W.a,A.a,o.p,o.K,[2,N.a]],null,null),o._37(335544320,8,{contentLabel:0}),o._37(603979776,9,{_buttons:1}),o._37(603979776,10,{_icons:1}),o._15(5,16384,null,0,B.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(7,0,null,2,3,"ion-badge",[["color","danger"],["padding",""]],null,null,null,null,null)),o._15(8,16384,null,0,Q.a,[A.a,o.p,o.K],{color:[0,"color"]},null),(n()(),o._40(9,null,["",""])),o._32(131072,q.a,[z.a,o.i]),(n()(),o._40(-1,2,["\n            "]))],function(n,i){n(i,8,0,"danger")},function(n,i){n(i,9,0,o._41(i,9,0,o._29(i,10).transform("addon.mod_wiki.wrongversionlock")))})}function a(n){return o._42(0,[(n()(),o._16(0,0,null,null,23,"ion-header",[],null,null,null,null,null)),o._15(1,16384,null,0,X.a,[A.a,o.p,o.K,[2,Y.a]],null,null),(n()(),o._40(-1,null,["\n    "])),(n()(),o._16(3,0,null,null,19,"ion-navbar",[["class","toolbar"],["core-back-button",""]],[[8,"hidden",0],[2,"statusbar-padding",null]],null,null,Z.b,Z.a)),o._15(4,49152,null,0,nn.a,[$.a,[2,Y.a],[2,tn.a],A.a,o.p,o.K],null,null),o._15(5,212992,null,0,en.a,[nn.a,j.a,z.a,c.a],null,null),(n()(),o._40(-1,3,["\n        "])),(n()(),o._16(7,0,null,3,3,"ion-title",[],null,null,null,ln.b,ln.a)),o._15(8,49152,null,0,an.a,[A.a,o.p,o.K,[2,on.a],[2,nn.a]],null,null),(n()(),o._16(9,0,null,0,1,"core-format-text",[],null,null,null,null,null)),o._15(10,540672,null,0,un.a,[o.p,g.a,_.a,p.a,z.a,j.a,rn.a,sn.a,dn.a,cn.a,gn.a,hn.a,[2,tn.a],[2,G.a],[2,_n.a],pn.a,c.a],{text:[0,"text"]},null),(n()(),o._40(-1,3,["\n\n        "])),(n()(),o._16(12,0,null,2,9,"ion-buttons",[["end",""]],null,null,null,null,null)),o._15(13,16384,null,1,fn.a,[A.a,o.p,o.K,[2,on.a],[2,nn.a]],null,null),o._37(603979776,1,{_buttons:1}),(n()(),o._40(-1,null,["\n            "])),(n()(),o._16(16,0,null,null,4,"button",[["clear",""],["ion-button",""]],[[1,"aria-label",0]],[[null,"click"]],function(n,i,t){var e=!0;if("click"===i){e=!1!==n.component.save()&&e}return e},In.b,In.a)),o._15(17,1097728,[[1,4]],0,kn.a,[[8,""],A.a,o.p,o.K],{clear:[0,"clear"]},null),o._32(131072,q.a,[z.a,o.i]),(n()(),o._40(19,0,["\n                ","\n            "])),o._32(131072,q.a,[z.a,o.i]),(n()(),o._40(-1,null,["\n        "])),(n()(),o._40(-1,3,["\n    "])),(n()(),o._40(-1,null,["\n"])),(n()(),o._40(-1,null,["\n"])),(n()(),o._16(25,0,null,null,31,"ion-content",[],[[2,"statusbar-padding",null],[2,"has-refresher",null]],null,null,wn.b,wn.a)),o._15(26,4374528,null,0,G.a,[A.a,j.a,J.a,o.p,o.K,$.a,mn.a,o.D,[2,Y.a],[2,tn.a]],null,null),(n()(),o._40(-1,1,["\n    "])),(n()(),o._16(28,0,null,1,27,"core-loading",[],null,null,null,vn.b,vn.a)),o._15(29,638976,null,0,bn.a,[z.a,o.p,c.a,rn.a],{hideUntil:[0,"hideUntil"]},null),(n()(),o._40(-1,0,["\n        "])),(n()(),o._16(31,0,null,0,23,"form",[["ion-list",""],["novalidate",""]],[[2,"ng-untouched",null],[2,"ng-touched",null],[2,"ng-pristine",null],[2,"ng-dirty",null],[2,"ng-valid",null],[2,"ng-invalid",null],[2,"ng-pending",null]],[[null,"submit"],[null,"reset"]],function(n,i,t){var e=!0;if("submit"===i){e=!1!==o._29(n,33).onSubmit(t)&&e}if("reset"===i){e=!1!==o._29(n,33).onReset()&&e}return e},null,null)),o._15(32,16384,null,0,d.w,[],null,null),o._15(33,540672,null,0,d.h,[[8,null],[8,null]],{form:[0,"form"]},null),o._35(2048,null,d.b,null,[d.h]),o._15(35,16384,null,0,d.o,[d.b],null,null),(n()(),o._40(-1,null,["\n            "])),(n()(),o._11(16777216,null,null,1,null,e)),o._15(38,16384,null,0,Pn.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(n()(),o._40(-1,null,["\n\n            "])),(n()(),o._16(40,0,null,null,10,"ion-item",[["class","item item-block"]],null,null,null,V.b,V.a)),o._15(41,1097728,null,3,K.a,[W.a,A.a,o.p,o.K,[2,N.a]],null,null),o._37(335544320,5,{contentLabel:0}),o._37(603979776,6,{_buttons:1}),o._37(603979776,7,{_icons:1}),o._15(45,16384,null,0,B.a,[],null,null),(n()(),o._40(-1,2,["\n                "])),(n()(),o._16(47,0,null,3,2,"core-rich-text-editor",[["item-content",""],["name","wiki_page_content"]],null,null,null,yn.b,yn.a)),o._15(48,1228800,null,0,Cn.a,[_.a,sn.a,g.a,cn.a,[2,G.a],o.p,c.a,rn.a,j.a],{placeholder:[0,"placeholder"],control:[1,"control"],name:[2,"name"],component:[3,"component"],componentId:[4,"componentId"]},null),o._32(131072,q.a,[z.a,o.i]),(n()(),o._40(-1,2,["\n            "])),(n()(),o._40(-1,null,["\n\n            "])),(n()(),o._11(16777216,null,null,1,null,l)),o._15(53,16384,null,0,Pn.k,[o.W,o.T],{ngIf:[0,"ngIf"]},null),(n()(),o._40(-1,null,["\n        "])),(n()(),o._40(-1,0,["\n    "])),(n()(),o._40(-1,1,["\n"])),(n()(),o._40(-1,null,["\n"]))],function(n,i){var t=i.component;n(i,5,0);n(i,10,0,t.title);n(i,17,0,"");n(i,29,0,t.loaded);n(i,33,0,t.pageForm);n(i,38,0,t.canEditTitle);n(i,48,0,o._41(i,48,0,o._29(i,49).transform("core.content")),t.contentControl,"wiki_page_content",t.component,t.componentId);n(i,53,0,t.wrongVersionLock)},function(n,i){n(i,3,0,o._29(i,4)._hidden,o._29(i,4)._sbPadding);n(i,16,0,o._41(i,16,0,o._29(i,18).transform("core.save")));n(i,19,0,o._41(i,19,0,o._29(i,20).transform("core.save")));n(i,25,0,o._29(i,26).statusbarPadding,o._29(i,26)._hasRefresher);n(i,31,0,o._29(i,35).ngClassUntouched,o._29(i,35).ngClassTouched,o._29(i,35).ngClassPristine,o._29(i,35).ngClassDirty,o._29(i,35).ngClassValid,o._29(i,35).ngClassInvalid,o._29(i,35).ngClassPending)})}Object.defineProperty(i,"__esModule",{value:!0});var o=t(1),u=(t(0),t(7),t(4)),r=t(30),s=t(32),d=t(23),c=t(12),g=t(2),h=t(76),_=t(5),p=t(11),f=t(15),I=t(37),k=t(230),w=t(286),m=t(287),v=function(){function n(n,i,t,e,l,a,o,u,r,s,d,c,g,h){this.navCtrl=t,this.sitesProvider=e,this.syncProvider=l,this.domUtils=a,this.translate=o,this.courseProvider=u,this.eventsProvider=r,this.wikiProvider=s,this.wikiOffline=d,this.wikiSync=c,this.textUtils=g,this.courseHelper=h,this.component=k.a.COMPONENT,this.forceLeave=!1,this.isDestroyed=!1,this.module=n.get("module")||{},this.courseId=n.get("courseId"),this.subwikiId=n.get("subwikiId"),this.wikiId=n.get("wikiId"),this.pageId=n.get("pageId"),this.section=n.get("section"),this.groupId=n.get("groupId"),this.userId=n.get("userId");var _=n.get("pageTitle");_=_?_.replace(/\+/g," "):"",this.initialSubwikiId=this.subwikiId,this.componentId=this.module.id,this.canEditTitle=!_,this.title=_?this.translate.instant("addon.mod_wiki.editingpage",{$a:_}):this.translate.instant("addon.mod_wiki.newpagehdr"),this.blockId=this.wikiSync.getSubwikiBlockId(this.subwikiId,this.wikiId,this.userId,this.groupId),this.contentControl=i.control(""),this.pageForm=i.group({title:_}),this.pageForm.addControl("text",this.contentControl),this.syncProvider.blockOperation(this.component,this.blockId)}return n.prototype.ngOnInit=function(){var n=this;this.fetchWikiPageData().then(function(i){if(i&&n.blockId&&!n.isDestroyed){var t=n.wikiSync.getSubwikiBlockId(n.subwikiId,n.wikiId,n.userId,n.groupId);t!=n.blockId&&(n.syncProvider.unblockOperation(n.component,n.blockId),n.blockId=t,n.syncProvider.blockOperation(n.component,n.blockId))}}).finally(function(){n.loaded=!0})},n.prototype.fetchWikiPageData=function(){var n,i=this,t=!1;if(this.pageId)this.canEditTitle=!1,this.editing=!0,this.editOffline=!1,n=this.wikiProvider.getPageContents(this.pageId).then(function(n){return i.pageForm.controls.title.setValue(n.title),i.wikiId=n.wikiid,i.subwikiId=n.subwikiid,i.title=i.translate.instant("addon.mod_wiki.editingpage",{$a:n.title}),i.groupId=n.groupid,i.userId=n.userid,t=n.caneditpage,i.wikiSync.waitForSync(i.blockId)}).then(function(){return i.wikiProvider.getSubwikiFiles(i.wikiId,i.groupId,i.userId)}).then(function(n){return i.subwikiFiles=n,i.wikiProvider.getPageForEditing(i.pageId,i.section)}).then(function(n){var e=i.textUtils.replacePluginfileUrls(n.content,i.subwikiFiles);i.contentControl.setValue(e),i.originalContent=e,i.version=n.version,t&&(i.renewLockInterval=setInterval(function(){i.renewLock()},k.a.RENEW_LOCK_TIME))});else{var e=this.pageForm.controls.title.value;n=this.wikiSync.waitForSync(this.blockId),e?n=n.then(function(n){if(n){var t=n.created.find(function(n){return n.title==e});if(t&&t.pageId>0)return i.pageId=t.pageId,i.fetchWikiPageData()}return i.wikiOffline.getNewPage(e,i.subwikiId,i.wikiId,i.userId,i.groupId)}).then(function(n){i.contentControl.setValue(n.cachedcontent),i.originalContent=n.cachedcontent,i.editOffline=!0}).catch(function(){i.editOffline=!1}):this.editOffline=!1,n.then(function(){i.editing=!1,t=!!i.blockId})}return n.then(function(){return!0}).catch(function(n){return i.domUtils.showErrorModalDefault(n,"Error getting wiki data."),i.forceLeavePage(),!1}).finally(function(){t||(i.domUtils.showAlert(i.translate.instant("core.notice"),i.translate.instant("addon.mod_wiki.cannoteditpage")),i.forceLeavePage())})},n.prototype.forceLeavePage=function(){this.forceLeave=!0,this.navCtrl.pop()},n.prototype.goToNewOfflinePage=function(n){this.courseId&&(this.module.id||this.wikiId)?this.editOffline&&!this.previousViewPageIsDifferentOffline(n)||(this.pageParamsToLoad={module:this.module,courseId:this.courseId,pageId:null,pageTitle:n,wikiId:this.wikiId,subwikiId:this.subwikiId,userId:this.userId,groupId:this.groupId}):this.domUtils.showAlert(this.translate.instant("core.success"),this.translate.instant("core.datastoredoffline")),this.forceLeavePage()},n.prototype.gotoPage=function(n){var i=this;return this.retrieveModuleInfo(this.wikiId).then(function(){var t=!1;i.initialSubwikiId&&(!i.editing&&i.editOffline&&i.previousViewPageIsDifferentOffline(n)?t=!0:!i.editOffline&&i.previousViewIsDifferentPageOnline()&&(t=!0)),t&&(i.pageParamsToLoad={module:i.module,courseId:i.courseId,pageId:i.pageId,pageTitle:n,wikiId:i.wikiId,subwikiId:i.subwikiId,userId:i.userId,groupId:i.groupId}),i.forceLeavePage()}).catch(function(){i.forceLeavePage()})},n.prototype.hasDataChanged=function(){var n=this.pageForm.value;return!(this.originalContent==n.text||!this.editing&&!n.text&&!n.title)},n.prototype.ionViewCanLeave=function(){return!!this.forceLeave||(!this.hasDataChanged()||this.domUtils.showConfirm(this.translate.instant("core.confirmcanceledit")))},n.prototype.ionViewDidLeave=function(){this.pageParamsToLoad&&this.navCtrl.push("AddonModWikiIndexPage",this.pageParamsToLoad)},n.prototype.previousViewIsDifferentPageOnline=function(){var n=this.navCtrl.getPrevious();return!this.editing||"AddonModWikiIndexPage"!=n.component.name||n.data.module.id!=this.module.id||n.data.pageId!=this.pageId},n.prototype.previousViewPageIsDifferentOffline=function(n){var i=this.navCtrl.getPrevious();if("AddonModWikiIndexPage"!=i.component.name||i.data.module.id!=this.module.id||i.data.wikiId!=this.wikiId||i.data.pageTitle!=n)return!0;var t=parseInt(i.data.subwikiId,10)||0;if(t>0&&this.subwikiId>0)return t!=this.subwikiId;var e=parseInt(i.data.userId,10)||0,l=parseInt(i.data.groupId,10)||0;return this.userId!=e||this.groupId!=l},n.prototype.save=function(){var n,i=this,t=this.pageForm.value,e=t.title,l=this.domUtils.showModalLoading("core.sending",!0),a=t.text;if(a=this.textUtils.restorePluginfileUrls(a,this.subwikiFiles),a=this.textUtils.formatHtmlLines(a),this.editing)n=this.wikiProvider.editPage(this.pageId,a,this.section).then(function(){return i.wikiProvider.invalidatePage(i.pageId).then(function(){return i.gotoPage(e)})});else{if(!e)return this.domUtils.showAlert(this.translate.instant("core.notice"),this.translate.instant("addon.mod_wiki.titleshouldnotbeempty")),void l.dismiss();n=(n=this.editOffline?Promise.resolve():this.wikiOffline.getNewPage(e,this.subwikiId,this.wikiId,this.userId,this.groupId).then(function(){return Promise.reject(i.translate.instant("addon.mod_wiki.pageexists"))},function(){})).then(function(){var n=i.wikiId||i.module&&i.module.instance;return i.wikiProvider.newPage(e,a,i.subwikiId,n,i.userId,i.groupId).then(function(t){if(t>0)return i.pageId=t,i.wikiProvider.getPageContents(i.pageId).then(function(t){var l=[];return n=parseInt(t.wikiid,10),i.subwikiId||l.push(i.wikiProvider.invalidateSubwikis(n)),i.subwikiId=parseInt(t.subwikiid,10),i.userId=parseInt(t.userid,10),i.groupId=parseInt(t.groupid,10),l.push(i.wikiProvider.invalidateSubwikiPages(n)),Promise.all(l).then(function(){return i.gotoPage(e)})}).finally(function(){i.eventsProvider.trigger(k.a.PAGE_CREATED_EVENT,{pageId:i.pageId,subwikiId:i.subwikiId,pageTitle:e},i.sitesProvider.getCurrentSiteId())});i.goToNewOfflinePage(e)})})}return n.catch(function(n){i.domUtils.showErrorModalDefault(n,"Error saving wiki data.")}).finally(function(){l.dismiss()})},n.prototype.renewLock=function(){var n=this;this.wikiProvider.getPageForEditing(this.pageId,this.section,!0).then(function(i){i.version&&n.version!=i.version&&(n.wrongVersionLock=!0)})},n.prototype.retrieveModuleInfo=function(n){var i=this;if(this.module.id&&this.courseId)return Promise.resolve();return(this.module.id?Promise.resolve(this.module):this.courseProvider.getModuleBasicInfoByInstance(n,"wiki")).then(function(t){if(i.module=t,i.componentId=i.module.id,!i.courseId&&i.module.course)i.courseId=i.module.course;else if(!i.courseId)return i.courseHelper.getModuleCourseIdByInstance(n,"wiki").then(function(n){i.courseId=n})})},n.prototype.ngOnDestroy=function(){this.isDestroyed=!0,clearInterval(this.renewLockInterval),this.blockId&&this.syncProvider.unblockOperation(this.component,this.blockId)},n}(),b=function(){return function(){}}(),P=t(1471),y=t(1472),C=t(1473),O=t(1474),L=t(1475),x=t(1476),T=t(1477),D=t(1478),E=t(1479),U=t(1480),F=t(1481),S=t(1482),M=t(1483),V=t(31),K=t(22),W=t(21),A=t(8),N=t(29),B=t(33),R=t(105),H=t(85),j=t(17),$=t(35),G=t(27),J=t(34),q=t(28),z=t(19),Q=t(143),X=t(365),Y=t(39),Z=t(713),nn=t(209),tn=t(20),en=t(471),ln=t(714),an=t(309),on=t(245),un=t(42),rn=t(3),sn=t(24),dn=t(6),cn=t(18),gn=t(10),hn=t(14),_n=t(26),pn=t(38),fn=t(366),In=t(45),kn=t(43),wn=t(179),mn=t(102),vn=t(51),bn=t(48),Pn=t(9),yn=t(310),Cn=t(247),On=t(72),Ln=o._14({encapsulation:2,styles:[],data:{}}),xn=o._12("page-addon-mod-wiki-edit",v,function(n){return o._42(0,[(n()(),o._16(0,0,null,null,1,"page-addon-mod-wiki-edit",[],null,null,null,a,Ln)),o._15(1,245760,null,0,v,[On.a,d.d,tn.a,g.a,h.a,_.a,z.a,f.a,c.a,k.a,w.a,m.a,p.a,I.a],null,null)],function(n,i){n(i,1,0)},null)},{},{},[]),Tn=t(361),Dn=t(362),En=t(364),Un=t(363),Fn=t(470),Sn=t(712),Mn=t(110),Vn=t(269);t.d(i,"AddonModWikiEditPageModuleNgFactory",function(){return Kn});var Kn=o._13(b,[],function(n){return o._25([o._26(512,o.n,o._6,[[8,[P.a,y.a,C.a,O.a,L.a,x.a,T.a,D.a,E.a,U.a,F.a,S.a,M.a,xn]],[3,o.n],o.B]),o._26(4608,Pn.m,Pn.l,[o.x,[2,Pn.w]]),o._26(4608,d.x,d.x,[]),o._26(4608,d.d,d.d,[]),o._26(4608,Tn.b,Tn.a,[]),o._26(4608,Dn.a,Dn.b,[]),o._26(4608,En.b,En.a,[]),o._26(4608,Un.b,Un.a,[]),o._26(4608,z.a,z.a,[Fn.a,Tn.b,Dn.a,En.b,Un.b,z.b,z.c]),o._26(512,Pn.b,Pn.b,[]),o._26(512,d.v,d.v,[]),o._26(512,d.i,d.i,[]),o._26(512,d.s,d.s,[]),o._26(512,Sn.a,Sn.a,[]),o._26(512,u.a,u.a,[]),o._26(512,s.a,s.a,[]),o._26(512,Mn.a,Mn.a,[]),o._26(512,r.a,r.a,[]),o._26(512,Sn.b,Sn.b,[]),o._26(512,b,b,[]),o._26(256,z.c,void 0,[]),o._26(256,z.b,void 0,[]),o._26(256,Vn.a,v,[])])})}});
+webpackJsonp([80],{
+
+/***/ 2091:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+
+// EXTERNAL MODULE: ./node_modules/@angular/core/esm5/core.js
+var core = __webpack_require__(0);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/index.js + 3 modules
+var ionic_angular = __webpack_require__(6);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/index.js + 1 modules
+var _ngx_translate_core = __webpack_require__(3);
+
+// EXTERNAL MODULE: ./src/components/components.module.ts
+var components_module = __webpack_require__(29);
+
+// EXTERNAL MODULE: ./src/directives/directives.module.ts + 2 modules
+var directives_module = __webpack_require__(31);
+
+// EXTERNAL MODULE: ./node_modules/@angular/forms/esm5/forms.js
+var esm5_forms = __webpack_require__(22);
+
+// EXTERNAL MODULE: ./src/providers/events.ts
+var events = __webpack_require__(11);
+
+// EXTERNAL MODULE: ./src/providers/sites.ts
+var sites = __webpack_require__(1);
+
+// EXTERNAL MODULE: ./src/providers/sync.ts
+var sync = __webpack_require__(75);
+
+// EXTERNAL MODULE: ./src/providers/utils/dom.ts
+var dom = __webpack_require__(4);
+
+// EXTERNAL MODULE: ./src/providers/utils/text.ts
+var utils_text = __webpack_require__(10);
+
+// EXTERNAL MODULE: ./src/core/course/providers/course.ts
+var course = __webpack_require__(14);
+
+// EXTERNAL MODULE: ./src/core/course/providers/helper.ts
+var helper = __webpack_require__(36);
+
+// EXTERNAL MODULE: ./src/addon/mod/wiki/providers/wiki.ts
+var wiki = __webpack_require__(230);
+
+// EXTERNAL MODULE: ./src/addon/mod/wiki/providers/wiki-offline.ts
+var wiki_offline = __webpack_require__(286);
+
+// EXTERNAL MODULE: ./src/addon/mod/wiki/providers/wiki-sync.ts
+var wiki_sync = __webpack_require__(287);
+
+// CONCATENATED MODULE: ./src/addon/mod/wiki/pages/edit/edit.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+var __metadata = (this && this.__metadata) || function (k, v) {
+    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * Page that allows adding or editing a wiki page.
+ */
+var edit_AddonModWikiEditPage = /** @class */ (function () {
+    function AddonModWikiEditPage(navParams, fb, navCtrl, sitesProvider, syncProvider, domUtils, translate, courseProvider, eventsProvider, wikiProvider, wikiOffline, wikiSync, textUtils, courseHelper) {
+        this.navCtrl = navCtrl;
+        this.sitesProvider = sitesProvider;
+        this.syncProvider = syncProvider;
+        this.domUtils = domUtils;
+        this.translate = translate;
+        this.courseProvider = courseProvider;
+        this.eventsProvider = eventsProvider;
+        this.wikiProvider = wikiProvider;
+        this.wikiOffline = wikiOffline;
+        this.wikiSync = wikiSync;
+        this.textUtils = textUtils;
+        this.courseHelper = courseHelper;
+        this.component = wiki["a" /* AddonModWikiProvider */].COMPONENT; // Component to link the files to.
+        this.forceLeave = false; // To allow leaving the page without checking for changes.
+        this.isDestroyed = false; // Whether the page has been destroyed.
+        this.module = navParams.get('module') || {};
+        this.courseId = navParams.get('courseId');
+        this.subwikiId = navParams.get('subwikiId');
+        this.wikiId = navParams.get('wikiId');
+        this.pageId = navParams.get('pageId');
+        this.section = navParams.get('section');
+        this.groupId = navParams.get('groupId');
+        this.userId = navParams.get('userId');
+        var pageTitle = navParams.get('pageTitle');
+        pageTitle = pageTitle ? pageTitle.replace(/\+/g, ' ') : '';
+        this.initialSubwikiId = this.subwikiId;
+        this.componentId = this.module.id;
+        this.canEditTitle = !pageTitle;
+        this.title = pageTitle ? this.translate.instant('addon.mod_wiki.editingpage', { $a: pageTitle }) :
+            this.translate.instant('addon.mod_wiki.newpagehdr');
+        this.blockId = this.wikiSync.getSubwikiBlockId(this.subwikiId, this.wikiId, this.userId, this.groupId);
+        // Create the form group and its controls.
+        this.contentControl = fb.control('');
+        this.pageForm = fb.group({
+            title: pageTitle
+        });
+        this.pageForm.addControl('text', this.contentControl);
+        // Block the wiki so it cannot be synced.
+        this.syncProvider.blockOperation(this.component, this.blockId);
+    }
+    /**
+     * Component being initialized.
+     */
+    AddonModWikiEditPage.prototype.ngOnInit = function () {
+        var _this = this;
+        this.fetchWikiPageData().then(function (success) {
+            if (success && _this.blockId && !_this.isDestroyed) {
+                // Block the subwiki now that we have blockId for sure.
+                var newBlockId = _this.wikiSync.getSubwikiBlockId(_this.subwikiId, _this.wikiId, _this.userId, _this.groupId);
+                if (newBlockId != _this.blockId) {
+                    _this.syncProvider.unblockOperation(_this.component, _this.blockId);
+                    _this.blockId = newBlockId;
+                    _this.syncProvider.blockOperation(_this.component, _this.blockId);
+                }
+            }
+        }).finally(function () {
+            _this.loaded = true;
+        });
+    };
+    /**
+     * Convenience function to get wiki page data.
+     *
+     * @return {Promise<boolean>} Promise resolved with boolean: whether it was successful.
+     */
+    AddonModWikiEditPage.prototype.fetchWikiPageData = function () {
+        var _this = this;
+        var promise, canEdit = false;
+        if (this.pageId) {
+            // Editing a page that already exists.
+            this.canEditTitle = false;
+            this.editing = true;
+            this.editOffline = false; // Cannot edit pages in offline.
+            // Get page contents to obtain title and editing permission
+            promise = this.wikiProvider.getPageContents(this.pageId).then(function (pageContents) {
+                _this.pageForm.controls.title.setValue(pageContents.title); // Set the title in the form group.
+                _this.wikiId = pageContents.wikiid;
+                _this.subwikiId = pageContents.subwikiid;
+                _this.title = _this.translate.instant('addon.mod_wiki.editingpage', { $a: pageContents.title });
+                _this.groupId = pageContents.groupid;
+                _this.userId = pageContents.userid;
+                canEdit = pageContents.caneditpage;
+                // Wait for sync to be over (if any).
+                return _this.wikiSync.waitForSync(_this.blockId);
+            }).then(function () {
+                // Get subwiki files, needed to replace URLs for rich text editor.
+                return _this.wikiProvider.getSubwikiFiles(_this.wikiId, _this.groupId, _this.userId);
+            }).then(function (files) {
+                _this.subwikiFiles = files;
+                // Get editable text of the page/section.
+                return _this.wikiProvider.getPageForEditing(_this.pageId, _this.section);
+            }).then(function (editContents) {
+                // Get the original page contents, treating file URLs if needed.
+                var content = _this.textUtils.replacePluginfileUrls(editContents.content, _this.subwikiFiles);
+                _this.contentControl.setValue(content);
+                _this.originalContent = content;
+                _this.version = editContents.version;
+                if (canEdit) {
+                    // Renew the lock every certain time.
+                    _this.renewLockInterval = setInterval(function () {
+                        _this.renewLock();
+                    }, wiki["a" /* AddonModWikiProvider */].RENEW_LOCK_TIME);
+                }
+            });
+        }
+        else {
+            var pageTitle_1 = this.pageForm.controls.title.value;
+            // New page. Wait for sync to be over (if any).
+            promise = this.wikiSync.waitForSync(this.blockId);
+            if (pageTitle_1) {
+                // Title is set, it could be editing an offline page or creating a new page using an edit link.
+                promise = promise.then(function (result) {
+                    // First of all, verify if this page was created in the current sync.
+                    if (result) {
+                        var page = result.created.find(function (page) {
+                            return page.title == pageTitle_1;
+                        });
+                        if (page && page.pageId > 0) {
+                            // Page was created, now it exists in the site.
+                            _this.pageId = page.pageId;
+                            return _this.fetchWikiPageData();
+                        }
+                    }
+                    // Check if there's already some offline data for this page.
+                    return _this.wikiOffline.getNewPage(pageTitle_1, _this.subwikiId, _this.wikiId, _this.userId, _this.groupId);
+                }).then(function (page) {
+                    // Load offline content.
+                    _this.contentControl.setValue(page.cachedcontent);
+                    _this.originalContent = page.cachedcontent;
+                    _this.editOffline = true;
+                }).catch(function () {
+                    // No offline data found.
+                    _this.editOffline = false;
+                });
+            }
+            else {
+                this.editOffline = false;
+            }
+            promise.then(function () {
+                _this.editing = false;
+                canEdit = !!_this.blockId; // If no blockId, the user cannot edit the page.
+            });
+        }
+        return promise.then(function () {
+            return true;
+        }).catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error getting wiki data.');
+            // Go back.
+            _this.forceLeavePage();
+            return false;
+        }).finally(function () {
+            if (!canEdit) {
+                // Cannot edit, show alert and go back.
+                _this.domUtils.showAlert(_this.translate.instant('core.notice'), _this.translate.instant('addon.mod_wiki.cannoteditpage'));
+                _this.forceLeavePage();
+            }
+        });
+    };
+    /**
+     * Force leaving the page, without checking for changes.
+     */
+    AddonModWikiEditPage.prototype.forceLeavePage = function () {
+        this.forceLeave = true;
+        this.navCtrl.pop();
+    };
+    /**
+     * Navigate to a new offline page.
+     *
+     * @param {string} title Page title.
+     */
+    AddonModWikiEditPage.prototype.goToNewOfflinePage = function (title) {
+        if (this.courseId && (this.module.id || this.wikiId)) {
+            // We have enough data to navigate to the page.
+            if (!this.editOffline || this.previousViewPageIsDifferentOffline(title)) {
+                this.pageParamsToLoad = {
+                    module: this.module,
+                    courseId: this.courseId,
+                    pageId: null,
+                    pageTitle: title,
+                    wikiId: this.wikiId,
+                    subwikiId: this.subwikiId,
+                    userId: this.userId,
+                    groupId: this.groupId
+                };
+            }
+        }
+        else {
+            this.domUtils.showAlert(this.translate.instant('core.success'), this.translate.instant('core.datastoredoffline'));
+        }
+        this.forceLeavePage();
+    };
+    /**
+     * Check if we need to navigate to a new state.
+     *
+     * @param {string} title Page title.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModWikiEditPage.prototype.gotoPage = function (title) {
+        var _this = this;
+        return this.retrieveModuleInfo(this.wikiId).then(function () {
+            var openPage = false;
+            // Not the firstpage.
+            if (_this.initialSubwikiId) {
+                if (!_this.editing && _this.editOffline && _this.previousViewPageIsDifferentOffline(title)) {
+                    // The user submitted an offline page that isn't loaded in the back view, open it.
+                    openPage = true;
+                }
+                else if (!_this.editOffline && _this.previousViewIsDifferentPageOnline()) {
+                    // The user submitted an offline page that isn't loaded in the back view, open it.
+                    openPage = true;
+                }
+            }
+            if (openPage) {
+                // Setting that will do the app navigate to the page.
+                _this.pageParamsToLoad = {
+                    module: _this.module,
+                    courseId: _this.courseId,
+                    pageId: _this.pageId,
+                    pageTitle: title,
+                    wikiId: _this.wikiId,
+                    subwikiId: _this.subwikiId,
+                    userId: _this.userId,
+                    groupId: _this.groupId
+                };
+            }
+            _this.forceLeavePage();
+        }).catch(function () {
+            // Go back if it fails.
+            _this.forceLeavePage();
+        });
+    };
+    /**
+     * Check if data has changed.
+     *
+     * @return {boolean} Whether data has changed.
+     */
+    AddonModWikiEditPage.prototype.hasDataChanged = function () {
+        var values = this.pageForm.value;
+        return !(this.originalContent == values.text || (!this.editing && !values.text && !values.title));
+    };
+    /**
+     * Check if we can leave the page or not.
+     *
+     * @return {boolean|Promise<void>} Resolved if we can leave it, rejected if not.
+     */
+    AddonModWikiEditPage.prototype.ionViewCanLeave = function () {
+        if (this.forceLeave) {
+            return true;
+        }
+        // Check if data has changed.
+        if (this.hasDataChanged()) {
+            return this.domUtils.showConfirm(this.translate.instant('core.confirmcanceledit'));
+        }
+        return true;
+    };
+    /**
+     * View left.
+     */
+    AddonModWikiEditPage.prototype.ionViewDidLeave = function () {
+        if (this.pageParamsToLoad) {
+            // Go to the page we've just created/edited.
+            this.navCtrl.push('AddonModWikiIndexPage', this.pageParamsToLoad);
+        }
+    };
+    /**
+     * In case we are NOT editing an offline page, check if the page loaded in previous view is different than this view.
+     *
+     * @return {boolean} Whether previous view wiki page is different than current page.
+     */
+    AddonModWikiEditPage.prototype.previousViewIsDifferentPageOnline = function () {
+        // We cannot precisely detect when the state is the same but this is close to it.
+        var previousView = this.navCtrl.getPrevious();
+        return !this.editing || previousView.component.name != 'AddonModWikiIndexPage' ||
+            previousView.data.module.id != this.module.id || previousView.data.pageId != this.pageId;
+    };
+    /**
+     * In case we're editing an offline page, check if the page loaded in previous view is different than this view.
+     *
+     * @param {string} title The current page title.
+     * @return {boolean} Whether previous view wiki page is different than current page.
+     */
+    AddonModWikiEditPage.prototype.previousViewPageIsDifferentOffline = function (title) {
+        // We cannot precisely detect when the state is the same but this is close to it.
+        var previousView = this.navCtrl.getPrevious();
+        if (previousView.component.name != 'AddonModWikiIndexPage' || previousView.data.module.id != this.module.id ||
+            previousView.data.wikiId != this.wikiId || previousView.data.pageTitle != title) {
+            return true;
+        }
+        // Check subwiki using subwiki or user and group.
+        var previousSubwikiId = parseInt(previousView.data.subwikiId, 10) || 0;
+        if (previousSubwikiId > 0 && this.subwikiId > 0) {
+            return previousSubwikiId != this.subwikiId;
+        }
+        var previousUserId = parseInt(previousView.data.userId, 10) || 0, previousGroupId = parseInt(previousView.data.groupId, 10) || 0;
+        return this.userId != previousUserId || this.groupId != previousGroupId;
+    };
+    /**
+     * Save the data.
+     */
+    AddonModWikiEditPage.prototype.save = function () {
+        var _this = this;
+        var values = this.pageForm.value, title = values.title, modal = this.domUtils.showModalLoading('core.sending', true);
+        var promise, text = values.text;
+        text = this.textUtils.restorePluginfileUrls(text, this.subwikiFiles);
+        text = this.textUtils.formatHtmlLines(text);
+        if (this.editing) {
+            // Edit existing page.
+            promise = this.wikiProvider.editPage(this.pageId, text, this.section).then(function () {
+                // Invalidate page since it changed.
+                return _this.wikiProvider.invalidatePage(_this.pageId).then(function () {
+                    return _this.gotoPage(title);
+                });
+            });
+        }
+        else {
+            // Creating a new page.
+            if (!title) {
+                // Title is mandatory, stop.
+                this.domUtils.showAlert(this.translate.instant('core.notice'), this.translate.instant('addon.mod_wiki.titleshouldnotbeempty'));
+                modal.dismiss();
+                return;
+            }
+            if (!this.editOffline) {
+                // Check if the user has an offline page with the same title.
+                promise = this.wikiOffline.getNewPage(title, this.subwikiId, this.wikiId, this.userId, this.groupId).then(function () {
+                    // There's a page with same name, reject with error message.
+                    return Promise.reject(_this.translate.instant('addon.mod_wiki.pageexists'));
+                }, function () {
+                    // Not found, page can be sent.
+                });
+            }
+            else {
+                promise = Promise.resolve();
+            }
+            promise = promise.then(function () {
+                // Try to send the page.
+                var wikiId = _this.wikiId || (_this.module && _this.module.instance);
+                return _this.wikiProvider.newPage(title, text, _this.subwikiId, wikiId, _this.userId, _this.groupId).then(function (id) {
+                    if (id > 0) {
+                        // Page was created, get its data and go to the page.
+                        _this.pageId = id;
+                        return _this.wikiProvider.getPageContents(_this.pageId).then(function (pageContents) {
+                            var promises = [];
+                            wikiId = parseInt(pageContents.wikiid, 10);
+                            if (!_this.subwikiId) {
+                                // Subwiki was not created, invalidate subwikis as well.
+                                promises.push(_this.wikiProvider.invalidateSubwikis(wikiId));
+                            }
+                            _this.subwikiId = parseInt(pageContents.subwikiid, 10);
+                            _this.userId = parseInt(pageContents.userid, 10);
+                            _this.groupId = parseInt(pageContents.groupid, 10);
+                            // Invalidate subwiki pages since there are new.
+                            promises.push(_this.wikiProvider.invalidateSubwikiPages(wikiId));
+                            return Promise.all(promises).then(function () {
+                                return _this.gotoPage(title);
+                            });
+                        }).finally(function () {
+                            // Notify page created.
+                            _this.eventsProvider.trigger(wiki["a" /* AddonModWikiProvider */].PAGE_CREATED_EVENT, {
+                                pageId: _this.pageId,
+                                subwikiId: _this.subwikiId,
+                                pageTitle: title,
+                            }, _this.sitesProvider.getCurrentSiteId());
+                        });
+                    }
+                    else {
+                        // Page stored in offline. Go to see the offline page.
+                        _this.goToNewOfflinePage(title);
+                    }
+                });
+            });
+        }
+        return promise.catch(function (error) {
+            _this.domUtils.showErrorModalDefault(error, 'Error saving wiki data.');
+        }).finally(function () {
+            modal.dismiss();
+        });
+    };
+    /**
+     * Renew lock and control versions.
+     */
+    AddonModWikiEditPage.prototype.renewLock = function () {
+        var _this = this;
+        this.wikiProvider.getPageForEditing(this.pageId, this.section, true).then(function (response) {
+            if (response.version && _this.version != response.version) {
+                _this.wrongVersionLock = true;
+            }
+        });
+    };
+    /**
+     * Fetch module information to redirect when needed.
+     *
+     * @param {number} wikiId Wiki ID.
+     * @return {Promise<any>} Promise resolved when done.
+     */
+    AddonModWikiEditPage.prototype.retrieveModuleInfo = function (wikiId) {
+        var _this = this;
+        if (this.module.id && this.courseId) {
+            // We have enough data.
+            return Promise.resolve();
+        }
+        var promise = this.module.id ? Promise.resolve(this.module) :
+            this.courseProvider.getModuleBasicInfoByInstance(wikiId, 'wiki');
+        return promise.then(function (mod) {
+            _this.module = mod;
+            _this.componentId = _this.module.id;
+            if (!_this.courseId && _this.module.course) {
+                _this.courseId = _this.module.course;
+            }
+            else if (!_this.courseId) {
+                return _this.courseHelper.getModuleCourseIdByInstance(wikiId, 'wiki').then(function (course) {
+                    _this.courseId = course;
+                });
+            }
+        });
+    };
+    /**
+     * Component being destroyed.
+     */
+    AddonModWikiEditPage.prototype.ngOnDestroy = function () {
+        this.isDestroyed = true;
+        clearInterval(this.renewLockInterval);
+        // Unblock the subwiki.
+        if (this.blockId) {
+            this.syncProvider.unblockOperation(this.component, this.blockId);
+        }
+    };
+    AddonModWikiEditPage = __decorate([
+        Object(core["m" /* Component */])({
+            selector: 'page-addon-mod-wiki-edit',
+            templateUrl: 'edit.html',
+        }),
+        __metadata("design:paramtypes", [ionic_angular["t" /* NavParams */], esm5_forms["d" /* FormBuilder */], ionic_angular["s" /* NavController */], sites["a" /* CoreSitesProvider */],
+            sync["a" /* CoreSyncProvider */], dom["a" /* CoreDomUtilsProvider */],
+            _ngx_translate_core["c" /* TranslateService */], course["a" /* CoreCourseProvider */],
+            events["a" /* CoreEventsProvider */], wiki["a" /* AddonModWikiProvider */],
+            wiki_offline["a" /* AddonModWikiOfflineProvider */], wiki_sync["a" /* AddonModWikiSyncProvider */],
+            utils_text["a" /* CoreTextUtilsProvider */], helper["a" /* CoreCourseHelperProvider */]])
+    ], AddonModWikiEditPage);
+    return AddonModWikiEditPage;
+}());
+
+//# sourceMappingURL=edit.js.map
+// CONCATENATED MODULE: ./src/addon/mod/wiki/pages/edit/edit.module.ts
+// (C) Copyright 2015 Martin Dougiamas
+//
+// Licensed under the Apache License, Version 2.0 (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+//
+//     http://www.apache.org/licenses/LICENSE-2.0
+//
+// Unless required by applicable law or agreed to in writing, software
+// distributed under the License is distributed on an "AS IS" BASIS,
+// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+// See the License for the specific language governing permissions and
+// limitations under the License.
+var edit_module___decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+    return c > 3 && r && Object.defineProperty(target, key, r), r;
+};
+
+
+
+
+
+
+var edit_module_AddonModWikiEditPageModule = /** @class */ (function () {
+    function AddonModWikiEditPageModule() {
+    }
+    AddonModWikiEditPageModule = edit_module___decorate([
+        Object(core["I" /* NgModule */])({
+            declarations: [
+                edit_AddonModWikiEditPage,
+            ],
+            imports: [
+                components_module["a" /* CoreComponentsModule */],
+                directives_module["a" /* CoreDirectivesModule */],
+                ionic_angular["l" /* IonicPageModule */].forChild(edit_AddonModWikiEditPage),
+                _ngx_translate_core["b" /* TranslateModule */].forChild()
+            ],
+        })
+    ], AddonModWikiEditPageModule);
+    return AddonModWikiEditPageModule;
+}());
+
+//# sourceMappingURL=edit.module.js.map
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/action-sheet/action-sheet-component.ngfactory.js
+var action_sheet_component_ngfactory = __webpack_require__(1471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/alert/alert-component.ngfactory.js
+var alert_component_ngfactory = __webpack_require__(1472);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app-root.ngfactory.js
+var app_root_ngfactory = __webpack_require__(1473);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/loading/loading-component.ngfactory.js
+var loading_component_ngfactory = __webpack_require__(1474);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/modal/modal-component.ngfactory.js
+var modal_component_ngfactory = __webpack_require__(1475);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/picker/picker-component.ngfactory.js + 1 modules
+var picker_component_ngfactory = __webpack_require__(1476);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/popover/popover-component.ngfactory.js
+var popover_component_ngfactory = __webpack_require__(1477);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/select/select-popover-component.ngfactory.js
+var select_popover_component_ngfactory = __webpack_require__(1478);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toast/toast-component.ngfactory.js
+var toast_component_ngfactory = __webpack_require__(1479);
+
+// EXTERNAL MODULE: ./src/components/context-menu/context-menu-popover.ngfactory.js
+var context_menu_popover_ngfactory = __webpack_require__(1480);
+
+// EXTERNAL MODULE: ./src/components/course-picker-menu/course-picker-menu-popover.ngfactory.js
+var course_picker_menu_popover_ngfactory = __webpack_require__(1481);
+
+// EXTERNAL MODULE: ./src/components/recaptcha/recaptchamodal.ngfactory.js
+var recaptchamodal_ngfactory = __webpack_require__(1482);
+
+// EXTERNAL MODULE: ./src/components/bs-tooltip/bs-tooltip.ngfactory.js
+var bs_tooltip_ngfactory = __webpack_require__(1483);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.ngfactory.js + 1 modules
+var item_ngfactory = __webpack_require__(30);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item.js
+var item = __webpack_require__(21);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/form.js
+var util_form = __webpack_require__(20);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/config/config.js
+var config = __webpack_require__(7);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-reorder.js + 1 modules
+var item_reorder = __webpack_require__(28);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/item/item-content.js
+var item_content = __webpack_require__(32);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/input/input.ngfactory.js
+var input_ngfactory = __webpack_require__(104);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/input/input.js
+var input = __webpack_require__(84);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/platform.js + 1 modules
+var platform = __webpack_require__(16);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/app/app.js + 3 modules
+var app = __webpack_require__(34);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.js
+var content_content = __webpack_require__(26);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/dom-controller.js
+var dom_controller = __webpack_require__(33);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.pipe.js
+var translate_pipe = __webpack_require__(27);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.service.js
+var translate_service = __webpack_require__(18);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/badge/badge.js
+var badge = __webpack_require__(142);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-header.js
+var toolbar_header = __webpack_require__(365);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/view-controller.js
+var view_controller = __webpack_require__(38);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.ngfactory.js
+var navbar_ngfactory = __webpack_require__(713);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/navbar.js
+var navbar = __webpack_require__(209);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-controller.js
+var nav_controller = __webpack_require__(19);
+
+// EXTERNAL MODULE: ./src/directives/back-button.ts
+var back_button = __webpack_require__(471);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.ngfactory.js
+var toolbar_title_ngfactory = __webpack_require__(714);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-title.js
+var toolbar_title = __webpack_require__(309);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar.js
+var toolbar = __webpack_require__(245);
+
+// EXTERNAL MODULE: ./src/directives/format-text.ts
+var format_text = __webpack_require__(41);
+
+// EXTERNAL MODULE: ./src/providers/utils/utils.ts
+var utils = __webpack_require__(2);
+
+// EXTERNAL MODULE: ./src/providers/utils/url.ts
+var url = __webpack_require__(23);
+
+// EXTERNAL MODULE: ./src/providers/logger.ts
+var logger = __webpack_require__(5);
+
+// EXTERNAL MODULE: ./src/providers/filepool.ts
+var filepool = __webpack_require__(17);
+
+// EXTERNAL MODULE: ./src/providers/app.ts
+var providers_app = __webpack_require__(9);
+
+// EXTERNAL MODULE: ./src/core/contentlinks/providers/helper.ts
+var providers_helper = __webpack_require__(13);
+
+// EXTERNAL MODULE: ./src/components/split-view/split-view.ts
+var split_view = __webpack_require__(25);
+
+// EXTERNAL MODULE: ./src/providers/utils/iframe.ts
+var iframe = __webpack_require__(37);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/toolbar/toolbar-item.js
+var toolbar_item = __webpack_require__(366);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.ngfactory.js
+var button_ngfactory = __webpack_require__(44);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/button/button.js
+var button_button = __webpack_require__(42);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/components/content/content.ngfactory.js
+var content_ngfactory = __webpack_require__(178);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/platform/keyboard.js
+var keyboard = __webpack_require__(101);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ngfactory.js
+var loading_ngfactory = __webpack_require__(50);
+
+// EXTERNAL MODULE: ./src/components/loading/loading.ts
+var loading = __webpack_require__(47);
+
+// EXTERNAL MODULE: ./node_modules/@angular/common/esm5/common.js
+var common = __webpack_require__(8);
+
+// EXTERNAL MODULE: ./src/components/rich-text-editor/rich-text-editor.ngfactory.js
+var rich_text_editor_ngfactory = __webpack_require__(310);
+
+// EXTERNAL MODULE: ./src/components/rich-text-editor/rich-text-editor.ts
+var rich_text_editor = __webpack_require__(247);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-params.js
+var nav_params = __webpack_require__(71);
+
+// CONCATENATED MODULE: ./src/addon/mod/wiki/pages/edit/edit.ngfactory.js
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var styles_AddonModWikiEditPage = [];
+var RenderType_AddonModWikiEditPage = core["_29" /* ɵcrt */]({ encapsulation: 2, styles: styles_AddonModWikiEditPage, data: {} });
+
+function View_AddonModWikiEditPage_1(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 13, "ion-item", [["class", "item-title item item-block"], ["text-wrap", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 2, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 3, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 4, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 3, 5, "ion-input", [["name", "title"], ["type", "text"]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], null, null, input_ngfactory["b" /* View_TextInput_0 */], input_ngfactory["a" /* RenderType_TextInput */])), core["_30" /* ɵdid */](8, 671744, null, 0, esm5_forms["f" /* FormControlName */], [[3, esm5_forms["b" /* ControlContainer */]], [8, null], [8, null], [8, null]], { name: [0, "name"] }, null), core["_50" /* ɵprd */](2048, null, esm5_forms["m" /* NgControl */], null, [esm5_forms["f" /* FormControlName */]]), core["_30" /* ɵdid */](10, 16384, null, 0, esm5_forms["n" /* NgControlStatus */], [esm5_forms["m" /* NgControl */]], null, null), core["_30" /* ɵdid */](11, 5423104, null, 0, input["a" /* TextInput */], [config["a" /* Config */], platform["a" /* Platform */], util_form["a" /* Form */], app["a" /* App */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, content_content["a" /* Content */]], [2, item["a" /* Item */]], [2, esm5_forms["m" /* NgControl */]], dom_controller["a" /* DomController */]], { type: [0, "type"], placeholder: [1, "placeholder"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_7 = "title"; _ck(_v, 8, 0, currVal_7); var currVal_8 = "text"; var currVal_9 = core["_56" /* ɵunv */](_v, 11, 1, core["_44" /* ɵnov */](_v, 12).transform("addon.mod_wiki.newpagetitle")); _ck(_v, 11, 0, currVal_8, currVal_9); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 10).ngClassUntouched; var currVal_1 = core["_44" /* ɵnov */](_v, 10).ngClassTouched; var currVal_2 = core["_44" /* ɵnov */](_v, 10).ngClassPristine; var currVal_3 = core["_44" /* ɵnov */](_v, 10).ngClassDirty; var currVal_4 = core["_44" /* ɵnov */](_v, 10).ngClassValid; var currVal_5 = core["_44" /* ɵnov */](_v, 10).ngClassInvalid; var currVal_6 = core["_44" /* ɵnov */](_v, 10).ngClassPending; _ck(_v, 7, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5, currVal_6); }); }
+function View_AddonModWikiEditPage_2(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 11, "ion-item", [["class", "addon-mod_wiki-wrongversionlock item item-block"], ["text-center", ""]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](1, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 8, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 9, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 10, { _icons: 1 }), core["_30" /* ɵdid */](5, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 2, 3, "ion-badge", [["color", "danger"], ["padding", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](8, 16384, null, 0, badge["a" /* Badge */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { color: [0, "color"] }, null), (_l()(), core["_55" /* ɵted */](9, null, ["", ""])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "]))], function (_ck, _v) { var currVal_0 = "danger"; _ck(_v, 8, 0, currVal_0); }, function (_ck, _v) { var currVal_1 = core["_56" /* ɵunv */](_v, 9, 0, core["_44" /* ɵnov */](_v, 10).transform("addon.mod_wiki.wrongversionlock")); _ck(_v, 9, 0, currVal_1); }); }
+function View_AddonModWikiEditPage_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 23, "ion-header", [], null, null, null, null, null)), core["_30" /* ɵdid */](1, 16384, null, 0, toolbar_header["a" /* Header */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, view_controller["a" /* ViewController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n    "])), (_l()(), core["_31" /* ɵeld */](3, 0, null, null, 19, "ion-navbar", [["class", "toolbar"], ["core-back-button", ""]], [[8, "hidden", 0], [2, "statusbar-padding", null]], null, null, navbar_ngfactory["b" /* View_Navbar_0 */], navbar_ngfactory["a" /* RenderType_Navbar */])), core["_30" /* ɵdid */](4, 49152, null, 0, navbar["a" /* Navbar */], [app["a" /* App */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], null, null), core["_30" /* ɵdid */](5, 212992, null, 0, back_button["a" /* CoreBackButtonDirective */], [navbar["a" /* Navbar */], platform["a" /* Platform */], translate_service["a" /* TranslateService */], events["a" /* CoreEventsProvider */]], null, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n        "])), (_l()(), core["_31" /* ɵeld */](7, 0, null, 3, 3, "ion-title", [], null, null, null, toolbar_title_ngfactory["b" /* View_ToolbarTitle_0 */], toolbar_title_ngfactory["a" /* RenderType_ToolbarTitle */])), core["_30" /* ɵdid */](8, 49152, null, 0, toolbar_title["a" /* ToolbarTitle */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), (_l()(), core["_31" /* ɵeld */](9, 0, null, 0, 1, "core-format-text", [], null, null, null, null, null)), core["_30" /* ɵdid */](10, 540672, null, 0, format_text["a" /* CoreFormatTextDirective */], [core["t" /* ElementRef */], sites["a" /* CoreSitesProvider */], dom["a" /* CoreDomUtilsProvider */], utils_text["a" /* CoreTextUtilsProvider */], translate_service["a" /* TranslateService */], platform["a" /* Platform */], utils["a" /* CoreUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], logger["a" /* CoreLoggerProvider */], filepool["a" /* CoreFilepoolProvider */], providers_app["a" /* CoreAppProvider */], providers_helper["a" /* CoreContentLinksHelperProvider */], [2, nav_controller["a" /* NavController */]], [2, content_content["a" /* Content */]], [2, split_view["a" /* CoreSplitViewComponent */]], iframe["a" /* CoreIframeUtilsProvider */], events["a" /* CoreEventsProvider */]], { text: [0, "text"] }, null), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n\n        "])), (_l()(), core["_31" /* ɵeld */](12, 0, null, 2, 9, "ion-buttons", [["end", ""]], null, null, null, null, null)), core["_30" /* ɵdid */](13, 16384, null, 1, toolbar_item["a" /* ToolbarItem */], [config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, toolbar["a" /* Toolbar */]], [2, navbar["a" /* Navbar */]]], null, null), core["_52" /* ɵqud */](603979776, 1, { _buttons: 1 }), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_31" /* ɵeld */](16, 0, null, null, 4, "button", [["clear", ""], ["ion-button", ""]], [[1, "aria-label", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.save() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, button_ngfactory["b" /* View_Button_0 */], button_ngfactory["a" /* RenderType_Button */])), core["_30" /* ɵdid */](17, 1097728, [[1, 4]], 0, button_button["a" /* Button */], [[8, ""], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */]], { clear: [0, "clear"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](19, 0, ["\n                ", "\n            "])), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 3, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"])), (_l()(), core["_31" /* ɵeld */](25, 0, null, null, 31, "ion-content", [], [[2, "statusbar-padding", null], [2, "has-refresher", null]], null, null, content_ngfactory["b" /* View_Content_0 */], content_ngfactory["a" /* RenderType_Content */])), core["_30" /* ɵdid */](26, 4374528, null, 0, content_content["a" /* Content */], [config["a" /* Config */], platform["a" /* Platform */], dom_controller["a" /* DomController */], core["t" /* ElementRef */], core["V" /* Renderer */], app["a" /* App */], keyboard["a" /* Keyboard */], core["M" /* NgZone */], [2, view_controller["a" /* ViewController */]], [2, nav_controller["a" /* NavController */]]], null, null), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n    "])), (_l()(), core["_31" /* ɵeld */](28, 0, null, 1, 27, "core-loading", [], null, null, null, loading_ngfactory["b" /* View_CoreLoadingComponent_0 */], loading_ngfactory["a" /* RenderType_CoreLoadingComponent */])), core["_30" /* ɵdid */](29, 638976, null, 0, loading["a" /* CoreLoadingComponent */], [translate_service["a" /* TranslateService */], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */]], { hideUntil: [0, "hideUntil"] }, null), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n        "])), (_l()(), core["_31" /* ɵeld */](31, 0, null, 0, 23, "form", [["ion-list", ""], ["novalidate", ""]], [[2, "ng-untouched", null], [2, "ng-touched", null], [2, "ng-pristine", null], [2, "ng-dirty", null], [2, "ng-valid", null], [2, "ng-invalid", null], [2, "ng-pending", null]], [[null, "submit"], [null, "reset"]], function (_v, en, $event) { var ad = true; if (("submit" === en)) {
+        var pd_0 = (core["_44" /* ɵnov */](_v, 33).onSubmit($event) !== false);
+        ad = (pd_0 && ad);
+    } if (("reset" === en)) {
+        var pd_1 = (core["_44" /* ɵnov */](_v, 33).onReset() !== false);
+        ad = (pd_1 && ad);
+    } return ad; }, null, null)), core["_30" /* ɵdid */](32, 16384, null, 0, esm5_forms["w" /* ɵbf */], [], null, null), core["_30" /* ɵdid */](33, 540672, null, 0, esm5_forms["h" /* FormGroupDirective */], [[8, null], [8, null]], { form: [0, "form"] }, null), core["_50" /* ɵprd */](2048, null, esm5_forms["b" /* ControlContainer */], null, [esm5_forms["h" /* FormGroupDirective */]]), core["_30" /* ɵdid */](35, 16384, null, 0, esm5_forms["o" /* NgControlStatusGroup */], [esm5_forms["b" /* ControlContainer */]], null, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonModWikiEditPage_1)), core["_30" /* ɵdid */](38, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_31" /* ɵeld */](40, 0, null, null, 10, "ion-item", [["class", "item item-block"]], null, null, null, item_ngfactory["b" /* View_Item_0 */], item_ngfactory["a" /* RenderType_Item */])), core["_30" /* ɵdid */](41, 1097728, null, 3, item["a" /* Item */], [util_form["a" /* Form */], config["a" /* Config */], core["t" /* ElementRef */], core["V" /* Renderer */], [2, item_reorder["a" /* ItemReorder */]]], null, null), core["_52" /* ɵqud */](335544320, 5, { contentLabel: 0 }), core["_52" /* ɵqud */](603979776, 6, { _buttons: 1 }), core["_52" /* ɵqud */](603979776, 7, { _icons: 1 }), core["_30" /* ɵdid */](45, 16384, null, 0, item_content["a" /* ItemContent */], [], null, null), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n                "])), (_l()(), core["_31" /* ɵeld */](47, 0, null, 3, 2, "core-rich-text-editor", [["item-content", ""], ["name", "wiki_page_content"]], null, null, null, rich_text_editor_ngfactory["b" /* View_CoreRichTextEditorComponent_0 */], rich_text_editor_ngfactory["a" /* RenderType_CoreRichTextEditorComponent */])), core["_30" /* ɵdid */](48, 1228800, null, 0, rich_text_editor["a" /* CoreRichTextEditorComponent */], [dom["a" /* CoreDomUtilsProvider */], url["a" /* CoreUrlUtilsProvider */], sites["a" /* CoreSitesProvider */], filepool["a" /* CoreFilepoolProvider */], [2, content_content["a" /* Content */]], core["t" /* ElementRef */], events["a" /* CoreEventsProvider */], utils["a" /* CoreUtilsProvider */], platform["a" /* Platform */]], { placeholder: [0, "placeholder"], control: [1, "control"], name: [2, "name"], component: [3, "component"], componentId: [4, "componentId"] }, null), core["_47" /* ɵpid */](131072, translate_pipe["a" /* TranslatePipe */], [translate_service["a" /* TranslateService */], core["j" /* ChangeDetectorRef */]]), (_l()(), core["_55" /* ɵted */](-1, 2, ["\n            "])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n\n            "])), (_l()(), core["_26" /* ɵand */](16777216, null, null, 1, null, View_AddonModWikiEditPage_2)), core["_30" /* ɵdid */](53, 16384, null, 0, common["k" /* NgIf */], [core["_11" /* ViewContainerRef */], core["_6" /* TemplateRef */]], { ngIf: [0, "ngIf"] }, null), (_l()(), core["_55" /* ɵted */](-1, null, ["\n        "])), (_l()(), core["_55" /* ɵted */](-1, 0, ["\n    "])), (_l()(), core["_55" /* ɵted */](-1, 1, ["\n"])), (_l()(), core["_55" /* ɵted */](-1, null, ["\n"]))], function (_ck, _v) { var _co = _v.component; _ck(_v, 5, 0); var currVal_2 = _co.title; _ck(_v, 10, 0, currVal_2); var currVal_4 = ""; _ck(_v, 17, 0, currVal_4); var currVal_8 = _co.loaded; _ck(_v, 29, 0, currVal_8); var currVal_16 = _co.pageForm; _ck(_v, 33, 0, currVal_16); var currVal_17 = _co.canEditTitle; _ck(_v, 38, 0, currVal_17); var currVal_18 = core["_56" /* ɵunv */](_v, 48, 0, core["_44" /* ɵnov */](_v, 49).transform("core.content")); var currVal_19 = _co.contentControl; var currVal_20 = "wiki_page_content"; var currVal_21 = _co.component; var currVal_22 = _co.componentId; _ck(_v, 48, 0, currVal_18, currVal_19, currVal_20, currVal_21, currVal_22); var currVal_23 = _co.wrongVersionLock; _ck(_v, 53, 0, currVal_23); }, function (_ck, _v) { var currVal_0 = core["_44" /* ɵnov */](_v, 4)._hidden; var currVal_1 = core["_44" /* ɵnov */](_v, 4)._sbPadding; _ck(_v, 3, 0, currVal_0, currVal_1); var currVal_3 = core["_56" /* ɵunv */](_v, 16, 0, core["_44" /* ɵnov */](_v, 18).transform("core.save")); _ck(_v, 16, 0, currVal_3); var currVal_5 = core["_56" /* ɵunv */](_v, 19, 0, core["_44" /* ɵnov */](_v, 20).transform("core.save")); _ck(_v, 19, 0, currVal_5); var currVal_6 = core["_44" /* ɵnov */](_v, 26).statusbarPadding; var currVal_7 = core["_44" /* ɵnov */](_v, 26)._hasRefresher; _ck(_v, 25, 0, currVal_6, currVal_7); var currVal_9 = core["_44" /* ɵnov */](_v, 35).ngClassUntouched; var currVal_10 = core["_44" /* ɵnov */](_v, 35).ngClassTouched; var currVal_11 = core["_44" /* ɵnov */](_v, 35).ngClassPristine; var currVal_12 = core["_44" /* ɵnov */](_v, 35).ngClassDirty; var currVal_13 = core["_44" /* ɵnov */](_v, 35).ngClassValid; var currVal_14 = core["_44" /* ɵnov */](_v, 35).ngClassInvalid; var currVal_15 = core["_44" /* ɵnov */](_v, 35).ngClassPending; _ck(_v, 31, 0, currVal_9, currVal_10, currVal_11, currVal_12, currVal_13, currVal_14, currVal_15); }); }
+function View_AddonModWikiEditPage_Host_0(_l) { return core["_57" /* ɵvid */](0, [(_l()(), core["_31" /* ɵeld */](0, 0, null, null, 1, "page-addon-mod-wiki-edit", [], null, null, null, View_AddonModWikiEditPage_0, RenderType_AddonModWikiEditPage)), core["_30" /* ɵdid */](1, 245760, null, 0, edit_AddonModWikiEditPage, [nav_params["a" /* NavParams */], esm5_forms["d" /* FormBuilder */], nav_controller["a" /* NavController */], sites["a" /* CoreSitesProvider */], sync["a" /* CoreSyncProvider */], dom["a" /* CoreDomUtilsProvider */], translate_service["a" /* TranslateService */], course["a" /* CoreCourseProvider */], events["a" /* CoreEventsProvider */], wiki["a" /* AddonModWikiProvider */], wiki_offline["a" /* AddonModWikiOfflineProvider */], wiki_sync["a" /* AddonModWikiSyncProvider */], utils_text["a" /* CoreTextUtilsProvider */], helper["a" /* CoreCourseHelperProvider */]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var AddonModWikiEditPageNgFactory = core["_27" /* ɵccf */]("page-addon-mod-wiki-edit", edit_AddonModWikiEditPage, View_AddonModWikiEditPage_Host_0, {}, {}, []);
+
+//# sourceMappingURL=edit.ngfactory.js.map
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.loader.js
+var translate_loader = __webpack_require__(361);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.compiler.js
+var translate_compiler = __webpack_require__(362);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.parser.js
+var translate_parser = __webpack_require__(364);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/missing-translation-handler.js
+var missing_translation_handler = __webpack_require__(363);
+
+// EXTERNAL MODULE: ./node_modules/@ngx-translate/core/src/translate.store.js
+var translate_store = __webpack_require__(470);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/module.js
+var ionic_angular_module = __webpack_require__(712);
+
+// EXTERNAL MODULE: ./src/pipes/pipes.module.ts + 2 modules
+var pipes_module = __webpack_require__(109);
+
+// EXTERNAL MODULE: ./node_modules/ionic-angular/util/module-loader.js
+var module_loader = __webpack_require__(269);
+
+// CONCATENATED MODULE: ./src/addon/mod/wiki/pages/edit/edit.module.ngfactory.js
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "AddonModWikiEditPageModuleNgFactory", function() { return AddonModWikiEditPageModuleNgFactory; });
+/**
+ * @fileoverview This file was generated by the Angular template compiler. Do not edit.
+ *
+ * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes}
+ * tslint:disable
+ */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var AddonModWikiEditPageModuleNgFactory = core["_28" /* ɵcmf */](edit_module_AddonModWikiEditPageModule, [], function (_l) { return core["_40" /* ɵmod */]([core["_41" /* ɵmpd */](512, core["o" /* ComponentFactoryResolver */], core["_21" /* ɵCodegenComponentFactoryResolver */], [[8, [action_sheet_component_ngfactory["a" /* ActionSheetCmpNgFactory */], alert_component_ngfactory["a" /* AlertCmpNgFactory */], app_root_ngfactory["a" /* IonicAppNgFactory */], loading_component_ngfactory["a" /* LoadingCmpNgFactory */], modal_component_ngfactory["a" /* ModalCmpNgFactory */], picker_component_ngfactory["a" /* PickerCmpNgFactory */], popover_component_ngfactory["a" /* PopoverCmpNgFactory */], select_popover_component_ngfactory["a" /* SelectPopoverNgFactory */], toast_component_ngfactory["a" /* ToastCmpNgFactory */], context_menu_popover_ngfactory["a" /* CoreContextMenuPopoverComponentNgFactory */], course_picker_menu_popover_ngfactory["a" /* CoreCoursePickerMenuPopoverComponentNgFactory */], recaptchamodal_ngfactory["a" /* CoreRecaptchaModalComponentNgFactory */], bs_tooltip_ngfactory["a" /* CoreBSTooltipComponentNgFactory */], AddonModWikiEditPageNgFactory]], [3, core["o" /* ComponentFactoryResolver */]], core["K" /* NgModuleRef */]]), core["_41" /* ɵmpd */](4608, common["m" /* NgLocalization */], common["l" /* NgLocaleLocalization */], [core["G" /* LOCALE_ID */], [2, common["w" /* ɵa */]]]), core["_41" /* ɵmpd */](4608, esm5_forms["x" /* ɵi */], esm5_forms["x" /* ɵi */], []), core["_41" /* ɵmpd */](4608, esm5_forms["d" /* FormBuilder */], esm5_forms["d" /* FormBuilder */], []), core["_41" /* ɵmpd */](4608, translate_loader["b" /* TranslateLoader */], translate_loader["a" /* TranslateFakeLoader */], []), core["_41" /* ɵmpd */](4608, translate_compiler["a" /* TranslateCompiler */], translate_compiler["b" /* TranslateFakeCompiler */], []), core["_41" /* ɵmpd */](4608, translate_parser["b" /* TranslateParser */], translate_parser["a" /* TranslateDefaultParser */], []), core["_41" /* ɵmpd */](4608, missing_translation_handler["b" /* MissingTranslationHandler */], missing_translation_handler["a" /* FakeMissingTranslationHandler */], []), core["_41" /* ɵmpd */](4608, translate_service["a" /* TranslateService */], translate_service["a" /* TranslateService */], [translate_store["a" /* TranslateStore */], translate_loader["b" /* TranslateLoader */], translate_compiler["a" /* TranslateCompiler */], translate_parser["b" /* TranslateParser */], missing_translation_handler["b" /* MissingTranslationHandler */], translate_service["b" /* USE_DEFAULT_LANG */], translate_service["c" /* USE_STORE */]]), core["_41" /* ɵmpd */](512, common["b" /* CommonModule */], common["b" /* CommonModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["v" /* ɵba */], esm5_forms["v" /* ɵba */], []), core["_41" /* ɵmpd */](512, esm5_forms["i" /* FormsModule */], esm5_forms["i" /* FormsModule */], []), core["_41" /* ɵmpd */](512, esm5_forms["s" /* ReactiveFormsModule */], esm5_forms["s" /* ReactiveFormsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["a" /* IonicModule */], ionic_angular_module["a" /* IonicModule */], []), core["_41" /* ɵmpd */](512, _ngx_translate_core["b" /* TranslateModule */], _ngx_translate_core["b" /* TranslateModule */], []), core["_41" /* ɵmpd */](512, directives_module["a" /* CoreDirectivesModule */], directives_module["a" /* CoreDirectivesModule */], []), core["_41" /* ɵmpd */](512, pipes_module["a" /* CorePipesModule */], pipes_module["a" /* CorePipesModule */], []), core["_41" /* ɵmpd */](512, components_module["a" /* CoreComponentsModule */], components_module["a" /* CoreComponentsModule */], []), core["_41" /* ɵmpd */](512, ionic_angular_module["b" /* IonicPageModule */], ionic_angular_module["b" /* IonicPageModule */], []), core["_41" /* ɵmpd */](512, edit_module_AddonModWikiEditPageModule, edit_module_AddonModWikiEditPageModule, []), core["_41" /* ɵmpd */](256, translate_service["c" /* USE_STORE */], undefined, []), core["_41" /* ɵmpd */](256, translate_service["b" /* USE_DEFAULT_LANG */], undefined, []), core["_41" /* ɵmpd */](256, module_loader["a" /* LAZY_LOADED_TOKEN */], edit_AddonModWikiEditPage, [])]); });
+
+//# sourceMappingURL=edit.module.ngfactory.js.map
+
+/***/ })
+
+});
+//# sourceMappingURL=80.js.map
