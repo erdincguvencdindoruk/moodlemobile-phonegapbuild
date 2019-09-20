@@ -37,7 +37,6 @@
         "kn": "ಕನ್ನಡ",
         "ko": "한국어",
         "lt": "Lietuvių",
-        "lv": "Latviešu",
         "mr": "मराठी",
         "nl": "Nederlands",
         "no": "Norsk - bokmål",
@@ -57,6 +56,18 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
+    "demo_sites": {
+        "student": {
+            "url": "https:\/\/school.moodledemo.net",
+            "username": "student",
+            "password": "moodle"
+        },
+        "teacher": {
+            "url": "https:\/\/school.moodledemo.net",
+            "username": "teacher",
+            "password": "moodle"
+        }
+    },
     "font_sizes": [
         62.5,
         75.89,
@@ -68,7 +79,7 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "",
+    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
     "notificoncolor": "#0A458B",
     "statusbarbg": false,
     "statusbarlighttext": false,
