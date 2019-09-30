@@ -1199,6 +1199,7 @@
     "core.login.usernotaddederror": "Kullanıcısı eklenemedi - hata",
     "core.login.webservicesnotenabled": "Sitenizin Web Hizmetleri ektin değildir. Mobil erişimin etkin olduğunu düşünüyrosanız. Moodle site yöneticinize başvurun.",
     "core.lostconnection": "Bağlantınızı kaybettik, yeniden bağlanmanız gerekiyor. Verileriniz artık geçerli değil.",
+	"core.mainmenu.appsettings": "Uygulama ayarları",
     "core.mainmenu.changesite": "Siteyi değiştir",
     "core.mainmenu.help": "Yardım",
     "core.mainmenu.logout": "Çıkış yap",
