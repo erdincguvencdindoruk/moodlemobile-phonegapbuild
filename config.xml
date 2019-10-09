@@ -3,9 +3,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.dracolms.demo001"
-        versionCode = "10300"
-        android-versionCode="10300"
-        version   = "1.0.3">
+        versionCode = "10400"
+        android-versionCode="10400"
+        version   = "1.0.4">
     <name>DracoLMS Mobil</name>
 
     <description>
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>1.0.3</string>
+        <string>1.0.4</string>
     </edit-config>
 
     <gap:platform name="ios" />
