@@ -1320,6 +1320,7 @@
     "core.sending": "Gönderiliyor",
     "core.serverconnection": "Sunucuya bağlanma hatası",
     "core.settings.about": "Hakkında",
+	"core.settings.applicationinfo": "Uygulama bilgisi",
     "core.settings.appready": "Uygulama hazır",
     "core.settings.currentlanguage": "Geçerli dil",
     "core.settings.debugdisplay": "Hata ayıklama mesajlarını göster",
