@@ -34,6 +34,7 @@
     "addon.block_privatefiles.pluginname": "Kişisel dosyalarım",
     "addon.block_recentactivity.pluginname": "Son Etkinlikler",
     "addon.block_recentlyaccessedcourses.pluginname": "Erişilen son dersler",
+	"addon.block_recentlyaccesseditems.noitems": "Yakın zamanda erişilen ders yok",
     "addon.block_rssclient.pluginname": "RSS İstemcisi",
     "addon.block_selfcompletion.pluginname": "Kendi kendine tamamlama",
     "addon.block_sitemainmenu.pluginname": "Ana menü",
