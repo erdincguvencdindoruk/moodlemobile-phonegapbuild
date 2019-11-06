@@ -1,9 +1,9 @@
 {
-    "app_id": "com.dracolms.demo001",
+    "app_id": "com.dracolms.development",
     "appname": "DracoLMS Mobil",
     "desktopappname": "DracoLMS",
-    "versioncode": 1060,
-    "versionname": "1.0.6",
+    "versioncode": 1010,
+    "versionname": "1.0.1",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
     "cache_update_frequency_sometimes": 3600000,
@@ -74,7 +74,7 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "http:\/\/www.dracotest.com\/demo001\/",
+    "siteurl": "http:\/\/www.dracolms.com\/development\/",
     "sitename": "DracoLMS",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
