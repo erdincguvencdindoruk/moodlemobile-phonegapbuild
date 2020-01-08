@@ -3,13 +3,13 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.dracolms.development"
-        versionCode = "10400"
-        android-versionCode="10400"
-        version   = "1.0.4">
-    <name>DracoLMS Mobil</name>
+        versionCode = "10100"
+        android-versionCode="10100"
+        version   = "1.0.1">
+    <name>Mango Academy</name>
 
     <description>
-        DracoLMS Mobil
+       Mango Academy
     </description>
 
     <author href="http://www.dracolex.com" email="destek@dracolex.com">
