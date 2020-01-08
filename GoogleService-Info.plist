@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>630633288604-g64monn3kvja80u96hfo5evo6e14n06n.apps.googleusercontent.com</string>
+	<string>1000449012875-nui51puvaragijgv8c1ak5k0846p9apq.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.630633288604-g64monn3kvja80u96hfo5evo6e14n06n</string>
+	<string>com.googleusercontent.apps.1000449012875-nui51puvaragijgv8c1ak5k0846p9apq</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDELDPi9y7n0kSAV6lMXyXG-BF1QaSCDmQ</string>
+	<string>AIzaSyCCZcMKbyLWDi7rzJZOujnJbmi8NK2JK4E</string>
 	<key>GCM_SENDER_ID</key>
-	<string>630633288604</string>
+	<string>1000449012875</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dracolms.development</string>
+	<string>com.dracolms.mango</string>
 	<key>PROJECT_ID</key>
-	<string>development-8dda4</string>
+	<string>mango-cc30c</string>
 	<key>STORAGE_BUCKET</key>
-	<string>development-8dda4.appspot.com</string>
+	<string>mango-cc30c.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:630633288604:ios:0a6fe32d8f09399ceaee59</string>
+	<string>1:1000449012875:ios:437b6a1f6cae2d19a2508e</string>
 	<key>DATABASE_URL</key>
-	<string>https://development-8dda4.firebaseio.com</string>
+	<string>https://mango-cc30c.firebaseio.com</string>
 </dict>
 </plist>

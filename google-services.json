@@ -1,35 +1,43 @@
 {
   "project_info": {
-    "project_number": "630633288604",
-    "firebase_url": "https://development-8dda4.firebaseio.com",
-    "project_id": "development-8dda4",
-    "storage_bucket": "development-8dda4.appspot.com"
+    "project_number": "1000449012875",
+    "firebase_url": "https://mango-cc30c.firebaseio.com",
+    "project_id": "mango-cc30c",
+    "storage_bucket": "mango-cc30c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:630633288604:android:f72038f1d306df51eaee59",
+        "mobilesdk_app_id": "1:1000449012875:android:fc93fe1ffe2056d9a2508e",
         "android_client_info": {
-          "package_name": "com.dracolms.development"
+          "package_name": "com.dracolms.mango"
         }
       },
       "oauth_client": [
         {
-          "client_id": "630633288604-147giksasbe78fmf8actntft6bbmf1ch.apps.googleusercontent.com",
+          "client_id": "1000449012875-41q2nov0fr2ugd0rfiq4op4vi2vga3lg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCLfpXaQdc3khIXE_Cbr2mD94HWI5sq-4U"
+          "current_key": "AIzaSyCt6oQTVNUIvetHdmdAId-myGgJoEauJAY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "630633288604-147giksasbe78fmf8actntft6bbmf1ch.apps.googleusercontent.com",
+              "client_id": "1000449012875-41q2nov0fr2ugd0rfiq4op4vi2vga3lg.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1000449012875-nui51puvaragijgv8c1ak5k0846p9apq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dracolms.mango",
+                "app_store_id": "1488428172"
+              }
             }
           ]
         }
