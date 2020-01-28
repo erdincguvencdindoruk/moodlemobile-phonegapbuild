@@ -2,14 +2,14 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.dracolms.development"
-        versionCode = "10400"
-        android-versionCode="10400"
-        version   = "1.0.4">
-    <name>DracoLMS Mobil</name>
+        id        = "com.dracolms.vakifyatirim"
+        versionCode = "10100"
+        android-versionCode="10100"
+        version   = "1.0.1">
+    <name>Vakif Yatırım Eğitim</name>
 
     <description>
-        DracoLMS Mobil
+        Vakif Yatırım Eğitim
     </description>
 
     <author href="http://www.dracolex.com" email="destek@dracolex.com">
@@ -17,7 +17,7 @@
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>1.0.4</string>
+        <string>1.0.1</string>
     </edit-config>
 
     <gap:platform name="ios" />
