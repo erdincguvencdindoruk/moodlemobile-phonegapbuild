@@ -1,35 +1,43 @@
 {
   "project_info": {
-    "project_number": "630633288604",
-    "firebase_url": "https://development-8dda4.firebaseio.com",
-    "project_id": "development-8dda4",
-    "storage_bucket": "development-8dda4.appspot.com"
+    "project_number": "535770204201",
+    "firebase_url": "https://vakifyatirim-9a476.firebaseio.com",
+    "project_id": "vakifyatirim-9a476",
+    "storage_bucket": "vakifyatirim-9a476.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:630633288604:android:f72038f1d306df51eaee59",
+        "mobilesdk_app_id": "1:535770204201:android:413d06f6b542e548cc7438",
         "android_client_info": {
-          "package_name": "com.dracolms.development"
+          "package_name": "com.dracolms.vakifyatirim"
         }
       },
       "oauth_client": [
         {
-          "client_id": "630633288604-147giksasbe78fmf8actntft6bbmf1ch.apps.googleusercontent.com",
+          "client_id": "535770204201-66023o0d436e4pmsuf8im21ukk8f7vt4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCLfpXaQdc3khIXE_Cbr2mD94HWI5sq-4U"
+          "current_key": "AIzaSyD2AqFe2zeXmblevixyUAkMlM4fttNUtuM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "630633288604-147giksasbe78fmf8actntft6bbmf1ch.apps.googleusercontent.com",
+              "client_id": "535770204201-66023o0d436e4pmsuf8im21ukk8f7vt4.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "535770204201-7va2k1e38p1qec14745lotj13eol1pbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dracolms.vakifyatirim",
+                "app_store_id": "1488428172"
+              }
             }
           ]
         }

@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>630633288604-g64monn3kvja80u96hfo5evo6e14n06n.apps.googleusercontent.com</string>
+	<string>535770204201-7va2k1e38p1qec14745lotj13eol1pbe.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.630633288604-g64monn3kvja80u96hfo5evo6e14n06n</string>
+	<string>com.googleusercontent.apps.535770204201-7va2k1e38p1qec14745lotj13eol1pbe</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDELDPi9y7n0kSAV6lMXyXG-BF1QaSCDmQ</string>
+	<string>AIzaSyDm6I9erOE4jVcBTVsSkLgnL0ggR15mDDY</string>
 	<key>GCM_SENDER_ID</key>
-	<string>630633288604</string>
+	<string>535770204201</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dracolms.development</string>
+	<string>com.dracolms.vakifyatirim</string>
 	<key>PROJECT_ID</key>
-	<string>development-8dda4</string>
+	<string>vakifyatirim-9a476</string>
 	<key>STORAGE_BUCKET</key>
-	<string>development-8dda4.appspot.com</string>
+	<string>vakifyatirim-9a476.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:630633288604:ios:0a6fe32d8f09399ceaee59</string>
+	<string>1:535770204201:ios:3d968c0233c35ef4cc7438</string>
 	<key>DATABASE_URL</key>
-	<string>https://development-8dda4.firebaseio.com</string>
+	<string>https://vakifyatirim-9a476.firebaseio.com</string>
 </dict>
 </plist>
