@@ -1,7 +1,7 @@
 {
     "app_id": "com.dracolms.vakifyatirim",
-    "appname": "VakıfYatırım Eğitim",
-    "desktopappname": "VakıfYatırım Eğitim",
+    "appname": "VY Akademi",
+    "desktopappname": "VY Akademi",
     "versioncode": 1010,
     "versionname": "1.0.1",
     "cache_update_frequency_usually": 420000,
@@ -75,7 +75,7 @@
     ],
     "customurlscheme": "moodlemobile",
     "siteurl": "https:\/\/vakifyatirim.dracolms.com",
-    "sitename": "Vakıf Yatırım Eğitim",
+    "sitename": "VY Akademi",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
