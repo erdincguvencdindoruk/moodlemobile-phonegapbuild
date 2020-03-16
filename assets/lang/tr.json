@@ -1197,7 +1197,7 @@
     "core.login.forgotten": "Kullanıcı adı veya şifrenizi mi unuttunuz?",
     "core.login.getanothercaptcha": "Anlaşılmıyor, yeniden yükle",
     "core.login.help": "Yardım",
-    "core.login.helpmelogin": "<p>Dünyada binlerce Moodle Sitesi var. Bu uygulama sadece Moodle App girişine izin verilmiş olan Moodle Sitelerinde çalışır</><p> Eğer moodle sitenizle bağlantı kuramıyorsanız, Moodle yöneticinize başvurun nereyle bağlantı kuramıyorsanız, yöneticizle iletişime geçin ve şu linkteki açıklamaları okumasını isteyin <a href=\"http://docs.moodle.org/en/Mobile_app\" target=\"_blank\">http://docs.moodle.org/en/Mobile_app</a></p><p> Deneme yapmak için Moodle demo sitesinde ilgili alanlara <i>öğretmen</i> veya <i>öğrenci</i>içinde <i>Site URL</i> seçeneklerini girin ve ekle butonuna tıklayın",
+    "core.login.helpmelogin": "<p>DracoLMS uygulamasını kullanabilmek için DracoLMS adresinizi yazın ve 'Bağlan!' düğmesine tıklayın.</p>",
     "core.login.instructions": "Yönergeler",
     "core.login.invalidaccount": "Lütfen giriş bilgileriniz kontrol ediniz veya Site ayarlarını kontrol etmesi için yöneticinize başvurun.",
     "core.login.invaliddate": "Geçersiz tarih",
